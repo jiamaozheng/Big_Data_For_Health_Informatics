@@ -1,8 +1,8 @@
 import utils
 import pandas as pd 
 import numpy as np
-from sklearn.linear_model import LogisticRegression
-from sklearn.ensemble import RandomForestClassifier
+from sklearn.ensemble import AdaBoostClassifier
+
 #Note: You can reuse code that you wrote in etl.py and models.py and cross.py over here. It might help.
 
 '''
@@ -94,21 +94,15 @@ output: Y_pred
 def my_classifier_predictions(X_train,Y_train,X_test):
 	#TODO: complete this	
 	
-	rfc = RandomForestClassifier(n_estimators=5, max_depth=5, random_state=545510477)
-	rfc.fit(X_train.toarray(), Y_train)
-	return rfc.predict(X_test.toarray())
-	'''
-	logistic_reg = LogisticRegression(random_state=545510477)
-	logistic_reg.fit(X_train, Y_train)
-	return logistic_reg.predict(X_test)
-	'''
+	abc = AdaBoostClassifier(n_estimators=40, random_state=545510477)
+	abc.fit(X_train.toarray(), Y_train)
+	return abc.predict(X_test.toarray())
 
 def main():
 	
 	X_train, Y_train, X_test = my_features()
 	Y_pred = my_classifier_predictions(X_train,Y_train,X_test)
-	print Y_pred
-	#utils.generate_submission("../deliverables/test_features.txt", Y_pred)
+	utils.generate_submission("../deliverables/test_features.txt", Y_pred)
 	#The above function will generate a csv file of (patient_id,predicted label) and will be saved as "my_predictions.csv" in the deliverables folder.
 
 if __name__ == "__main__":

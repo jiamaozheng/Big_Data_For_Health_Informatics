@@ -24,3 +24,4 @@
 
 ##My Model
 
+I aggregated events by counting the diagnostics, medication, and lab events. Based on tests performed against features_svmlight.validate data, the Ada Boost ensemble algorithm achieved the best AUC. It fits a sequence of weak learners on repeatedly modified versions of the data. The results from these learners are assigning weights (higher for learners that more accurately predicted data and lower for those that were less accurate) and combined. I used 40 estimators in my model, achieving an AUC of approximately 77% (a 4% improvement from the SVM classifier)

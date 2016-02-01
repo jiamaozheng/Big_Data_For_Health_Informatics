@@ -12,11 +12,10 @@ import utils
 def logistic_regression_pred(X_train, Y_train, X_test):
 	#TODO: train a logistic regression classifier using X_train and Y_train. Use this to predict labels of X_test
 	#use default params for the classifier	
-
+	
 	logistic_reg = LogisticRegression(random_state=545510477)
 	logistic_reg.fit(X_train, Y_train)
 	return logistic_reg.predict(X_test)
-
 
 #input: X_train, Y_train and X_test
 #output: Y_pred
