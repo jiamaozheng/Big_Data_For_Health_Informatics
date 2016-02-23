@@ -1,0 +1,43 @@
+\documentclass[12pt]{article}
+
+\begin{document}
+
+\section{Logistic Regression}
+\subsection{Batch Gradient Descent}
+\textbf{a.}
+\begin{center}
+$NLL\left ( \mathit{w} \right ) = -\sum_{i=1}^{N} \left [ \left ( 1 - y_i \right ) \log(1-\sigma(\mathbf{w}^T\mathbf{x})) + y_i\log \sigma(\mathbf{w}^T\mathbf{x})  \right ]$ \end{center}
+\begin{center}
+$= -\sum_{i=1}^{N} [ y_i\mathbf{w}^T{\mathbf{x}} - \log(1 + e^{\mathbf{w}^T{\mathbf{x}}} )] $ 
+\end{center}
+\begin{center}
+$ \frac {\delta NLL(w)}{\delta \mathbf{w}} = -\sum_{i=1}^{N} \mathbf{x}(y_i - \sigma(\mathbf{w}^T\mathbf{x})) $
+\end{center}
+
+\subsection{Stochastic Gradient Descent}
+\textbf{a.}
+\begin{center}
+$l(w) = \left [ \left ( 1 - y_t \right ) \log(1-\sigma(\mathbf{w}^T\mathbf{x_t})) + y_t\log \sigma(\mathbf{w}^T\mathbf{x_t})  \right ]$
+\end{center}
+\textbf{b.}
+\begin{center}
+$w_t = w_t - \eta((y_t - \sigma(\mathbf{w}^T\mathbf{x_t}))x_t) $
+\end{center}
+\textbf{c.}
+\begin{center}
+$ O(n) $
+\end{center}
+\textbf{d.}
+\begin{center}
+Larger values make the ROC curve closer and closer to the dotted line where as smaller values push it farther away 
+\end{center}
+\textbf{e.}
+\begin{center}
+$w_t = w_t - \eta((y_t - \sigma(\mathbf{w}^T\mathbf{x_t}))x_t - \mu \|\mathbf{w}\|^2) $
+\end{center}
+\section
+\textbf{2.4 c.}
+\begin{center}
+The two curves appear to be the same 
+\end{center}
+\end{document}

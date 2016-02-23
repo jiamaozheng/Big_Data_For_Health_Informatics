@@ -1,0 +1,2787 @@
+19,DIAG433329,Closed fracture of second cervical vertebra,3396-08-21,1.0
+19,DIAG81902,Urinary tract infectious disease,3396-08-21,1.0
+19,DIAG74082,Acontractile detrusor,3396-08-21,1.0
+19,DIAG436539,Closed fracture of patella,3396-08-21,1.0
+19,DIAG80502,Osteoporosis,3396-08-21,1.0
+19,DIAG373995,Delirium,3396-08-21,1.0
+19,DIAG374009,Organic mental disorder,3396-08-21,1.0
+19,DIAG320128,Essential hypertension,3396-08-21,1.0
+19,DIAG321873,Carotid artery dissection,3396-08-21,1.0
+19,LAB3048529,Troponin T.cardiac [Mass/volume] in Blood,3396-08-21,0.040
+19,LAB3033236,Creatine kinase.MB [Mass/volume] in Blood,3396-08-21,5.000
+19,LAB3004905,Lipase [Enzymatic activity/volume] in Serum or Plasma,3396-08-21,22.000
+19,LAB3024128,Bilirubin.total [Mass/volume] in Serum or Plasma,3396-08-21,0.800
+19,LAB3016771,Amylase [Enzymatic activity/volume] in Serum or Plasma,3396-08-21,71.000
+19,LAB3001110,Alkaline phosphatase [Enzymatic activity/volume] in Blood,3396-08-21,85.000
+19,LAB3007220,Creatine kinase [Enzymatic activity/volume] in Serum or Plasma,3396-08-21,371.000
+19,LAB3013721,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma,3396-08-21,54.000
+19,LAB3006923,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,3396-08-21,33.000
+19,LAB3039000,Anion gap in Blood,3396-08-21,20.000
+19,LAB3016293,Bicarbonate [Moles/volume] in Serum,3396-08-21,22.000
+19,LAB3018572,Chloride [Moles/volume] in Blood,3396-08-21,101.000
+19,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,3396-08-21,5.400
+19,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,3396-08-21,138.000
+19,LAB3016723,Creatinine [Mass/volume] in Serum or Plasma,3396-08-21,1.500
+19,LAB3013682,Urea nitrogen [Mass/volume] in Serum or Plasma,3396-08-21,33.000
+19,LAB3004501,Glucose [Mass/volume] in Serum or Plasma,3396-08-21,161.000
+19,LAB3007461,Platelets [#/volume] in Blood,3396-08-21,230.000
+19,LAB3011987,Polychromasia [Presence] in Blood by Light microscopy,3396-08-21,
+19,LAB3025639,Microcytes [Presence] in Blood,3396-08-21,
+19,LAB3005707,Macrocytes [Presence] in Blood,3396-08-21,
+19,LAB3011368,Poikilocytosis [Presence] in Blood by Light microscopy,3396-08-21,
+19,LAB3038691,Anisocytosis [Presence] in Blood,3396-08-21,
+19,LAB3021303,Hypochromia [Presence] in Blood by Light microscopy,3396-08-21,
+19,LAB3022096,Basophils/100 leukocytes in Blood,3396-08-21,0.200
+19,LAB3006504,Eosinophils/100 leukocytes in Blood,3396-08-21,0.300
+19,LAB3019069,Monocytes/100 leukocytes in Blood,3396-08-21,2.600
+19,LAB3002030,Lymphocytes/100 leukocytes in Blood,3396-08-21,8.500
+19,LAB3004809,Neutrophils.band form/100 leukocytes in Blood,3396-08-21,
+19,LAB3017354,Neutrophils.segmented/100 leukocytes in Blood,3396-08-21,88.400
+19,LAB3002385,Erythrocyte distribution width [Ratio],3396-08-21,13.800
+19,LAB3003338,Erythrocyte mean corpuscular hemoglobin concentration [Mass/volume],3396-08-21,34.800
+19,LAB3035941,Erythrocyte mean corpuscular hemoglobin [Entitic mass],3396-08-21,30.000
+19,LAB3024731,Erythrocyte mean corpuscular volume [Entitic volume],3396-08-21,86.000
+19,LAB3009542,Hematocrit [Volume Fraction] of Blood,3396-08-21,42.900
+19,LAB3000963,Hemoglobin [Mass/volume] in Blood,3396-08-21,14.900
+19,LAB3026361,Erythrocytes [#/volume] in Blood,3396-08-21,4.980
+19,LAB3010813,Leukocytes [#/volume] in Blood,3396-08-21,14.800
+19,LAB3025478,Tricyclic antidepressants [Presence] in Serum or Plasma,3396-08-21,
+19,LAB3003132,Barbiturates [Presence] in Serum Plasma or Blood,3396-08-21,
+19,LAB3031951,Benzodiazepines [Presence] in Blood,3396-08-21,
+19,LAB3002617,Acetaminophen [Mass/volume] in Serum or Plasma,3396-08-21,
+19,LAB3025643,Ethanol [Mass/volume] in Blood,3396-08-21,
+19,LAB3019107,Acetylsalicylate [Mass/volume] in Serum or Plasma,3396-08-21,
+19,LAB3005456,Potassium [Moles/volume] in Blood,3396-08-21,4.800
+19,LAB3000285,Sodium [Moles/volume] in Blood,3396-08-21,137.000
+19,LAB3047181,Lactate [Moles/volume] in Blood,3396-08-21,2.700
+19,LAB3000483,Glucose [Mass/volume] in Blood,3396-08-21,155.000
+19,LAB3018572,Chloride [Moles/volume] in Blood,3396-08-21,101.000
+19,LAB3006576,Bicarbonate [Moles/volume] in Blood,3396-08-21,24.000
+19,LAB3000963,Hemoglobin [Mass/volume] in Blood,3396-08-21,14.600
+19,LAB3009542,Hematocrit [Volume Fraction] of Blood,3396-08-21,44.000
+19,LAB3016750,Collection duration of Urine,3396-08-21,
+19,LAB3027162,Color of Urine,3396-08-21,
+19,LAB3007876,Appearance of Urine,3396-08-21,
+19,LAB3000330,Specific gravity of Urine by Test strip,3396-08-21,1.020
+19,LAB3011397,Hemoglobin [Presence] in Urine by Test strip,3396-08-21,
+19,LAB3021601,Nitrite [Presence] in Urine by Test strip,3396-08-21,
+19,LAB3005897,Protein [Mass/volume] in Urine by Test strip,3396-08-21,
+19,LAB3020399,Glucose [Mass/volume] in Urine,3396-08-21,
+19,LAB3032459,Ketones [Mass/volume] in Urine,3396-08-21,
+19,LAB3011258,Bilirubin.total [Presence] in Urine,3396-08-21,
+19,LAB3007950,Urobilinogen [Mass/volume] in Urine,3396-08-21,
+19,LAB3015736,pH of Urine,3396-08-21,6.500
+19,LAB3045414,Leukocytes [Presence] in Urine,3396-08-21,
+19,LAB3035124,Erythrocytes [#/area] in Urine sediment by Microscopy high power field,3396-08-21,
+19,LAB3035583,Leukocytes [#/area] in Urine sediment by Microscopy high power field,3396-08-21,
+19,LAB3004562,Bacteria [Presence] in Urine sediment by Light microscopy,3396-08-21,
+19,LAB3000259,Yeast [Presence] in Urine sediment by Light microscopy,3396-08-21,
+19,LAB3010189,Epithelial cells [#/area] in Urine sediment by Microscopy high power field,3396-08-21,
+19,LAB3048529,Troponin T.cardiac [Mass/volume] in Blood,3396-08-21,0.050
+19,LAB3006906,Calcium [Mass/volume] in Serum or Plasma,3396-08-21,9.200
+19,LAB3011904,Phosphate [Mass/volume] in Serum or Plasma,3396-08-21,2.900
+19,LAB3001420,Magnesium [Mass/volume] in Serum or Plasma,3396-08-21,2.000
+19,LAB3023399,Thyrotropin [Units/volume] in Blood,3396-08-21,1.500
+19,LAB3002417,Prothrombin time (PT) in Blood by Coagulation assay,3396-08-21,13.600
+19,LAB3013466,Activated partial thromboplastin time (aPTT) in Blood by Coagulation assay,3396-08-21,29.200
+19,LAB3032080,INR in Blood by Coagulation assay,3396-08-21,1.200
+19,LAB3004501,Glucose [Mass/volume] in Serum or Plasma,3396-08-22,139.000
+19,LAB3003338,Erythrocyte mean corpuscular hemoglobin concentration [Mass/volume],3396-08-22,35.000
+19,LAB3035941,Erythrocyte mean corpuscular hemoglobin [Entitic mass],3396-08-22,29.700
+19,LAB3024731,Erythrocyte mean corpuscular volume [Entitic volume],3396-08-22,85.000
+19,LAB3009542,Hematocrit [Volume Fraction] of Blood,3396-08-22,36.500
+19,LAB3000963,Hemoglobin [Mass/volume] in Blood,3396-08-22,12.800
+19,LAB3026361,Erythrocytes [#/volume] in Blood,3396-08-22,4.290
+19,LAB3032080,INR in Blood by Coagulation assay,3396-08-22,1.300
+19,LAB3013466,Activated partial thromboplastin time (aPTT) in Blood by Coagulation assay,3396-08-22,30.400
+19,LAB3002417,Prothrombin time (PT) in Blood by Coagulation assay,3396-08-22,14.000
+19,LAB3007461,Platelets [#/volume] in Blood,3396-08-22,216.000
+19,LAB3002385,Erythrocyte distribution width [Ratio],3396-08-22,13.900
+19,LAB3010813,Leukocytes [#/volume] in Blood,3396-08-22,10.100
+19,LAB3001420,Magnesium [Mass/volume] in Serum or Plasma,3396-08-22,1.900
+19,LAB3011904,Phosphate [Mass/volume] in Serum or Plasma,3396-08-22,2.400
+19,LAB3006906,Calcium [Mass/volume] in Serum or Plasma,3396-08-22,8.900
+19,LAB3039000,Anion gap in Blood,3396-08-22,15.000
+19,LAB3016293,Bicarbonate [Moles/volume] in Serum,3396-08-22,22.000
+19,LAB3018572,Chloride [Moles/volume] in Blood,3396-08-22,105.000
+19,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,3396-08-22,4.200
+19,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,3396-08-22,138.000
+19,LAB3016723,Creatinine [Mass/volume] in Serum or Plasma,3396-08-22,1.200
+19,LAB3013682,Urea nitrogen [Mass/volume] in Serum or Plasma,3396-08-22,25.000
+19,LAB3016723,Creatinine [Mass/volume] in Serum or Plasma,3396-08-23,1.300
+19,LAB3013682,Urea nitrogen [Mass/volume] in Serum or Plasma,3396-08-23,20.000
+19,LAB3004501,Glucose [Mass/volume] in Serum or Plasma,3396-08-23,113.000
+19,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,3396-08-23,139.000
+19,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,3396-08-23,4.200
+19,LAB3018572,Chloride [Moles/volume] in Blood,3396-08-23,106.000
+19,LAB3016293,Bicarbonate [Moles/volume] in Serum,3396-08-23,21.000
+19,LAB3039000,Anion gap in Blood,3396-08-23,16.000
+19,LAB3006906,Calcium [Mass/volume] in Serum or Plasma,3396-08-23,8.700
+19,LAB3011904,Phosphate [Mass/volume] in Serum or Plasma,3396-08-23,2.300
+19,LAB3001420,Magnesium [Mass/volume] in Serum or Plasma,3396-08-23,2.100
+19,LAB3010813,Leukocytes [#/volume] in Blood,3396-08-23,8.000
+19,LAB3026361,Erythrocytes [#/volume] in Blood,3396-08-23,4.150
+19,LAB3000963,Hemoglobin [Mass/volume] in Blood,3396-08-23,12.300
+19,LAB3009542,Hematocrit [Volume Fraction] of Blood,3396-08-23,36.400
+19,LAB3024731,Erythrocyte mean corpuscular volume [Entitic volume],3396-08-23,88.000
+19,LAB3035941,Erythrocyte mean corpuscular hemoglobin [Entitic mass],3396-08-23,29.500
+19,LAB3003338,Erythrocyte mean corpuscular hemoglobin concentration [Mass/volume],3396-08-23,33.700
+19,LAB3002385,Erythrocyte distribution width [Ratio],3396-08-23,13.800
+19,LAB3007461,Platelets [#/volume] in Blood,3396-08-23,195.000
+19,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,3396-08-23,3.000
+19,LAB3027315,Oxygen [Partial pressure] in Blood,3396-08-23,116.000
+19,LAB3013290,Carbon dioxide [Partial pressure] in Blood,3396-08-23,36.000
+19,LAB3010421,pH of Blood,3396-08-23,7.410
+19,LAB3006576,Bicarbonate [Moles/volume] in Blood,3396-08-23,24.000
+19,LAB3012501,Base excess in Blood,3396-08-23,
+19,LAB3047181,Lactate [Moles/volume] in Blood,3396-08-23,1.200
+19,LAB3021119,Calcium.ionized [Moles/volume] in Blood,3396-08-23,1.200
+19,LAB3004501,Glucose [Mass/volume] in Serum or Plasma,3396-08-24,119.000
+19,LAB3013682,Urea nitrogen [Mass/volume] in Serum or Plasma,3396-08-24,19.000
+19,LAB3016723,Creatinine [Mass/volume] in Serum or Plasma,3396-08-24,1.300
+19,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,3396-08-24,141.000
+19,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,3396-08-24,4.100
+19,LAB3018572,Chloride [Moles/volume] in Blood,3396-08-24,106.000
+19,LAB3016293,Bicarbonate [Moles/volume] in Serum,3396-08-24,22.000
+19,LAB3039000,Anion gap in Blood,3396-08-24,17.000
+19,LAB3006906,Calcium [Mass/volume] in Serum or Plasma,3396-08-24,8.700
+19,LAB3011904,Phosphate [Mass/volume] in Serum or Plasma,3396-08-24,2.500
+19,LAB3002417,Prothrombin time (PT) in Blood by Coagulation assay,3396-08-24,13.700
+19,LAB3013466,Activated partial thromboplastin time (aPTT) in Blood by Coagulation assay,3396-08-24,29.800
+19,LAB3032080,INR in Blood by Coagulation assay,3396-08-24,1.200
+19,DRUG19055137,HEPARIN PORK,3396-08-24,1.0
+19,DRUG953076,Famotidine,3396-08-22,1.0
+19,DRUG1125315,Acetaminophen,3396-08-23,1.0
+19,DRUG791967,Lorazepam,3396-08-21,1.0
+19,DRUG1112807,Aspirin,3396-08-23,1.0
+19,DRUG1307046,Metoprolol,3396-08-22,1.0
+19,DRUG1742253,Levofloxacin,3396-08-22,1.0
+19,DRUG19132976,Trazodone Hydrochloride,3396-08-23,1.0
+19,DRUG1125315,Acetaminophen,3396-08-25,1.0
+19,DRUG19009405,Vitamin D,3396-08-25,1.0
+19,DRUG19055137,HEPARIN PORK,3396-08-21,1.0
+19,DRUG19035704,Calcium Carbonate,3396-08-25,1.0
+19,DRUG19079524,Sodium Chloride 9 MG/ML Injectable Solution,3396-08-21,1.0
+19,DRUG948078,pantoprazole,3396-08-23,1.0
+19,DRUG19079524,Sodium Chloride 9 MG/ML Injectable Solution,3396-08-23,1.0
+19,DRUG1742253,Levofloxacin,3396-08-21,1.0
+19,DRUG19093848,Magnesium Sulfate,3396-08-22,1.0
+19,DRUG1112807,Aspirin,3396-08-25,1.0
+19,DRUG785788,olanzapine,3396-08-24,1.0
+19,DRUG948078,pantoprazole,3396-08-25,1.0
+19,DRUG791967,Lorazepam,3396-08-23,1.0
+19,DRUG766529,Haloperidol,3396-08-21,1.0
+19,DRUG19095164,Cholecalciferol,3396-08-23,1.0
+19,DRUG19080464,HEPARIN SODIUM (PORK),3396-08-23,1.0
+19,DRUG1307046,Metoprolol,3396-08-25,1.0
+19,DRUG785788,olanzapine,3396-08-25,1.0
+24581,DIAG381270,Parkinson's disease,3399-07-19,1.0
+24581,DIAG440869,Intracranial hemorrhage following injury without open intracranial wound AND with no loss of consciousness,3399-07-19,1.0
+24581,DIAG313217,Atrial fibrillation,3399-07-19,1.0
+24581,DIAG255573,Chronic obstructive lung disease,3399-07-19,1.0
+24581,DIAG440385,Obstructive hydrocephalus,3399-07-19,1.0
+24581,DIAG373995,Delirium,3399-07-19,1.0
+24581,DIAG374009,Organic mental disorder,3399-07-19,1.0
+24581,DIAG4161977,Patient with cardiac pacemaker,3399-07-19,1.0
+24581,DIAG437827,Pure hypercholesterolemia,3399-07-19,1.0
+24581,DIAG4096215,Hyperlipidemia group A,3399-07-19,1.0
+24581,DIAG376713,Cerebral hemorrhage,3401-04-10,1.0
+24581,DIAG255573,Chronic obstructive lung disease,3401-04-10,1.0
+24581,DIAG313217,Atrial fibrillation,3401-04-10,1.0
+24581,DIAG377091,Seizure,3401-04-10,1.0
+24581,DIAG432867,Hyperlipidemia,3401-04-10,1.0
+24581,DIAG4161977,Patient with cardiac pacemaker,3401-04-10,1.0
+24581,DIAG319041,Orthostatic hypotension,3401-04-10,1.0
+24581,DIAG432308,Mononeuritis of lower limb,3401-04-10,1.0
+24581,DIAG43531028,Mononeuropathy of lower limb,3401-04-10,1.0
+24581,DIAG373995,Delirium,3401-04-10,1.0
+24581,DIAG374009,Organic mental disorder,3401-04-10,1.0
+24581,DIAG376713,Cerebral hemorrhage,3400-03-27,1.0
+24581,DIAG255573,Chronic obstructive lung disease,3400-03-27,1.0
+24581,DIAG81902,Urinary tract infectious disease,3400-03-27,1.0
+24581,DIAG313217,Atrial fibrillation,3400-03-27,1.0
+24581,DIAG440383,Depressive disorder,3400-03-27,1.0
+24581,DIAG4161977,Patient with cardiac pacemaker,3400-03-27,1.0
+24581,DIAG374024,Reaction to spinal or lumbar puncture,3400-03-27,1.0
+24581,DIAG373995,Delirium,3400-03-27,1.0
+24581,DIAG374009,Organic mental disorder,3400-03-27,1.0
+24581,DIAG433656,Abnormal patient reaction,3400-03-27,1.0
+24581,LAB3000963,Hemoglobin [Mass/volume] in Blood,3401-04-11,
+24581,LAB3004501,Glucose [Mass/volume] in Serum or Plasma,3399-07-19,102.000
+24581,LAB3007461,Platelets [#/volume] in Blood,3399-07-19,191.000
+24581,LAB3024731,Erythrocyte mean corpuscular volume [Entitic volume],3399-07-19,99.000
+24581,LAB3032080,INR in Blood by Coagulation assay,3399-07-19,1.200
+24581,LAB3013466,Activated partial thromboplastin time (aPTT) in Blood by Coagulation assay,3399-07-19,26.900
+24581,LAB3002417,Prothrombin time (PT) in Blood by Coagulation assay,3399-07-19,13.500
+24581,LAB3005707,Macrocytes [Presence] in Blood,3399-07-19,
+24581,LAB3022096,Basophils/100 leukocytes in Blood,3399-07-19,0.300
+24581,LAB3006504,Eosinophils/100 leukocytes in Blood,3399-07-19,2.800
+24581,LAB3019069,Monocytes/100 leukocytes in Blood,3399-07-19,6.800
+24581,LAB3002030,Lymphocytes/100 leukocytes in Blood,3399-07-19,21.300
+24581,LAB3017354,Neutrophils.segmented/100 leukocytes in Blood,3399-07-19,68.800
+24581,LAB3002385,Erythrocyte distribution width [Ratio],3399-07-19,12.600
+24581,LAB3003338,Erythrocyte mean corpuscular hemoglobin concentration [Mass/volume],3399-07-19,34.300
+24581,LAB3035941,Erythrocyte mean corpuscular hemoglobin [Entitic mass],3399-07-19,34.100
+24581,LAB3009542,Hematocrit [Volume Fraction] of Blood,3399-07-19,44.800
+24581,LAB3000963,Hemoglobin [Mass/volume] in Blood,3399-07-19,15.400
+24581,LAB3026361,Erythrocytes [#/volume] in Blood,3399-07-19,4.510
+24581,LAB3010813,Leukocytes [#/volume] in Blood,3399-07-19,7.600
+24581,LAB3048529,Troponin T.cardiac [Mass/volume] in Blood,3399-07-19,
+24581,LAB3033236,Creatine kinase.MB [Mass/volume] in Blood,3399-07-19,3.000
+24581,LAB3007220,Creatine kinase [Enzymatic activity/volume] in Serum or Plasma,3399-07-19,60.000
+24581,LAB3039000,Anion gap in Blood,3399-07-19,13.000
+24581,LAB3016293,Bicarbonate [Moles/volume] in Serum,3399-07-19,30.000
+24581,LAB3018572,Chloride [Moles/volume] in Blood,3399-07-19,105.000
+24581,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,3399-07-19,4.100
+24581,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,3399-07-19,144.000
+24581,LAB3016723,Creatinine [Mass/volume] in Serum or Plasma,3399-07-19,0.700
+24581,LAB3013682,Urea nitrogen [Mass/volume] in Serum or Plasma,3399-07-19,13.000
+24581,LAB3027162,Color of Urine,3399-07-19,
+24581,LAB3020399,Glucose [Mass/volume] in Urine,3399-07-19,
+24581,LAB3045414,Leukocytes [Presence] in Urine,3399-07-19,
+24581,LAB3015736,pH of Urine,3399-07-19,7.000
+24581,LAB3007950,Urobilinogen [Mass/volume] in Urine,3399-07-19,
+24581,LAB3011258,Bilirubin.total [Presence] in Urine,3399-07-19,
+24581,LAB3032459,Ketones [Mass/volume] in Urine,3399-07-19,
+24581,LAB3005897,Protein [Mass/volume] in Urine by Test strip,3399-07-19,
+24581,LAB3021601,Nitrite [Presence] in Urine by Test strip,3399-07-19,
+24581,LAB3011397,Hemoglobin [Presence] in Urine by Test strip,3399-07-19,
+24581,LAB3000330,Specific gravity of Urine by Test strip,3399-07-19,1.011
+24581,LAB3007876,Appearance of Urine,3399-07-19,
+24581,LAB3010421,pH of Blood,3399-07-19,7.330
+24581,LAB3021119,Calcium.ionized [Moles/volume] in Blood,3399-07-19,1.120
+24581,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,3399-07-19,140.000
+24581,LAB3004501,Glucose [Mass/volume] in Serum or Plasma,3399-07-19,86.000
+24581,LAB3001420,Magnesium [Mass/volume] in Serum or Plasma,3399-07-19,1.900
+24581,LAB3006906,Calcium [Mass/volume] in Serum or Plasma,3399-07-19,8.700
+24581,LAB3048529,Troponin T.cardiac [Mass/volume] in Blood,3399-07-19,
+24581,LAB3033236,Creatine kinase.MB [Mass/volume] in Blood,3399-07-19,
+24581,LAB3007220,Creatine kinase [Enzymatic activity/volume] in Serum or Plasma,3399-07-19,59.000
+24581,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,3399-07-19,4.100
+24581,LAB3004501,Glucose [Mass/volume] in Serum or Plasma,3399-07-20,85.000
+24581,LAB3032080,INR in Blood by Coagulation assay,3399-07-20,1.200
+24581,LAB3013466,Activated partial thromboplastin time (aPTT) in Blood by Coagulation assay,3399-07-20,26.300
+24581,LAB3002417,Prothrombin time (PT) in Blood by Coagulation assay,3399-07-20,13.300
+24581,LAB3007461,Platelets [#/volume] in Blood,3399-07-20,195.000
+24581,LAB3002385,Erythrocyte distribution width [Ratio],3399-07-20,12.800
+24581,LAB3003338,Erythrocyte mean corpuscular hemoglobin concentration [Mass/volume],3399-07-20,33.900
+24581,LAB3035941,Erythrocyte mean corpuscular hemoglobin [Entitic mass],3399-07-20,33.300
+24581,LAB3024731,Erythrocyte mean corpuscular volume [Entitic volume],3399-07-20,98.000
+24581,LAB3009542,Hematocrit [Volume Fraction] of Blood,3399-07-20,40.000
+24581,LAB3000963,Hemoglobin [Mass/volume] in Blood,3399-07-20,13.600
+24581,LAB3026361,Erythrocytes [#/volume] in Blood,3399-07-20,4.070
+24581,LAB3010813,Leukocytes [#/volume] in Blood,3399-07-20,9.100
+24581,LAB3001420,Magnesium [Mass/volume] in Serum or Plasma,3399-07-20,1.700
+24581,LAB3011904,Phosphate [Mass/volume] in Serum or Plasma,3399-07-20,2.800
+24581,LAB3006906,Calcium [Mass/volume] in Serum or Plasma,3399-07-20,9.000
+24581,LAB3048529,Troponin T.cardiac [Mass/volume] in Blood,3399-07-20,
+24581,LAB3033236,Creatine kinase.MB [Mass/volume] in Blood,3399-07-20,
+24581,LAB3007220,Creatine kinase [Enzymatic activity/volume] in Serum or Plasma,3399-07-20,49.000
+24581,LAB3039000,Anion gap in Blood,3399-07-20,15.000
+24581,LAB3016293,Bicarbonate [Moles/volume] in Serum,3399-07-20,25.000
+24581,LAB3018572,Chloride [Moles/volume] in Blood,3399-07-20,106.000
+24581,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,3399-07-20,3.500
+24581,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,3399-07-20,142.000
+24581,LAB3016723,Creatinine [Mass/volume] in Serum or Plasma,3399-07-20,0.600
+24581,LAB3013682,Urea nitrogen [Mass/volume] in Serum or Plasma,3399-07-20,12.000
+24581,LAB3004501,Glucose [Mass/volume] in Serum or Plasma,3399-07-21,179.000
+24581,LAB3007461,Platelets [#/volume] in Blood,3399-07-21,205.000
+24581,LAB3002385,Erythrocyte distribution width [Ratio],3399-07-21,12.700
+24581,LAB3003338,Erythrocyte mean corpuscular hemoglobin concentration [Mass/volume],3399-07-21,34.400
+24581,LAB3035941,Erythrocyte mean corpuscular hemoglobin [Entitic mass],3399-07-21,33.700
+24581,LAB3024731,Erythrocyte mean corpuscular volume [Entitic volume],3399-07-21,98.000
+24581,LAB3009542,Hematocrit [Volume Fraction] of Blood,3399-07-21,43.700
+24581,LAB3000963,Hemoglobin [Mass/volume] in Blood,3399-07-21,15.000
+24581,LAB3026361,Erythrocytes [#/volume] in Blood,3399-07-21,4.460
+24581,LAB3010813,Leukocytes [#/volume] in Blood,3399-07-21,7.500
+24581,LAB3001420,Magnesium [Mass/volume] in Serum or Plasma,3399-07-21,1.800
+24581,LAB3011904,Phosphate [Mass/volume] in Serum or Plasma,3399-07-21,3.000
+24581,LAB3006906,Calcium [Mass/volume] in Serum or Plasma,3399-07-21,9.400
+24581,LAB3039000,Anion gap in Blood,3399-07-21,15.000
+24581,LAB3016293,Bicarbonate [Moles/volume] in Serum,3399-07-21,26.000
+24581,LAB3018572,Chloride [Moles/volume] in Blood,3399-07-21,103.000
+24581,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,3399-07-21,4.000
+24581,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,3399-07-21,140.000
+24581,LAB3016723,Creatinine [Mass/volume] in Serum or Plasma,3399-07-21,0.700
+24581,LAB3013682,Urea nitrogen [Mass/volume] in Serum or Plasma,3399-07-21,18.000
+24581,LAB3027162,Color of Urine,3399-07-21,
+24581,LAB3045414,Leukocytes [Presence] in Urine,3399-07-21,
+24581,LAB3015736,pH of Urine,3399-07-21,6.500
+24581,LAB3007950,Urobilinogen [Mass/volume] in Urine,3399-07-21,
+24581,LAB3011258,Bilirubin.total [Presence] in Urine,3399-07-21,
+24581,LAB3032459,Ketones [Mass/volume] in Urine,3399-07-21,15.000
+24581,LAB3020399,Glucose [Mass/volume] in Urine,3399-07-21,
+24581,LAB3005897,Protein [Mass/volume] in Urine by Test strip,3399-07-21,
+24581,LAB3021601,Nitrite [Presence] in Urine by Test strip,3399-07-21,
+24581,LAB3011397,Hemoglobin [Presence] in Urine by Test strip,3399-07-21,
+24581,LAB3000330,Specific gravity of Urine by Test strip,3399-07-21,1.020
+24581,LAB3007876,Appearance of Urine,3399-07-21,
+24581,LAB3004501,Glucose [Mass/volume] in Serum or Plasma,3399-07-22,121.000
+24581,LAB3007461,Platelets [#/volume] in Blood,3399-07-22,197.000
+24581,LAB3002385,Erythrocyte distribution width [Ratio],3399-07-22,12.500
+24581,LAB3003338,Erythrocyte mean corpuscular hemoglobin concentration [Mass/volume],3399-07-22,31.900
+24581,LAB3035941,Erythrocyte mean corpuscular hemoglobin [Entitic mass],3399-07-22,32.300
+24581,LAB3024731,Erythrocyte mean corpuscular volume [Entitic volume],3399-07-22,101.000
+24581,LAB3009542,Hematocrit [Volume Fraction] of Blood,3399-07-22,42.800
+24581,LAB3000963,Hemoglobin [Mass/volume] in Blood,3399-07-22,13.700
+24581,LAB3026361,Erythrocytes [#/volume] in Blood,3399-07-22,4.230
+24581,LAB3010813,Leukocytes [#/volume] in Blood,3399-07-22,7.100
+24581,LAB3023399,Thyrotropin [Units/volume] in Blood,3399-07-22,1.800
+24581,LAB3039000,Anion gap in Blood,3399-07-22,15.000
+24581,LAB3016293,Bicarbonate [Moles/volume] in Serum,3399-07-22,25.000
+24581,LAB3018572,Chloride [Moles/volume] in Blood,3399-07-22,105.000
+24581,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,3399-07-22,3.500
+24581,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,3399-07-22,141.000
+24581,LAB3016723,Creatinine [Mass/volume] in Serum or Plasma,3399-07-22,0.700
+24581,LAB3013682,Urea nitrogen [Mass/volume] in Serum or Plasma,3399-07-22,18.000
+24581,LAB3000963,Hemoglobin [Mass/volume] in Blood,3400-03-27,13.200
+24581,LAB3010813,Leukocytes [#/volume] in Blood,3400-03-27,7.700
+24581,LAB3048529,Troponin T.cardiac [Mass/volume] in Blood,3400-03-27,
+24581,LAB3033236,Creatine kinase.MB [Mass/volume] in Blood,3400-03-27,
+24581,LAB3007220,Creatine kinase [Enzymatic activity/volume] in Serum or Plasma,3400-03-27,72.000
+24581,LAB3039000,Anion gap in Blood,3400-03-27,11.000
+24581,LAB3016293,Bicarbonate [Moles/volume] in Serum,3400-03-27,27.000
+24581,LAB3018572,Chloride [Moles/volume] in Blood,3400-03-27,108.000
+24581,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,3400-03-27,4.000
+24581,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,3400-03-27,142.000
+24581,LAB3016723,Creatinine [Mass/volume] in Serum or Plasma,3400-03-27,0.700
+24581,LAB3013682,Urea nitrogen [Mass/volume] in Serum or Plasma,3400-03-27,20.000
+24581,LAB3004501,Glucose [Mass/volume] in Serum or Plasma,3400-03-27,104.000
+24581,LAB3026361,Erythrocytes [#/volume] in Blood,3400-03-27,4.010
+24581,LAB3009542,Hematocrit [Volume Fraction] of Blood,3400-03-27,39.000
+24581,LAB3024731,Erythrocyte mean corpuscular volume [Entitic volume],3400-03-27,97.000
+24581,LAB3035941,Erythrocyte mean corpuscular hemoglobin [Entitic mass],3400-03-27,32.800
+24581,LAB3003338,Erythrocyte mean corpuscular hemoglobin concentration [Mass/volume],3400-03-27,33.800
+24581,LAB3002385,Erythrocyte distribution width [Ratio],3400-03-27,12.500
+24581,LAB3017354,Neutrophils.segmented/100 leukocytes in Blood,3400-03-27,78.200
+24581,LAB3002030,Lymphocytes/100 leukocytes in Blood,3400-03-27,16.700
+24581,LAB3019069,Monocytes/100 leukocytes in Blood,3400-03-27,3.800
+24581,LAB3006504,Eosinophils/100 leukocytes in Blood,3400-03-27,1.000
+24581,LAB3022096,Basophils/100 leukocytes in Blood,3400-03-27,0.200
+24581,LAB3007461,Platelets [#/volume] in Blood,3400-03-27,165.000
+24581,LAB3002417,Prothrombin time (PT) in Blood by Coagulation assay,3400-03-27,12.900
+24581,LAB3013466,Activated partial thromboplastin time (aPTT) in Blood by Coagulation assay,3400-03-27,24.400
+24581,LAB3032080,INR in Blood by Coagulation assay,3400-03-27,1.000
+24581,LAB3004410,Hemoglobin A1c/Hemoglobin.total in Blood,3400-03-27,6.200
+24581,LAB3000963,Hemoglobin [Mass/volume] in Blood,3400-03-27,12.900
+24581,LAB3006906,Calcium [Mass/volume] in Serum or Plasma,3400-03-27,8.500
+24581,LAB3004501,Glucose [Mass/volume] in Serum or Plasma,3400-03-27,99.000
+24581,LAB3013682,Urea nitrogen [Mass/volume] in Serum or Plasma,3400-03-27,14.000
+24581,LAB3016723,Creatinine [Mass/volume] in Serum or Plasma,3400-03-27,0.500
+24581,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,3400-03-27,143.000
+24581,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,3400-03-27,3.900
+24581,LAB3018572,Chloride [Moles/volume] in Blood,3400-03-27,110.000
+24581,LAB3016293,Bicarbonate [Moles/volume] in Serum,3400-03-27,27.000
+24581,LAB3039000,Anion gap in Blood,3400-03-27,10.000
+24581,LAB3006923,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,3400-03-27,14.000
+24581,LAB3013721,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma,3400-03-27,20.000
+24581,LAB3007220,Creatine kinase [Enzymatic activity/volume] in Serum or Plasma,3400-03-27,60.000
+24581,LAB3024128,Bilirubin.total [Mass/volume] in Serum or Plasma,3400-03-27,0.500
+24581,LAB3033236,Creatine kinase.MB [Mass/volume] in Blood,3400-03-27,
+24581,LAB3048529,Troponin T.cardiac [Mass/volume] in Blood,3400-03-27,
+24581,LAB3011904,Phosphate [Mass/volume] in Serum or Plasma,3400-03-27,3.200
+24581,LAB3001420,Magnesium [Mass/volume] in Serum or Plasma,3400-03-27,1.600
+24581,LAB3027114,Cholesterol [Mass/volume] in Serum or Plasma,3400-03-27,235.000
+24581,LAB3022192,Triglyceride [Mass/volume] in Serum or Plasma,3400-03-27,176.000
+24581,LAB3007070,Cholesterol in HDL [Mass/volume] in Serum or Plasma,3400-03-27,46.000
+24581,LAB3016087,Cholesterol.total/Cholesterol in HDL [Molar ratio] in Serum or Plasma,3400-03-27,5.100
+24581,LAB3028288,Cholesterol in LDL [Mass/volume] in Serum or Plasma by calculation,3400-03-27,154.000
+24581,LAB3023399,Thyrotropin [Units/volume] in Blood,3400-03-27,1.200
+24581,LAB3010813,Leukocytes [#/volume] in Blood,3400-03-27,8.100
+24581,LAB3026361,Erythrocytes [#/volume] in Blood,3400-03-27,4.010
+24581,LAB3009542,Hematocrit [Volume Fraction] of Blood,3400-03-27,38.000
+24581,LAB3024731,Erythrocyte mean corpuscular volume [Entitic volume],3400-03-27,95.000
+24581,LAB3035941,Erythrocyte mean corpuscular hemoglobin [Entitic mass],3400-03-27,32.100
+24581,LAB3003338,Erythrocyte mean corpuscular hemoglobin concentration [Mass/volume],3400-03-27,33.800
+24581,LAB3002385,Erythrocyte distribution width [Ratio],3400-03-27,12.800
+24581,LAB3007461,Platelets [#/volume] in Blood,3400-03-27,172.000
+24581,LAB3002417,Prothrombin time (PT) in Blood by Coagulation assay,3400-03-27,12.700
+24581,LAB3013466,Activated partial thromboplastin time (aPTT) in Blood by Coagulation assay,3400-03-27,24.200
+24581,LAB3032080,INR in Blood by Coagulation assay,3400-03-27,1.000
+24581,LAB3010421,pH of Blood,3400-03-27,7.360
+24581,LAB3027315,Oxygen [Partial pressure] in Blood,3400-03-27,123.000
+24581,LAB3013290,Carbon dioxide [Partial pressure] in Blood,3400-03-27,44.000
+24581,LAB3006576,Bicarbonate [Moles/volume] in Blood,3400-03-27,26.000
+24581,LAB3012501,Base excess in Blood,3400-03-27,
+24581,LAB3000483,Glucose [Mass/volume] in Blood,3400-03-27,94.000
+24581,LAB3004410,Hemoglobin A1c/Hemoglobin.total in Blood,3400-03-28,6.300
+24581,LAB3016293,Bicarbonate [Moles/volume] in Serum,3400-03-28,28.000
+24581,LAB3007220,Creatine kinase [Enzymatic activity/volume] in Serum or Plasma,3400-03-28,52.000
+24581,LAB3013721,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma,3400-03-28,19.000
+24581,LAB3006923,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,3400-03-28,13.000
+24581,LAB3039000,Anion gap in Blood,3400-03-28,9.000
+24581,LAB3032080,INR in Blood by Coagulation assay,3400-03-28,1.000
+24581,LAB3013466,Activated partial thromboplastin time (aPTT) in Blood by Coagulation assay,3400-03-28,24.000
+24581,LAB3002417,Prothrombin time (PT) in Blood by Coagulation assay,3400-03-28,12.700
+24581,LAB3007461,Platelets [#/volume] in Blood,3400-03-28,180.000
+24581,LAB3002385,Erythrocyte distribution width [Ratio],3400-03-28,12.700
+24581,LAB3003338,Erythrocyte mean corpuscular hemoglobin concentration [Mass/volume],3400-03-28,34.600
+24581,LAB3035941,Erythrocyte mean corpuscular hemoglobin [Entitic mass],3400-03-28,32.800
+24581,LAB3024731,Erythrocyte mean corpuscular volume [Entitic volume],3400-03-28,95.000
+24581,LAB3009542,Hematocrit [Volume Fraction] of Blood,3400-03-28,38.200
+24581,LAB3000963,Hemoglobin [Mass/volume] in Blood,3400-03-28,13.200
+24581,LAB3026361,Erythrocytes [#/volume] in Blood,3400-03-28,4.030
+24581,LAB3010813,Leukocytes [#/volume] in Blood,3400-03-28,7.900
+24581,LAB3022616,Phenytoin [Mass/volume] in Serum or Plasma,3400-03-28,9.000
+24581,LAB3023399,Thyrotropin [Units/volume] in Blood,3400-03-28,0.540
+24581,LAB3028288,Cholesterol in LDL [Mass/volume] in Serum or Plasma by calculation,3400-03-28,171.000
+24581,LAB3016087,Cholesterol.total/Cholesterol in HDL [Molar ratio] in Serum or Plasma,3400-03-28,5.100
+24581,LAB3007070,Cholesterol in HDL [Mass/volume] in Serum or Plasma,3400-03-28,50.000
+24581,LAB3022192,Triglyceride [Mass/volume] in Serum or Plasma,3400-03-28,158.000
+24581,LAB3027114,Cholesterol [Mass/volume] in Serum or Plasma,3400-03-28,253.000
+24581,LAB3001420,Magnesium [Mass/volume] in Serum or Plasma,3400-03-28,1.800
+24581,LAB3011904,Phosphate [Mass/volume] in Serum or Plasma,3400-03-28,3.900
+24581,LAB3006906,Calcium [Mass/volume] in Serum or Plasma,3400-03-28,8.500
+24581,LAB3024561,Albumin [Mass/volume] in Serum or Plasma,3400-03-28,3.800
+24581,LAB3048529,Troponin T.cardiac [Mass/volume] in Blood,3400-03-28,
+24581,LAB3033236,Creatine kinase.MB [Mass/volume] in Blood,3400-03-28,3.000
+24581,LAB3024128,Bilirubin.total [Mass/volume] in Serum or Plasma,3400-03-28,0.600
+24581,LAB3004501,Glucose [Mass/volume] in Serum or Plasma,3400-03-28,106.000
+24581,LAB3013682,Urea nitrogen [Mass/volume] in Serum or Plasma,3400-03-28,9.000
+24581,LAB3016723,Creatinine [Mass/volume] in Serum or Plasma,3400-03-28,0.500
+24581,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,3400-03-28,141.000
+24581,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,3400-03-28,3.600
+24581,LAB3018572,Chloride [Moles/volume] in Blood,3400-03-28,108.000
+24581,LAB3004501,Glucose [Mass/volume] in Serum or Plasma,3400-03-29,112.000
+24581,LAB3007461,Platelets [#/volume] in Blood,3400-03-29,184.000
+24581,LAB3002385,Erythrocyte distribution width [Ratio],3400-03-29,12.700
+24581,LAB3003338,Erythrocyte mean corpuscular hemoglobin concentration [Mass/volume],3400-03-29,33.500
+24581,LAB3035941,Erythrocyte mean corpuscular hemoglobin [Entitic mass],3400-03-29,31.800
+24581,LAB3024731,Erythrocyte mean corpuscular volume [Entitic volume],3400-03-29,95.000
+24581,LAB3009542,Hematocrit [Volume Fraction] of Blood,3400-03-29,41.600
+24581,LAB3000963,Hemoglobin [Mass/volume] in Blood,3400-03-29,13.900
+24581,LAB3026361,Erythrocytes [#/volume] in Blood,3400-03-29,4.380
+24581,LAB3010813,Leukocytes [#/volume] in Blood,3400-03-29,10.500
+24581,LAB3001420,Magnesium [Mass/volume] in Serum or Plasma,3400-03-29,1.700
+24581,LAB3039000,Anion gap in Blood,3400-03-29,13.000
+24581,LAB3016293,Bicarbonate [Moles/volume] in Serum,3400-03-29,27.000
+24581,LAB3018572,Chloride [Moles/volume] in Blood,3400-03-29,100.000
+24581,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,3400-03-29,3.700
+24581,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,3400-03-29,136.000
+24581,LAB3016723,Creatinine [Mass/volume] in Serum or Plasma,3400-03-29,0.500
+24581,LAB3013682,Urea nitrogen [Mass/volume] in Serum or Plasma,3400-03-29,10.000
+24581,LAB3022616,Phenytoin [Mass/volume] in Serum or Plasma,3400-03-30,6.900
+24581,LAB3009542,Hematocrit [Volume Fraction] of Blood,3400-03-31,40.300
+24581,LAB3007461,Platelets [#/volume] in Blood,3400-03-31,200.000
+24581,LAB3000963,Hemoglobin [Mass/volume] in Blood,3400-03-31,13.800
+24581,LAB3026361,Erythrocytes [#/volume] in Blood,3400-03-31,4.210
+24581,LAB3010813,Leukocytes [#/volume] in Blood,3400-03-31,10.400
+24581,LAB3022616,Phenytoin [Mass/volume] in Serum or Plasma,3400-03-31,6.600
+24581,LAB3001420,Magnesium [Mass/volume] in Serum or Plasma,3400-03-31,2.100
+24581,LAB3011904,Phosphate [Mass/volume] in Serum or Plasma,3400-03-31,4.000
+24581,LAB3006906,Calcium [Mass/volume] in Serum or Plasma,3400-03-31,9.500
+24581,LAB3039000,Anion gap in Blood,3400-03-31,11.000
+24581,LAB3016293,Bicarbonate [Moles/volume] in Serum,3400-03-31,34.000
+24581,LAB3018572,Chloride [Moles/volume] in Blood,3400-03-31,102.000
+24581,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,3400-03-31,3.400
+24581,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,3400-03-31,144.000
+24581,LAB3016723,Creatinine [Mass/volume] in Serum or Plasma,3400-03-31,0.900
+24581,LAB3013682,Urea nitrogen [Mass/volume] in Serum or Plasma,3400-03-31,34.000
+24581,LAB3004501,Glucose [Mass/volume] in Serum or Plasma,3400-03-31,103.000
+24581,LAB3002385,Erythrocyte distribution width [Ratio],3400-03-31,12.800
+24581,LAB3003338,Erythrocyte mean corpuscular hemoglobin concentration [Mass/volume],3400-03-31,34.400
+24581,LAB3035941,Erythrocyte mean corpuscular hemoglobin [Entitic mass],3400-03-31,32.900
+24581,LAB3024731,Erythrocyte mean corpuscular volume [Entitic volume],3400-03-31,96.000
+24581,LAB3027162,Color of Urine,3400-04-01,
+24581,LAB3035851,Transitional cells [#/area] in Urine sediment by Microscopy high power field,3400-04-01,
+24581,LAB3011258,Bilirubin.total [Presence] in Urine,3400-04-01,
+24581,LAB3006175,Mucus [Presence] in Urine sediment by Light microscopy,3400-04-01,
+24581,LAB3010189,Epithelial cells [#/area] in Urine sediment by Microscopy high power field,3400-04-01,
+24581,LAB3000259,Yeast [Presence] in Urine sediment by Light microscopy,3400-04-01,
+24581,LAB3004562,Bacteria [Presence] in Urine sediment by Light microscopy,3400-04-01,
+24581,LAB3035583,Leukocytes [#/area] in Urine sediment by Microscopy high power field,3400-04-01,29.000
+24581,LAB3035124,Erythrocytes [#/area] in Urine sediment by Microscopy high power field,3400-04-01,21.000
+24581,LAB3045414,Leukocytes [Presence] in Urine,3400-04-01,
+24581,LAB3015736,pH of Urine,3400-04-01,5.000
+24581,LAB3007950,Urobilinogen [Mass/volume] in Urine,3400-04-01,1.000
+24581,LAB3032459,Ketones [Mass/volume] in Urine,3400-04-01,
+24581,LAB3020399,Glucose [Mass/volume] in Urine,3400-04-01,
+24581,LAB3005897,Protein [Mass/volume] in Urine by Test strip,3400-04-01,
+24581,LAB3021601,Nitrite [Presence] in Urine by Test strip,3400-04-01,
+24581,LAB3011397,Hemoglobin [Presence] in Urine by Test strip,3400-04-01,
+24581,LAB3000330,Specific gravity of Urine by Test strip,3400-04-01,1.020
+24581,LAB3007876,Appearance of Urine,3400-04-01,
+24581,LAB3004501,Glucose [Mass/volume] in Serum or Plasma,3400-04-01,106.000
+24581,LAB3007461,Platelets [#/volume] in Blood,3400-04-01,199.000
+24581,LAB3002385,Erythrocyte distribution width [Ratio],3400-04-01,12.600
+24581,LAB3003338,Erythrocyte mean corpuscular hemoglobin concentration [Mass/volume],3400-04-01,34.000
+24581,LAB3035941,Erythrocyte mean corpuscular hemoglobin [Entitic mass],3400-04-01,32.500
+24581,LAB3024731,Erythrocyte mean corpuscular volume [Entitic volume],3400-04-01,95.000
+24581,LAB3009542,Hematocrit [Volume Fraction] of Blood,3400-04-01,40.300
+24581,LAB3000963,Hemoglobin [Mass/volume] in Blood,3400-04-01,13.700
+24581,LAB3026361,Erythrocytes [#/volume] in Blood,3400-04-01,4.230
+24581,LAB3010813,Leukocytes [#/volume] in Blood,3400-04-01,9.300
+24581,LAB3022616,Phenytoin [Mass/volume] in Serum or Plasma,3400-04-01,6.900
+24581,LAB3001420,Magnesium [Mass/volume] in Serum or Plasma,3400-04-01,1.800
+24581,LAB3011904,Phosphate [Mass/volume] in Serum or Plasma,3400-04-01,3.200
+24581,LAB3006906,Calcium [Mass/volume] in Serum or Plasma,3400-04-01,9.300
+24581,LAB3039000,Anion gap in Blood,3400-04-01,12.000
+24581,LAB3016293,Bicarbonate [Moles/volume] in Serum,3400-04-01,30.000
+24581,LAB3018572,Chloride [Moles/volume] in Blood,3400-04-01,103.000
+24581,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,3400-04-01,3.900
+24581,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,3400-04-01,141.000
+24581,LAB3016723,Creatinine [Mass/volume] in Serum or Plasma,3400-04-01,0.600
+24581,LAB3013682,Urea nitrogen [Mass/volume] in Serum or Plasma,3400-04-01,27.000
+24581,LAB3019473,Protein [Mass/volume] in Cerebral spinal fluid,3400-04-01,124.000
+24581,LAB3037577,Monocytes/100 leukocytes in Cerebral spinal fluid,3400-04-01,14.000
+24581,LAB3020951,Lymphocytes/100 leukocytes in Cerebral spinal fluid,3400-04-01,70.000
+24581,LAB3022356,Polymorphonuclear cells/100 leukocytes in Cerebral spinal fluid,3400-04-01,16.000
+24581,LAB3027475,Erythrocytes [#/volume] in Cerebral spinal fluid,3400-04-01,5600.000
+24581,LAB3016543,Leukocytes [#/volume] in Cerebral spinal fluid,3400-04-01,125.000
+24581,LAB3037577,Monocytes/100 leukocytes in Cerebral spinal fluid,3400-04-01,16.000
+24581,LAB3020951,Lymphocytes/100 leukocytes in Cerebral spinal fluid,3400-04-01,68.000
+24581,LAB3022356,Polymorphonuclear cells/100 leukocytes in Cerebral spinal fluid,3400-04-01,16.000
+24581,LAB3027475,Erythrocytes [#/volume] in Cerebral spinal fluid,3400-04-01,4200.000
+24581,LAB3016543,Leukocytes [#/volume] in Cerebral spinal fluid,3400-04-01,17.000
+24581,LAB3022548,Glucose [Mass/volume] in Cerebral spinal fluid,3400-04-01,51.000
+24581,LAB3018572,Chloride [Moles/volume] in Blood,3400-04-15,101.000
+24581,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,3400-04-15,3.900
+24581,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,3400-04-15,139.000
+24581,LAB3016723,Creatinine [Mass/volume] in Serum or Plasma,3400-04-15,0.800
+24581,LAB3013682,Urea nitrogen [Mass/volume] in Serum or Plasma,3400-04-15,23.000
+24581,LAB3004501,Glucose [Mass/volume] in Serum or Plasma,3400-04-15,65.000
+24581,LAB3016293,Bicarbonate [Moles/volume] in Serum,3400-04-15,31.000
+24581,LAB3039000,Anion gap in Blood,3400-04-15,11.000
+24581,LAB3022616,Phenytoin [Mass/volume] in Serum or Plasma,3400-04-15,9.900
+24581,LAB3010813,Leukocytes [#/volume] in Blood,3400-04-15,7.800
+24581,LAB3026361,Erythrocytes [#/volume] in Blood,3400-04-15,3.830
+24581,LAB3000963,Hemoglobin [Mass/volume] in Blood,3400-04-15,12.700
+24581,LAB3009542,Hematocrit [Volume Fraction] of Blood,3400-04-15,37.200
+24581,LAB3024731,Erythrocyte mean corpuscular volume [Entitic volume],3400-04-15,97.000
+24581,LAB3035941,Erythrocyte mean corpuscular hemoglobin [Entitic mass],3400-04-15,33.100
+24581,LAB3003338,Erythrocyte mean corpuscular hemoglobin concentration [Mass/volume],3400-04-15,34.100
+24581,LAB3002385,Erythrocyte distribution width [Ratio],3400-04-15,12.700
+24581,LAB3017354,Neutrophils.segmented/100 leukocytes in Blood,3400-04-15,80.100
+24581,LAB3002030,Lymphocytes/100 leukocytes in Blood,3400-04-15,15.100
+24581,LAB3019069,Monocytes/100 leukocytes in Blood,3400-04-15,3.300
+24581,LAB3006504,Eosinophils/100 leukocytes in Blood,3400-04-15,1.300
+24581,LAB3022096,Basophils/100 leukocytes in Blood,3400-04-15,0.100
+24581,LAB3005707,Macrocytes [Presence] in Blood,3400-04-15,
+24581,LAB3007461,Platelets [#/volume] in Blood,3400-04-15,268.000
+24581,LAB3002417,Prothrombin time (PT) in Blood by Coagulation assay,3400-04-15,12.700
+24581,LAB3013466,Activated partial thromboplastin time (aPTT) in Blood by Coagulation assay,3400-04-15,23.800
+24581,LAB3032080,INR in Blood by Coagulation assay,3400-04-15,1.000
+24581,LAB3016750,Collection duration of Urine,3400-04-15,
+24581,LAB3016750,Collection duration of Urine,3400-04-15,
+24581,LAB3027162,Color of Urine,3400-04-15,
+24581,LAB3007876,Appearance of Urine,3400-04-15,
+24581,LAB3000330,Specific gravity of Urine by Test strip,3400-04-15,1.018
+24581,LAB3011397,Hemoglobin [Presence] in Urine by Test strip,3400-04-15,
+24581,LAB3021601,Nitrite [Presence] in Urine by Test strip,3400-04-15,
+24581,LAB3005897,Protein [Mass/volume] in Urine by Test strip,3400-04-15,
+24581,LAB3020399,Glucose [Mass/volume] in Urine,3400-04-15,
+24581,LAB3032459,Ketones [Mass/volume] in Urine,3400-04-15,
+24581,LAB3011258,Bilirubin.total [Presence] in Urine,3400-04-15,
+24581,LAB3007950,Urobilinogen [Mass/volume] in Urine,3400-04-15,
+24581,LAB3015736,pH of Urine,3400-04-15,7.000
+24581,LAB3045414,Leukocytes [Presence] in Urine,3400-04-15,
+24581,LAB3032080,INR in Blood by Coagulation assay,3401-04-10,1.100
+24581,LAB3013466,Activated partial thromboplastin time (aPTT) in Blood by Coagulation assay,3401-04-10,24.500
+24581,LAB3002417,Prothrombin time (PT) in Blood by Coagulation assay,3401-04-10,12.300
+24581,LAB3007461,Platelets [#/volume] in Blood,3401-04-10,213.000
+24581,LAB3005707,Macrocytes [Presence] in Blood,3401-04-10,
+24581,LAB3022096,Basophils/100 leukocytes in Blood,3401-04-10,0.200
+24581,LAB3006504,Eosinophils/100 leukocytes in Blood,3401-04-10,1.400
+24581,LAB3019069,Monocytes/100 leukocytes in Blood,3401-04-10,7.000
+24581,LAB3002030,Lymphocytes/100 leukocytes in Blood,3401-04-10,25.800
+24581,LAB3017354,Neutrophils.segmented/100 leukocytes in Blood,3401-04-10,65.500
+24581,LAB3002385,Erythrocyte distribution width [Ratio],3401-04-10,12.600
+24581,LAB3003338,Erythrocyte mean corpuscular hemoglobin concentration [Mass/volume],3401-04-10,33.300
+24581,LAB3035941,Erythrocyte mean corpuscular hemoglobin [Entitic mass],3401-04-10,32.800
+24581,LAB3024731,Erythrocyte mean corpuscular volume [Entitic volume],3401-04-10,99.000
+24581,LAB3009542,Hematocrit [Volume Fraction] of Blood,3401-04-10,44.600
+24581,LAB3000963,Hemoglobin [Mass/volume] in Blood,3401-04-10,14.800
+24581,LAB3026361,Erythrocytes [#/volume] in Blood,3401-04-10,4.530
+24581,LAB3010813,Leukocytes [#/volume] in Blood,3401-04-10,6.700
+24581,LAB3039000,Anion gap in Blood,3401-04-10,12.000
+24581,LAB3016293,Bicarbonate [Moles/volume] in Serum,3401-04-10,29.000
+24581,LAB3018572,Chloride [Moles/volume] in Blood,3401-04-10,103.000
+24581,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,3401-04-10,4.400
+24581,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,3401-04-10,140.000
+24581,LAB3016723,Creatinine [Mass/volume] in Serum or Plasma,3401-04-10,0.800
+24581,LAB3013682,Urea nitrogen [Mass/volume] in Serum or Plasma,3401-04-10,17.000
+24581,LAB3004501,Glucose [Mass/volume] in Serum or Plasma,3401-04-10,72.000
+24581,LAB3016750,Collection duration of Urine,3401-04-10,
+24581,LAB3045414,Leukocytes [Presence] in Urine,3401-04-10,
+24581,LAB3015736,pH of Urine,3401-04-10,7.000
+24581,LAB3007950,Urobilinogen [Mass/volume] in Urine,3401-04-10,
+24581,LAB3011258,Bilirubin.total [Presence] in Urine,3401-04-10,
+24581,LAB3032459,Ketones [Mass/volume] in Urine,3401-04-10,
+24581,LAB3020399,Glucose [Mass/volume] in Urine,3401-04-10,
+24581,LAB3005897,Protein [Mass/volume] in Urine by Test strip,3401-04-10,
+24581,LAB3021601,Nitrite [Presence] in Urine by Test strip,3401-04-10,
+24581,LAB3011397,Hemoglobin [Presence] in Urine by Test strip,3401-04-10,
+24581,LAB3000330,Specific gravity of Urine by Test strip,3401-04-10,1.017
+24581,LAB3007876,Appearance of Urine,3401-04-10,
+24581,LAB3027162,Color of Urine,3401-04-10,
+24581,LAB3004501,Glucose [Mass/volume] in Serum or Plasma,3401-04-10,89.000
+24581,LAB3048529,Troponin T.cardiac [Mass/volume] in Blood,3401-04-10,
+24581,LAB3033236,Creatine kinase.MB [Mass/volume] in Blood,3401-04-10,6.000
+24581,LAB3007220,Creatine kinase [Enzymatic activity/volume] in Serum or Plasma,3401-04-10,128.000
+24581,LAB3002385,Erythrocyte distribution width [Ratio],3401-04-11,12.500
+24581,LAB3007461,Platelets [#/volume] in Blood,3401-04-11,197.000
+24581,LAB3003338,Erythrocyte mean corpuscular hemoglobin concentration [Mass/volume],3401-04-11,34.700
+24581,LAB3035941,Erythrocyte mean corpuscular hemoglobin [Entitic mass],3401-04-11,33.600
+24581,LAB3024731,Erythrocyte mean corpuscular volume [Entitic volume],3401-04-11,97.000
+24581,LAB3009542,Hematocrit [Volume Fraction] of Blood,3401-04-11,40.600
+24581,LAB3000963,Hemoglobin [Mass/volume] in Blood,3401-04-11,14.100
+24581,LAB3026361,Erythrocytes [#/volume] in Blood,3401-04-11,4.200
+24581,LAB3010813,Leukocytes [#/volume] in Blood,3401-04-11,6.000
+24581,LAB3023399,Thyrotropin [Units/volume] in Blood,3401-04-11,1.600
+24581,LAB3028288,Cholesterol in LDL [Mass/volume] in Serum or Plasma by calculation,3401-04-11,97.000
+24581,LAB3016087,Cholesterol.total/Cholesterol in HDL [Molar ratio] in Serum or Plasma,3401-04-11,2.900
+24581,LAB3007070,Cholesterol in HDL [Mass/volume] in Serum or Plasma,3401-04-11,62.000
+24581,LAB3022192,Triglyceride [Mass/volume] in Serum or Plasma,3401-04-11,88.000
+24581,LAB3027114,Cholesterol [Mass/volume] in Serum or Plasma,3401-04-11,177.000
+24581,LAB3001420,Magnesium [Mass/volume] in Serum or Plasma,3401-04-11,1.700
+24581,LAB3011904,Phosphate [Mass/volume] in Serum or Plasma,3401-04-11,3.500
+24581,LAB3006906,Calcium [Mass/volume] in Serum or Plasma,3401-04-11,9.100
+24581,LAB3048529,Troponin T.cardiac [Mass/volume] in Blood,3401-04-11,
+24581,LAB3033236,Creatine kinase.MB [Mass/volume] in Blood,3401-04-11,6.000
+24581,LAB3024128,Bilirubin.total [Mass/volume] in Serum or Plasma,3401-04-11,0.700
+24581,LAB3001110,Alkaline phosphatase [Enzymatic activity/volume] in Blood,3401-04-11,82.000
+24581,LAB3016436,Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma,3401-04-11,144.000
+24581,LAB3013721,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma,3401-04-11,16.000
+24581,LAB3006923,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,3401-04-11,12.000
+24581,LAB3039000,Anion gap in Blood,3401-04-11,14.000
+24581,LAB3016293,Bicarbonate [Moles/volume] in Serum,3401-04-11,25.000
+24581,LAB3018572,Chloride [Moles/volume] in Blood,3401-04-11,105.000
+24581,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,3401-04-11,3.800
+24581,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,3401-04-11,140.000
+24581,LAB3016723,Creatinine [Mass/volume] in Serum or Plasma,3401-04-11,0.700
+24581,LAB3013682,Urea nitrogen [Mass/volume] in Serum or Plasma,3401-04-11,15.000
+24581,LAB3004501,Glucose [Mass/volume] in Serum or Plasma,3401-04-11,89.000
+24581,LAB3004410,Hemoglobin A1c/Hemoglobin.total in Blood,3401-04-11,
+24581,LAB3004410,Hemoglobin A1c/Hemoglobin.total in Blood,3401-04-11,5.600
+24581,LAB3002417,Prothrombin time (PT) in Blood by Coagulation assay,3401-04-11,13.300
+24581,LAB3013466,Activated partial thromboplastin time (aPTT) in Blood by Coagulation assay,3401-04-11,25.700
+24581,LAB3032080,INR in Blood by Coagulation assay,3401-04-11,1.200
+24581,LAB3007220,Creatine kinase [Enzymatic activity/volume] in Serum or Plasma,3401-04-11,125.000
+24581,LAB3033236,Creatine kinase.MB [Mass/volume] in Blood,3401-04-11,5.000
+24581,LAB3048529,Troponin T.cardiac [Mass/volume] in Blood,3401-04-11,
+24581,LAB3004501,Glucose [Mass/volume] in Serum or Plasma,3401-04-13,101.000
+24581,LAB3013682,Urea nitrogen [Mass/volume] in Serum or Plasma,3401-04-13,16.000
+24581,LAB3016723,Creatinine [Mass/volume] in Serum or Plasma,3401-04-13,0.700
+24581,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,3401-04-13,138.000
+24581,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,3401-04-13,3.700
+24581,LAB3018572,Chloride [Moles/volume] in Blood,3401-04-13,104.000
+24581,LAB3016293,Bicarbonate [Moles/volume] in Serum,3401-04-13,25.000
+24581,LAB3039000,Anion gap in Blood,3401-04-13,13.000
+24581,LAB3006906,Calcium [Mass/volume] in Serum or Plasma,3401-04-13,8.800
+24581,LAB3011904,Phosphate [Mass/volume] in Serum or Plasma,3401-04-13,3.900
+24581,LAB3001420,Magnesium [Mass/volume] in Serum or Plasma,3401-04-13,1.700
+24581,LAB3010813,Leukocytes [#/volume] in Blood,3401-04-13,6.400
+24581,LAB3026361,Erythrocytes [#/volume] in Blood,3401-04-13,4.240
+24581,LAB3000963,Hemoglobin [Mass/volume] in Blood,3401-04-13,14.100
+24581,LAB3009542,Hematocrit [Volume Fraction] of Blood,3401-04-13,41.400
+24581,LAB3024731,Erythrocyte mean corpuscular volume [Entitic volume],3401-04-13,98.000
+24581,LAB3035941,Erythrocyte mean corpuscular hemoglobin [Entitic mass],3401-04-13,33.300
+24581,LAB3003338,Erythrocyte mean corpuscular hemoglobin concentration [Mass/volume],3401-04-13,34.100
+24581,LAB3002385,Erythrocyte distribution width [Ratio],3401-04-13,12.500
+24581,LAB3007461,Platelets [#/volume] in Blood,3401-04-13,176.000
+24581,LAB3002417,Prothrombin time (PT) in Blood by Coagulation assay,3401-04-13,12.500
+24581,LAB3013466,Activated partial thromboplastin time (aPTT) in Blood by Coagulation assay,3401-04-13,24.700
+24581,LAB3032080,INR in Blood by Coagulation assay,3401-04-13,1.100
+24581,DRUG19079524,Sodium Chloride 9 MG/ML Injectable Solution,3400-03-27,1.0
+24581,DRUG19026512,Amiodarone hydrochloride,3400-03-27,1.0
+24581,DRUG19126912,Docusate Sodium,3401-04-10,1.0
+24581,DRUG43012825,Nerve Growth Factor,3400-04-01,1.0
+24581,DRUG715997,donepezil,3401-04-10,1.0
+24581,DRUG19132932,Hydralazine Hydrochloride,3399-07-20,1.0
+24581,DRUG19135832,Multivitamin preparation,3401-04-10,1.0
+24581,DRUG19026333,Labetalol hydrochloride,3400-03-27,1.0
+24581,DRUG739138,Sertraline,3401-04-10,1.0
+24581,DRUG924939,Bisacodyl,3399-07-20,1.0
+24581,DRUG1125315,Acetaminophen,3400-04-01,1.0
+24581,DRUG1125315,Acetaminophen,3399-07-21,1.0
+24581,DRUG19132909,Ciprofloxacin Hydrochloride,3400-04-01,1.0
+24581,DRUG740910,Phenytoin,3400-03-28,1.0
+24581,DRUG19055137,HEPARIN PORK,3400-03-28,1.0
+24581,DRUG715997,donepezil,3400-03-27,1.0
+24581,DRUG19126899,Phenytoin sodium,3400-03-27,1.0
+24581,DRUG19098971,Cromolyn Sodium,3400-03-27,1.0
+24581,DRUG19049105,Potassium Chloride,3400-03-27,1.0
+24581,DRUG948078,pantoprazole,3400-03-28,1.0
+24581,DRUG19079524,Sodium Chloride 9 MG/ML Injectable Solution,3399-07-19,1.0
+24581,DRUG19132932,Hydralazine Hydrochloride,3399-07-20,1.0
+24581,DRUG43012825,Nerve Growth Factor,3399-07-19,1.0
+24581,DRUG19065818,Pantoprazole sodium,3399-07-19,1.0
+24581,DRUG711584,Levetiracetam,3401-04-10,1.0
+24581,DRUG924939,Bisacodyl,3400-03-27,1.0
+24581,DRUG19079524,Sodium Chloride 9 MG/ML Injectable Solution,3401-04-10,1.0
+24581,DRUG1307046,Metoprolol,3400-03-28,1.0
+24581,DRUG43012825,Nerve Growth Factor,3401-04-10,1.0
+24581,DRUG924939,Bisacodyl,3400-03-27,1.0
+24581,DRUG1545958,atorvastatin,3400-03-31,1.0
+24581,DRUG19026512,Amiodarone hydrochloride,3401-04-10,1.0
+24581,DRUG1545958,atorvastatin,3401-04-10,1.0
+24581,DRUG948078,pantoprazole,3401-04-10,1.0
+24581,DRUG725131,Mirtazapine,3401-04-10,1.0
+24581,DRUG725131,Mirtazapine,3400-03-27,1.0
+24581,DRUG43012825,Nerve Growth Factor,3400-03-27,1.0
+24581,DRUG1125315,Acetaminophen,3400-03-27,1.0
+24581,DRUG19079524,Sodium Chloride 9 MG/ML Injectable Solution,3400-03-28,1.0
+24581,DRUG924939,Bisacodyl,3399-07-20,1.0
+24581,DRUG19122121,Insulin,3399-07-19,1.0
+24581,DRUG19049105,Potassium Chloride,3400-03-31,1.0
+24581,DRUG19093848,Magnesium Sulfate,3400-03-27,1.0
+24581,DRUG19049105,Potassium Chloride,3400-03-31,1.0
+24581,DRUG43012825,Nerve Growth Factor,3400-03-31,1.0
+24581,DRUG948078,pantoprazole,3399-07-20,1.0
+24581,DRUG19049105,Potassium Chloride,3400-03-28,1.0
+24581,DRUG19126912,Docusate Sodium,3399-07-20,1.0
+24581,DRUG740910,Phenytoin,3400-03-31,1.0
+24581,DRUG1307046,Metoprolol,3399-07-20,1.0
+24581,DRUG19122121,Insulin,3401-04-11,1.0
+24581,DRUG1307046,Metoprolol,3399-07-19,1.0
+24581,DRUG19095164,Cholecalciferol,3399-07-20,1.0
+24581,DRUG19136059,Sodium Nitroprusside,3399-07-20,1.0
+24581,DRUG1319133,Nimodipine,3400-03-27,1.0
+99,DIAG42872402,Coronary arteriosclerosis in native artery,2723-09-27,1.0
+99,DIAG317576,Coronary arteriosclerosis,2723-09-27,1.0
+99,DIAG321318,Angina pectoris,2723-09-27,1.0
+99,DIAG320128,Essential hypertension,2723-09-27,1.0
+99,DIAG437827,Pure hypercholesterolemia,2723-09-27,1.0
+99,DIAG4096215,Hyperlipidemia group A,2723-09-27,1.0
+99,DIAG137682,Skin sensation disturbance,2723-09-27,1.0
+99,DIAG198803,Benign prostatic hyperplasia,2723-09-27,1.0
+99,LAB3027162,Color of Urine,2723-09-27,
+99,LAB3045414,Leukocytes [Presence] in Urine,2723-09-27,
+99,LAB3015736,pH of Urine,2723-09-27,7.000
+99,LAB3007950,Urobilinogen [Mass/volume] in Urine,2723-09-27,
+99,LAB3011258,Bilirubin.total [Presence] in Urine,2723-09-27,
+99,LAB3032459,Ketones [Mass/volume] in Urine,2723-09-27,
+99,LAB3020399,Glucose [Mass/volume] in Urine,2723-09-27,
+99,LAB3005897,Protein [Mass/volume] in Urine by Test strip,2723-09-27,
+99,LAB3021601,Nitrite [Presence] in Urine by Test strip,2723-09-27,
+99,LAB3011397,Hemoglobin [Presence] in Urine by Test strip,2723-09-27,
+99,LAB3000330,Specific gravity of Urine by Test strip,2723-09-27,1.005
+99,LAB3007876,Appearance of Urine,2723-09-27,
+99,LAB3004501,Glucose [Mass/volume] in Serum or Plasma,2723-09-27,92.000
+99,LAB3032080,INR in Blood by Coagulation assay,2723-09-27,1.100
+99,LAB3002417,Prothrombin time (PT) in Blood by Coagulation assay,2723-09-27,12.500
+99,LAB3007461,Platelets [#/volume] in Blood,2723-09-27,216.000
+99,LAB3002385,Erythrocyte distribution width [Ratio],2723-09-27,12.500
+99,LAB3003338,Erythrocyte mean corpuscular hemoglobin concentration [Mass/volume],2723-09-27,36.500
+99,LAB3035941,Erythrocyte mean corpuscular hemoglobin [Entitic mass],2723-09-27,33.400
+99,LAB3024731,Erythrocyte mean corpuscular volume [Entitic volume],2723-09-27,92.000
+99,LAB3009542,Hematocrit [Volume Fraction] of Blood,2723-09-27,43.400
+99,LAB3000963,Hemoglobin [Mass/volume] in Blood,2723-09-27,15.800
+99,LAB3026361,Erythrocytes [#/volume] in Blood,2723-09-27,4.740
+99,LAB3010813,Leukocytes [#/volume] in Blood,2723-09-27,14.900
+99,LAB3024128,Bilirubin.total [Mass/volume] in Serum or Plasma,2723-09-27,0.700
+99,LAB3001110,Alkaline phosphatase [Enzymatic activity/volume] in Blood,2723-09-27,79.000
+99,LAB3016436,Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma,2723-09-27,181.000
+99,LAB3013721,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma,2723-09-27,13.000
+99,LAB3006923,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,2723-09-27,13.000
+99,LAB3039000,Anion gap in Blood,2723-09-27,13.000
+99,LAB3016293,Bicarbonate [Moles/volume] in Serum,2723-09-27,31.000
+99,LAB3018572,Chloride [Moles/volume] in Blood,2723-09-27,103.000
+99,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2723-09-27,4.200
+99,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2723-09-27,143.000
+99,LAB3016723,Creatinine [Mass/volume] in Serum or Plasma,2723-09-27,0.900
+99,LAB3013682,Urea nitrogen [Mass/volume] in Serum or Plasma,2723-09-27,17.000
+99,LAB3021119,Calcium.ionized [Moles/volume] in Blood,2723-09-28,1.150
+99,LAB3009542,Hematocrit [Volume Fraction] of Blood,2723-09-28,46.000
+99,LAB3000963,Hemoglobin [Mass/volume] in Blood,2723-09-28,15.400
+99,LAB3005456,Potassium [Moles/volume] in Blood,2723-09-28,4.000
+99,LAB3000285,Sodium [Moles/volume] in Blood,2723-09-28,138.000
+99,LAB3000483,Glucose [Mass/volume] in Blood,2723-09-28,138.000
+99,LAB3012501,Base excess in Blood,2723-09-28,2.000
+99,LAB3006576,Bicarbonate [Moles/volume] in Blood,2723-09-28,26.000
+99,LAB3010421,pH of Blood,2723-09-28,7.470
+99,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2723-09-28,35.000
+99,LAB3027315,Oxygen [Partial pressure] in Blood,2723-09-28,460.000
+99,LAB3000963,Hemoglobin [Mass/volume] in Blood,2723-09-28,12.000
+99,LAB3005456,Potassium [Moles/volume] in Blood,2723-09-28,4.600
+99,LAB3000483,Glucose [Mass/volume] in Blood,2723-09-28,133.000
+99,LAB3012501,Base excess in Blood,2723-09-28,4.000
+99,LAB3006576,Bicarbonate [Moles/volume] in Blood,2723-09-28,27.000
+99,LAB3010421,pH of Blood,2723-09-28,7.490
+99,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2723-09-28,35.000
+99,LAB3027315,Oxygen [Partial pressure] in Blood,2723-09-28,352.000
+99,LAB3009542,Hematocrit [Volume Fraction] of Blood,2723-09-28,36.000
+99,LAB3009542,Hematocrit [Volume Fraction] of Blood,2723-09-28,34.000
+99,LAB3000963,Hemoglobin [Mass/volume] in Blood,2723-09-28,11.400
+99,LAB3005456,Potassium [Moles/volume] in Blood,2723-09-28,5.000
+99,LAB3000483,Glucose [Mass/volume] in Blood,2723-09-28,192.000
+99,LAB3012501,Base excess in Blood,2723-09-28,2.000
+99,LAB3006576,Bicarbonate [Moles/volume] in Blood,2723-09-28,27.000
+99,LAB3010421,pH of Blood,2723-09-28,7.440
+99,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2723-09-28,38.000
+99,LAB3027315,Oxygen [Partial pressure] in Blood,2723-09-28,331.000
+99,LAB3021119,Calcium.ionized [Moles/volume] in Blood,2723-09-28,1.170
+99,LAB3009542,Hematocrit [Volume Fraction] of Blood,2723-09-28,39.000
+99,LAB3000963,Hemoglobin [Mass/volume] in Blood,2723-09-28,12.900
+99,LAB3005456,Potassium [Moles/volume] in Blood,2723-09-28,3.700
+99,LAB3000285,Sodium [Moles/volume] in Blood,2723-09-28,137.000
+99,LAB3000483,Glucose [Mass/volume] in Blood,2723-09-28,125.000
+99,LAB3012501,Base excess in Blood,2723-09-28,1.000
+99,LAB3006576,Bicarbonate [Moles/volume] in Blood,2723-09-28,25.000
+99,LAB3010421,pH of Blood,2723-09-28,7.480
+99,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2723-09-28,32.000
+99,LAB3027315,Oxygen [Partial pressure] in Blood,2723-09-28,285.000
+99,LAB3007461,Platelets [#/volume] in Blood,2723-09-28,146.000
+99,LAB3032080,INR in Blood by Coagulation assay,2723-09-28,1.400
+99,LAB3013466,Activated partial thromboplastin time (aPTT) in Blood by Coagulation assay,2723-09-28,31.400
+99,LAB3002417,Prothrombin time (PT) in Blood by Coagulation assay,2723-09-28,14.200
+99,LAB3021119,Calcium.ionized [Moles/volume] in Blood,2723-09-28,1.170
+99,LAB3013502,Oxygen saturation in Blood,2723-09-28,98.000
+99,LAB3009542,Hematocrit [Volume Fraction] of Blood,2723-09-28,38.000
+99,LAB3000963,Hemoglobin [Mass/volume] in Blood,2723-09-28,12.500
+99,LAB3005456,Potassium [Moles/volume] in Blood,2723-09-28,3.200
+99,LAB3000483,Glucose [Mass/volume] in Blood,2723-09-28,127.000
+99,LAB3012501,Base excess in Blood,2723-09-28,1.000
+99,LAB3006576,Bicarbonate [Moles/volume] in Blood,2723-09-28,26.000
+99,LAB3010421,pH of Blood,2723-09-28,7.440
+99,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2723-09-28,37.000
+99,LAB3027315,Oxygen [Partial pressure] in Blood,2723-09-28,317.000
+99,LAB3021119,Calcium.ionized [Moles/volume] in Blood,2723-09-28,1.000
+99,LAB3013502,Oxygen saturation in Blood,2723-09-28,98.000
+99,LAB3009542,Hematocrit [Volume Fraction] of Blood,2723-09-28,39.000
+99,LAB3000963,Hemoglobin [Mass/volume] in Blood,2723-09-28,13.000
+99,LAB3005456,Potassium [Moles/volume] in Blood,2723-09-28,3.900
+99,LAB3000483,Glucose [Mass/volume] in Blood,2723-09-28,174.000
+99,LAB3012501,Base excess in Blood,2723-09-28,
+99,LAB3006576,Bicarbonate [Moles/volume] in Blood,2723-09-28,24.000
+99,LAB3010421,pH of Blood,2723-09-28,7.410
+99,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2723-09-28,36.000
+99,LAB3027315,Oxygen [Partial pressure] in Blood,2723-09-28,162.000
+99,LAB3021119,Calcium.ionized [Moles/volume] in Blood,2723-09-29,1.120
+99,LAB3013502,Oxygen saturation in Blood,2723-09-29,98.000
+99,LAB3009542,Hematocrit [Volume Fraction] of Blood,2723-09-29,40.000
+99,LAB3000963,Hemoglobin [Mass/volume] in Blood,2723-09-29,13.200
+99,LAB3005456,Potassium [Moles/volume] in Blood,2723-09-29,4.400
+99,LAB3000483,Glucose [Mass/volume] in Blood,2723-09-29,178.000
+99,LAB3010421,pH of Blood,2723-09-29,7.450
+99,LAB3016293,Bicarbonate [Moles/volume] in Serum,2723-09-29,23.000
+99,LAB3018572,Chloride [Moles/volume] in Blood,2723-09-29,105.000
+99,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2723-09-29,4.300
+99,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2723-09-29,136.000
+99,LAB3016723,Creatinine [Mass/volume] in Serum or Plasma,2723-09-29,0.800
+99,LAB3013682,Urea nitrogen [Mass/volume] in Serum or Plasma,2723-09-29,19.000
+99,LAB3004501,Glucose [Mass/volume] in Serum or Plasma,2723-09-29,145.000
+99,LAB3007461,Platelets [#/volume] in Blood,2723-09-29,201.000
+99,LAB3002385,Erythrocyte distribution width [Ratio],2723-09-29,12.600
+99,LAB3003338,Erythrocyte mean corpuscular hemoglobin concentration [Mass/volume],2723-09-29,36.700
+99,LAB3035941,Erythrocyte mean corpuscular hemoglobin [Entitic mass],2723-09-29,33.300
+99,LAB3024731,Erythrocyte mean corpuscular volume [Entitic volume],2723-09-29,91.000
+99,LAB3009542,Hematocrit [Volume Fraction] of Blood,2723-09-29,33.900
+99,LAB3000963,Hemoglobin [Mass/volume] in Blood,2723-09-29,12.400
+99,LAB3026361,Erythrocytes [#/volume] in Blood,2723-09-29,3.730
+99,LAB3010813,Leukocytes [#/volume] in Blood,2723-09-29,23.100
+99,LAB3039000,Anion gap in Blood,2723-09-29,12.000
+99,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2723-09-29,4.200
+99,LAB3001420,Magnesium [Mass/volume] in Serum or Plasma,2723-09-29,1.800
+99,LAB3021119,Calcium.ionized [Moles/volume] in Blood,2723-09-29,1.110
+99,LAB3005456,Potassium [Moles/volume] in Blood,2723-09-29,4.200
+99,LAB3010421,pH of Blood,2723-09-29,7.390
+99,LAB3004501,Glucose [Mass/volume] in Serum or Plasma,2723-09-30,95.000
+99,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2723-09-30,3.600
+99,LAB3007461,Platelets [#/volume] in Blood,2723-09-30,186.000
+99,LAB3002385,Erythrocyte distribution width [Ratio],2723-09-30,12.600
+99,LAB3003338,Erythrocyte mean corpuscular hemoglobin concentration [Mass/volume],2723-09-30,36.900
+99,LAB3035941,Erythrocyte mean corpuscular hemoglobin [Entitic mass],2723-09-30,33.900
+99,LAB3024731,Erythrocyte mean corpuscular volume [Entitic volume],2723-09-30,92.000
+99,LAB3009542,Hematocrit [Volume Fraction] of Blood,2723-09-30,30.100
+99,LAB3000963,Hemoglobin [Mass/volume] in Blood,2723-09-30,11.100
+99,LAB3026361,Erythrocytes [#/volume] in Blood,2723-09-30,3.280
+99,LAB3010813,Leukocytes [#/volume] in Blood,2723-09-30,19.900
+99,LAB3039000,Anion gap in Blood,2723-09-30,10.000
+99,LAB3016293,Bicarbonate [Moles/volume] in Serum,2723-09-30,29.000
+99,LAB3018572,Chloride [Moles/volume] in Blood,2723-09-30,103.000
+99,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2723-09-30,138.000
+99,LAB3016723,Creatinine [Mass/volume] in Serum or Plasma,2723-09-30,0.800
+99,LAB3013682,Urea nitrogen [Mass/volume] in Serum or Plasma,2723-09-30,18.000
+99,LAB3004501,Glucose [Mass/volume] in Serum or Plasma,2723-09-30,132.000
+99,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2723-09-30,4.000
+99,LAB3001420,Magnesium [Mass/volume] in Serum or Plasma,2723-09-30,2.000
+99,LAB3004501,Glucose [Mass/volume] in Serum or Plasma,2723-10-01,114.000
+99,LAB3007461,Platelets [#/volume] in Blood,2723-10-01,275.000
+99,LAB3002385,Erythrocyte distribution width [Ratio],2723-10-01,12.600
+99,LAB3003338,Erythrocyte mean corpuscular hemoglobin concentration [Mass/volume],2723-10-01,35.200
+99,LAB3035941,Erythrocyte mean corpuscular hemoglobin [Entitic mass],2723-10-01,32.900
+99,LAB3024731,Erythrocyte mean corpuscular volume [Entitic volume],2723-10-01,93.000
+99,LAB3009542,Hematocrit [Volume Fraction] of Blood,2723-10-01,34.500
+99,LAB3000963,Hemoglobin [Mass/volume] in Blood,2723-10-01,12.100
+99,LAB3026361,Erythrocytes [#/volume] in Blood,2723-10-01,3.690
+99,LAB3010813,Leukocytes [#/volume] in Blood,2723-10-01,25.000
+99,LAB3039000,Anion gap in Blood,2723-10-01,14.000
+99,LAB3016293,Bicarbonate [Moles/volume] in Serum,2723-10-01,31.000
+99,LAB3018572,Chloride [Moles/volume] in Blood,2723-10-01,99.000
+99,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2723-10-01,4.400
+99,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2723-10-01,140.000
+99,LAB3016723,Creatinine [Mass/volume] in Serum or Plasma,2723-10-01,0.900
+99,LAB3013682,Urea nitrogen [Mass/volume] in Serum or Plasma,2723-10-01,20.000
+99,LAB3007461,Platelets [#/volume] in Blood,2723-10-03,343.000
+99,LAB3002385,Erythrocyte distribution width [Ratio],2723-10-03,12.300
+99,LAB3003338,Erythrocyte mean corpuscular hemoglobin concentration [Mass/volume],2723-10-03,35.100
+99,LAB3035941,Erythrocyte mean corpuscular hemoglobin [Entitic mass],2723-10-03,32.700
+99,LAB3024731,Erythrocyte mean corpuscular volume [Entitic volume],2723-10-03,93.000
+99,LAB3009542,Hematocrit [Volume Fraction] of Blood,2723-10-03,33.600
+99,LAB3000963,Hemoglobin [Mass/volume] in Blood,2723-10-03,11.800
+99,LAB3026361,Erythrocytes [#/volume] in Blood,2723-10-03,3.600
+99,LAB3010813,Leukocytes [#/volume] in Blood,2723-10-03,20.800
+99,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2723-10-03,4.000
+99,LAB3016723,Creatinine [Mass/volume] in Serum or Plasma,2723-10-03,1.000
+99,LAB3013682,Urea nitrogen [Mass/volume] in Serum or Plasma,2723-10-03,19.000
+99,LAB3004501,Glucose [Mass/volume] in Serum or Plasma,2724-11-06,112.000
+99,LAB3013682,Urea nitrogen [Mass/volume] in Serum or Plasma,2724-11-06,15.000
+99,LAB3016723,Creatinine [Mass/volume] in Serum or Plasma,2724-11-06,0.900
+99,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2724-11-06,140.000
+99,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2724-11-06,3.800
+99,LAB3018572,Chloride [Moles/volume] in Blood,2724-11-06,104.000
+99,LAB3016293,Bicarbonate [Moles/volume] in Serum,2724-11-06,28.000
+99,LAB3039000,Anion gap in Blood,2724-11-06,12.000
+99,LAB3006906,Calcium [Mass/volume] in Serum or Plasma,2724-11-06,8.800
+99,LAB3011904,Phosphate [Mass/volume] in Serum or Plasma,2724-11-06,3.100
+99,LAB3001420,Magnesium [Mass/volume] in Serum or Plasma,2724-11-06,1.800
+99,LAB3010813,Leukocytes [#/volume] in Blood,2724-11-06,16.500
+99,LAB3026361,Erythrocytes [#/volume] in Blood,2724-11-06,4.010
+99,LAB3000963,Hemoglobin [Mass/volume] in Blood,2724-11-06,12.700
+99,LAB3009542,Hematocrit [Volume Fraction] of Blood,2724-11-06,37.500
+99,LAB3024731,Erythrocyte mean corpuscular volume [Entitic volume],2724-11-06,93.000
+99,LAB3035941,Erythrocyte mean corpuscular hemoglobin [Entitic mass],2724-11-06,31.700
+99,LAB3003338,Erythrocyte mean corpuscular hemoglobin concentration [Mass/volume],2724-11-06,33.900
+99,LAB3002385,Erythrocyte distribution width [Ratio],2724-11-06,12.400
+99,LAB3007461,Platelets [#/volume] in Blood,2724-11-06,209.000
+99,LAB3016436,Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma,2724-12-26,184.000
+99,LAB3037556,Urate [Mass/volume] in Serum or Plasma,2724-12-26,5.400
+99,LAB3010813,Leukocytes [#/volume] in Blood,2724-12-26,11.900
+99,LAB3026361,Erythrocytes [#/volume] in Blood,2724-12-26,4.510
+99,LAB3000963,Hemoglobin [Mass/volume] in Blood,2724-12-26,14.500
+99,LAB3009542,Hematocrit [Volume Fraction] of Blood,2724-12-26,40.800
+99,LAB3024731,Erythrocyte mean corpuscular volume [Entitic volume],2724-12-26,91.000
+99,LAB3035941,Erythrocyte mean corpuscular hemoglobin [Entitic mass],2724-12-26,32.100
+99,LAB3003338,Erythrocyte mean corpuscular hemoglobin concentration [Mass/volume],2724-12-26,35.500
+99,LAB3002385,Erythrocyte distribution width [Ratio],2724-12-26,12.900
+99,LAB3017354,Neutrophils.segmented/100 leukocytes in Blood,2724-12-26,51.600
+99,LAB3002030,Lymphocytes/100 leukocytes in Blood,2724-12-26,38.600
+99,LAB3019069,Monocytes/100 leukocytes in Blood,2724-12-26,3.900
+99,LAB3006504,Eosinophils/100 leukocytes in Blood,2724-12-26,3.000
+99,LAB3022096,Basophils/100 leukocytes in Blood,2724-12-26,2.800
+99,LAB3007461,Platelets [#/volume] in Blood,2724-12-26,227.000
+99,LAB3008548,Leukocyte phosphatase [Units/volume] in Leukocytes,2724-12-26,76.000
+99,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2727-03-16,4.300
+99,LAB3007461,Platelets [#/volume] in Blood,2727-03-16,222.000
+99,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2727-03-16,3.400
+99,LAB3007220,Creatine kinase [Enzymatic activity/volume] in Serum or Plasma,2727-03-16,64.000
+99,LAB3033236,Creatine kinase.MB [Mass/volume] in Blood,2727-03-16,
+99,LAB3007461,Platelets [#/volume] in Blood,2727-03-16,211.000
+99,LAB3013682,Urea nitrogen [Mass/volume] in Serum or Plasma,2727-03-17,15.000
+99,LAB3016723,Creatinine [Mass/volume] in Serum or Plasma,2727-03-17,0.900
+99,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2727-03-17,4.400
+99,LAB3007220,Creatine kinase [Enzymatic activity/volume] in Serum or Plasma,2727-03-17,55.000
+99,LAB3033236,Creatine kinase.MB [Mass/volume] in Blood,2727-03-17,
+99,LAB3009542,Hematocrit [Volume Fraction] of Blood,2727-03-17,39.500
+99,LAB3007461,Platelets [#/volume] in Blood,2727-03-17,230.000
+3014,DIAG4092289,Livebirth,2580-12-02,1.0
+3014,DIAG4063163,Multiple delivery all by cesarean section,2580-12-02,1.0
+3014,DIAG435925,Very premature - less than 1000g or less than 28 weeks,2580-12-02,1.0
+3014,DIAG439128,Extreme immaturity,2580-12-02,1.0
+3014,DIAG258866,Respiratory distress syndrome in the newborn,2580-12-02,1.0
+3014,DIAG440847,Neonatal jaundice associated with preterm delivery,2580-12-02,1.0
+3014,DIAG433315,Feeding problems in newborn,2580-12-02,1.0
+3014,DIAG137371,Neonatal septicaemia,2580-12-02,1.0
+3014,DIAG4071063,Sepsis of the newborn,2580-12-02,1.0
+3014,DIAG313005,Congenital stenosis of pulmonary valve,2580-12-02,1.0
+3014,DIAG258564,Perinatal interstitial emphysema,2580-12-02,1.0
+3014,DIAG313023,Chronic respiratory disease in perinatal period,2580-12-02,1.0
+3014,DIAG434474,Late metabolic acidosis of newborn,2580-12-02,1.0
+3014,DIAG197023,Bilateral inguinal hernia,2580-12-02,1.0
+3014,DIAG315922,Patent ductus arteriosus,2580-12-02,1.0
+3014,DIAG439922,Gestation period 24 weeks,2580-12-02,1.0
+3014,DIAG373766,Retinopathy of prematurity,2580-12-02,1.0
+3014,DIAG432452,Anemia of prematurity,2580-12-02,1.0
+3014,LAB3021303,Hypochromia [Presence] in Blood by Light microscopy,2581-02-20,
+3014,LAB3038691,Anisocytosis [Presence] in Blood,2581-04-01,
+3014,LAB3021303,Hypochromia [Presence] in Blood by Light microscopy,2581-04-01,
+3014,LAB3010813,Leukocytes [#/volume] in Blood,2580-12-03,7.800
+3014,LAB3007461,Platelets [#/volume] in Blood,2580-12-03,320.000
+3014,LAB3033641,Platelet adequacy [Presence] in Blood by Light microscopy,2580-12-03,
+3014,LAB3042640,Fragments [Presence] in Blood by Automated count,2580-12-03,
+3014,LAB3011987,Polychromasia [Presence] in Blood by Light microscopy,2580-12-03,
+3014,LAB3025639,Microcytes [Presence] in Blood,2580-12-03,
+3014,LAB3005707,Macrocytes [Presence] in Blood,2580-12-03,
+3014,LAB3011368,Poikilocytosis [Presence] in Blood by Light microscopy,2580-12-03,
+3014,LAB3038691,Anisocytosis [Presence] in Blood,2580-12-03,
+3014,LAB3021303,Hypochromia [Presence] in Blood by Light microscopy,2580-12-03,
+3014,LAB3028658,Nucleated erythrocytes/100 erythrocytes in Blood,2580-12-03,12.000
+3014,LAB3017181,Myelocytes/100 leukocytes in Blood,2580-12-03,
+3014,LAB3002179,Metamyelocytes/100 leukocytes in Blood,2580-12-03,
+3014,LAB3013498,Lymphocytes Variant/100 leukocytes in Blood,2580-12-03,1.000
+3014,LAB3022096,Basophils/100 leukocytes in Blood,2580-12-03,
+3014,LAB3006504,Eosinophils/100 leukocytes in Blood,2580-12-03,
+3014,LAB3019069,Monocytes/100 leukocytes in Blood,2580-12-03,16.000
+3014,LAB3002030,Lymphocytes/100 leukocytes in Blood,2580-12-03,49.000
+3014,LAB3004809,Neutrophils.band form/100 leukocytes in Blood,2580-12-03,
+3014,LAB3017354,Neutrophils.segmented/100 leukocytes in Blood,2580-12-03,34.000
+3014,LAB3002385,Erythrocyte distribution width [Ratio],2580-12-03,16.200
+3014,LAB3003338,Erythrocyte mean corpuscular hemoglobin concentration [Mass/volume],2580-12-03,33.900
+3014,LAB3035941,Erythrocyte mean corpuscular hemoglobin [Entitic mass],2580-12-03,39.500
+3014,LAB3024731,Erythrocyte mean corpuscular volume [Entitic volume],2580-12-03,117.000
+3014,LAB3009542,Hematocrit [Volume Fraction] of Blood,2580-12-03,49.400
+3014,LAB3000963,Hemoglobin [Mass/volume] in Blood,2580-12-03,16.700
+3014,LAB3026361,Erythrocytes [#/volume] in Blood,2580-12-03,4.230
+3014,LAB3012501,Base excess in Blood,2580-12-03,-4.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-03,22.000
+3014,LAB3010421,pH of Blood,2580-12-03,7.320
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-03,41.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-03,90.000
+3014,LAB3012501,Base excess in Blood,2580-12-03,-5.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-03,20.000
+3014,LAB3010421,pH of Blood,2580-12-03,7.320
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-03,38.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-03,62.000
+3014,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2580-12-03,154.000
+3014,LAB3007359,Bilirubin.indirect [Mass/volume] in Serum or Plasma,2580-12-03,2.700
+3014,LAB3027597,Bilirubin.direct [Mass/volume] in Serum or Plasma,2580-12-03,0.200
+3014,LAB3024128,Bilirubin.total [Mass/volume] in Serum or Plasma,2580-12-03,2.900
+3014,LAB3039000,Anion gap in Blood,2580-12-03,14.000
+3014,LAB3016293,Bicarbonate [Moles/volume] in Serum,2580-12-03,20.000
+3014,LAB3018572,Chloride [Moles/volume] in Blood,2580-12-03,125.000
+3014,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2580-12-03,5.200
+3014,LAB3012501,Base excess in Blood,2580-12-03,-5.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-03,21.000
+3014,LAB3010421,pH of Blood,2580-12-03,7.300
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-03,41.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-03,50.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2580-12-03,26.000
+3014,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2580-12-03,147.000
+3014,LAB3039000,Anion gap in Blood,2580-12-03,11.000
+3014,LAB3016293,Bicarbonate [Moles/volume] in Serum,2580-12-03,20.000
+3014,LAB3018572,Chloride [Moles/volume] in Blood,2580-12-03,122.000
+3014,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2580-12-03,6.000
+3014,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2580-12-04,155.000
+3014,LAB3007359,Bilirubin.indirect [Mass/volume] in Serum or Plasma,2580-12-04,4.200
+3014,LAB3027597,Bilirubin.direct [Mass/volume] in Serum or Plasma,2580-12-04,0.300
+3014,LAB3024128,Bilirubin.total [Mass/volume] in Serum or Plasma,2580-12-04,4.500
+3014,LAB3039000,Anion gap in Blood,2580-12-04,12.000
+3014,LAB3016293,Bicarbonate [Moles/volume] in Serum,2580-12-04,23.000
+3014,LAB3018572,Chloride [Moles/volume] in Blood,2580-12-04,126.000
+3014,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2580-12-04,5.700
+3014,LAB3012501,Base excess in Blood,2580-12-04,-8.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-04,24.000
+3014,LAB3010421,pH of Blood,2580-12-04,7.100
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-04,72.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-04,66.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2580-12-04,38.000
+3014,LAB3012501,Base excess in Blood,2580-12-04,-8.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-04,24.000
+3014,LAB3010421,pH of Blood,2580-12-04,7.100
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-04,73.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-04,58.000
+3014,LAB3012501,Base excess in Blood,2580-12-04,-9.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-04,23.000
+3014,LAB3010421,pH of Blood,2580-12-04,7.110
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-04,68.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-04,84.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2580-12-04,38.000
+3014,LAB3022875,Positive end expiratory pressure setting Ventilator,2580-12-04,5.000
+3014,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2580-12-04,153.000
+3014,LAB3039000,Anion gap in Blood,2580-12-04,11.000
+3014,LAB3016293,Bicarbonate [Moles/volume] in Serum,2580-12-04,24.000
+3014,LAB3018572,Chloride [Moles/volume] in Blood,2580-12-04,124.000
+3014,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2580-12-04,5.500
+3014,LAB3012501,Base excess in Blood,2580-12-04,-8.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-04,24.000
+3014,LAB3010421,pH of Blood,2580-12-04,7.100
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-04,73.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-04,49.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2580-12-04,58.000
+3014,LAB3021119,Calcium.ionized [Moles/volume] in Blood,2580-12-04,1.250
+3014,LAB3012501,Base excess in Blood,2580-12-04,-8.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-04,24.000
+3014,LAB3010421,pH of Blood,2580-12-04,7.110
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-04,71.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-04,54.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2580-12-04,39.000
+3014,LAB3012501,Base excess in Blood,2580-12-04,-6.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-04,22.000
+3014,LAB3010421,pH of Blood,2580-12-04,7.240
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-04,48.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-04,49.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2580-12-04,30.000
+3014,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2580-12-04,153.000
+3014,LAB3039000,Anion gap in Blood,2580-12-04,17.000
+3014,LAB3016293,Bicarbonate [Moles/volume] in Serum,2580-12-04,18.000
+3014,LAB3018572,Chloride [Moles/volume] in Blood,2580-12-04,124.000
+3014,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2580-12-04,5.600
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-04,18.000
+3014,LAB3010421,pH of Blood,2580-12-04,7.340
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-04,32.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-04,32.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2580-12-04,28.000
+3014,LAB3022875,Positive end expiratory pressure setting Ventilator,2580-12-04,9.000
+3014,LAB3012501,Base excess in Blood,2580-12-04,-8.000
+3014,LAB3021119,Calcium.ionized [Moles/volume] in Blood,2580-12-04,0.820
+3014,LAB3012501,Base excess in Blood,2580-12-04,-12.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-04,12.000
+3014,LAB3010421,pH of Blood,2580-12-04,7.320
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-04,22.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-04,41.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2580-12-04,35.000
+3014,LAB3022875,Positive end expiratory pressure setting Ventilator,2580-12-04,9.000
+3014,LAB3009542,Hematocrit [Volume Fraction] of Blood,2580-12-04,39.000
+3014,LAB3000963,Hemoglobin [Mass/volume] in Blood,2580-12-04,13.000
+3014,LAB3012501,Base excess in Blood,2580-12-04,-7.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-04,20.000
+3014,LAB3010421,pH of Blood,2580-12-04,7.270
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-04,41.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-04,52.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2580-12-04,33.000
+3014,LAB3013682,Urea nitrogen [Mass/volume] in Serum or Plasma,2580-12-04,30.000
+3014,LAB3039000,Anion gap in Blood,2580-12-04,14.000
+3014,LAB3016293,Bicarbonate [Moles/volume] in Serum,2580-12-04,20.000
+3014,LAB3018572,Chloride [Moles/volume] in Blood,2580-12-04,121.000
+3014,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2580-12-04,5.600
+3014,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2580-12-04,149.000
+3014,LAB3016723,Creatinine [Mass/volume] in Serum or Plasma,2580-12-04,1.000
+3014,LAB3012501,Base excess in Blood,2580-12-04,-6.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-04,21.000
+3014,LAB3010421,pH of Blood,2580-12-04,7.280
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-04,43.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-04,49.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2580-12-04,32.000
+3014,LAB3012501,Base excess in Blood,2580-12-04,-7.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-04,20.000
+3014,LAB3010421,pH of Blood,2580-12-04,7.270
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-04,41.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-04,76.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2580-12-04,28.000
+3014,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2580-12-05,4.600
+3014,LAB3035510,Gentamicin [Mass/volume] in Serum or Plasma,2580-12-05,0.900
+3014,LAB3039000,Anion gap in Blood,2580-12-05,
+3014,LAB3016293,Bicarbonate [Moles/volume] in Serum,2580-12-05,19.000
+3014,LAB3018572,Chloride [Moles/volume] in Blood,2580-12-05,95.000
+3014,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2580-12-05,144.000
+3014,LAB3035510,Gentamicin [Mass/volume] in Serum or Plasma,2580-12-05,5.700
+3014,LAB3022192,Triglyceride [Mass/volume] in Serum or Plasma,2580-12-05,73.000
+3014,LAB3007359,Bilirubin.indirect [Mass/volume] in Serum or Plasma,2580-12-05,3.600
+3014,LAB3027597,Bilirubin.direct [Mass/volume] in Serum or Plasma,2580-12-05,0.300
+3014,LAB3024128,Bilirubin.total [Mass/volume] in Serum or Plasma,2580-12-05,3.900
+3014,LAB3039000,Anion gap in Blood,2580-12-05,16.000
+3014,LAB3016293,Bicarbonate [Moles/volume] in Serum,2580-12-05,20.000
+3014,LAB3018572,Chloride [Moles/volume] in Blood,2580-12-05,114.000
+3014,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2580-12-05,5.600
+3014,LAB3012501,Base excess in Blood,2580-12-05,-6.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-05,22.000
+3014,LAB3010421,pH of Blood,2580-12-05,7.240
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-05,49.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-05,58.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2580-12-05,25.000
+3014,LAB3009542,Hematocrit [Volume Fraction] of Blood,2580-12-05,32.000
+3014,LAB3000963,Hemoglobin [Mass/volume] in Blood,2580-12-05,10.600
+3014,LAB3012501,Base excess in Blood,2580-12-05,-7.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-05,21.000
+3014,LAB3010421,pH of Blood,2580-12-05,7.210
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-05,51.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-05,58.000
+3014,LAB3012501,Base excess in Blood,2580-12-05,-6.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-05,20.000
+3014,LAB3010421,pH of Blood,2580-12-05,7.310
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-05,38.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-05,43.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2580-12-05,28.000
+3014,LAB3012501,Base excess in Blood,2580-12-05,-4.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-05,19.000
+3014,LAB3010421,pH of Blood,2580-12-05,7.390
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-05,31.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-05,56.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2580-12-05,25.000
+3014,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2580-12-06,138.000
+3014,LAB3007359,Bilirubin.indirect [Mass/volume] in Serum or Plasma,2580-12-06,2.400
+3014,LAB3027597,Bilirubin.direct [Mass/volume] in Serum or Plasma,2580-12-06,0.500
+3014,LAB3024128,Bilirubin.total [Mass/volume] in Serum or Plasma,2580-12-06,2.900
+3014,LAB3039000,Anion gap in Blood,2580-12-06,17.000
+3014,LAB3016293,Bicarbonate [Moles/volume] in Serum,2580-12-06,20.000
+3014,LAB3018572,Chloride [Moles/volume] in Blood,2580-12-06,106.000
+3014,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2580-12-06,5.100
+3014,LAB3012501,Base excess in Blood,2580-12-06,-9.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-06,22.000
+3014,LAB3010421,pH of Blood,2580-12-06,7.150
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-06,59.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-06,64.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2580-12-06,25.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-06,22.000
+3014,LAB3010421,pH of Blood,2580-12-06,7.220
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-06,50.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-06,64.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2580-12-06,24.000
+3014,LAB3012501,Base excess in Blood,2580-12-06,-7.000
+3014,LAB3009542,Hematocrit [Volume Fraction] of Blood,2580-12-06,39.000
+3014,LAB3000963,Hemoglobin [Mass/volume] in Blood,2580-12-06,13.000
+3014,LAB3012501,Base excess in Blood,2580-12-06,-5.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-06,23.000
+3014,LAB3010421,pH of Blood,2580-12-06,7.270
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-06,47.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-06,65.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2580-12-06,29.000
+3014,LAB3012501,Base excess in Blood,2580-12-06,-3.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-06,24.000
+3014,LAB3010421,pH of Blood,2580-12-06,7.320
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-06,44.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-06,49.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2580-12-06,29.000
+3014,LAB3013682,Urea nitrogen [Mass/volume] in Serum or Plasma,2580-12-07,45.000
+3014,LAB3007359,Bilirubin.indirect [Mass/volume] in Serum or Plasma,2580-12-07,2.100
+3014,LAB3027597,Bilirubin.direct [Mass/volume] in Serum or Plasma,2580-12-07,0.600
+3014,LAB3024128,Bilirubin.total [Mass/volume] in Serum or Plasma,2580-12-07,2.700
+3014,LAB3039000,Anion gap in Blood,2580-12-07,18.000
+3014,LAB3016293,Bicarbonate [Moles/volume] in Serum,2580-12-07,22.000
+3014,LAB3018572,Chloride [Moles/volume] in Blood,2580-12-07,101.000
+3014,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2580-12-07,4.800
+3014,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2580-12-07,136.000
+3014,LAB3016723,Creatinine [Mass/volume] in Serum or Plasma,2580-12-07,1.100
+3014,LAB3012501,Base excess in Blood,2580-12-07,-8.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-07,25.000
+3014,LAB3010421,pH of Blood,2580-12-07,7.070
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-07,80.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-07,59.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2580-12-07,27.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2580-12-07,22.000
+3014,LAB3012501,Base excess in Blood,2580-12-07,-2.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-07,23.000
+3014,LAB3010421,pH of Blood,2580-12-07,7.390
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-07,36.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-07,52.000
+3014,LAB3012501,Base excess in Blood,2580-12-07,-4.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-07,22.000
+3014,LAB3010421,pH of Blood,2580-12-07,7.340
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-07,39.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-07,38.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2580-12-07,26.000
+3014,LAB3019473,Protein [Mass/volume] in Cerebral spinal fluid,2580-12-07,197.000
+3014,LAB3053315,Nucleated erythrocytes/100 cells in Cerebral spinal fluid,2580-12-07,6.000
+3014,LAB3022640,Eosinophils/100 leukocytes in Cerebral spinal fluid,2580-12-07,6.000
+3014,LAB3037577,Monocytes/100 leukocytes in Cerebral spinal fluid,2580-12-07,18.000
+3014,LAB3020951,Lymphocytes/100 leukocytes in Cerebral spinal fluid,2580-12-07,39.000
+3014,LAB3022356,Polymorphonuclear cells/100 leukocytes in Cerebral spinal fluid,2580-12-07,31.000
+3014,LAB3027475,Erythrocytes [#/volume] in Cerebral spinal fluid,2580-12-07,53500.000
+3014,LAB3016543,Leukocytes [#/volume] in Cerebral spinal fluid,2580-12-07,33.000
+3014,LAB3022548,Glucose [Mass/volume] in Cerebral spinal fluid,2580-12-07,47.000
+3014,LAB3012501,Base excess in Blood,2580-12-07,-4.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-07,23.000
+3014,LAB3010421,pH of Blood,2580-12-07,7.310
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-07,43.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-07,39.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2580-12-07,23.000
+3014,LAB3009542,Hematocrit [Volume Fraction] of Blood,2580-12-07,32.000
+3014,LAB3000963,Hemoglobin [Mass/volume] in Blood,2580-12-07,10.700
+3014,LAB3012501,Base excess in Blood,2580-12-07,-5.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-07,24.000
+3014,LAB3010421,pH of Blood,2580-12-07,7.230
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-07,54.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-07,41.000
+3014,LAB3013682,Urea nitrogen [Mass/volume] in Serum or Plasma,2580-12-08,46.000
+3014,LAB3007359,Bilirubin.indirect [Mass/volume] in Serum or Plasma,2580-12-08,2.100
+3014,LAB3027597,Bilirubin.direct [Mass/volume] in Serum or Plasma,2580-12-08,0.600
+3014,LAB3024128,Bilirubin.total [Mass/volume] in Serum or Plasma,2580-12-08,2.700
+3014,LAB3039000,Anion gap in Blood,2580-12-08,20.000
+3014,LAB3016293,Bicarbonate [Moles/volume] in Serum,2580-12-08,20.000
+3014,LAB3018572,Chloride [Moles/volume] in Blood,2580-12-08,96.000
+3014,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2580-12-08,4.700
+3014,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2580-12-08,131.000
+3014,LAB3016723,Creatinine [Mass/volume] in Serum or Plasma,2580-12-08,1.000
+3014,LAB3012501,Base excess in Blood,2580-12-08,-6.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-08,25.000
+3014,LAB3010421,pH of Blood,2580-12-08,7.210
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-08,60.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-08,35.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2580-12-08,21.000
+3014,LAB3012501,Base excess in Blood,2580-12-08,-6.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-08,25.000
+3014,LAB3010421,pH of Blood,2580-12-08,7.150
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-08,69.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-08,55.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2580-12-08,32.000
+3014,LAB3012501,Base excess in Blood,2580-12-08,-5.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-08,23.000
+3014,LAB3010421,pH of Blood,2580-12-08,7.250
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-08,50.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-08,53.000
+3014,LAB3012501,Base excess in Blood,2580-12-08,-6.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-08,21.000
+3014,LAB3010421,pH of Blood,2580-12-08,7.310
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-08,39.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-08,44.000
+3014,LAB3012501,Base excess in Blood,2580-12-08,-5.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-08,23.000
+3014,LAB3010421,pH of Blood,2580-12-08,7.260
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-08,48.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-08,50.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2580-12-08,30.000
+3014,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2580-12-09,4.800
+3014,LAB3009542,Hematocrit [Volume Fraction] of Blood,2580-12-09,42.000
+3014,LAB3022192,Triglyceride [Mass/volume] in Serum or Plasma,2580-12-09,762.000
+3014,LAB3007359,Bilirubin.indirect [Mass/volume] in Serum or Plasma,2580-12-09,2.200
+3014,LAB3027597,Bilirubin.direct [Mass/volume] in Serum or Plasma,2580-12-09,0.700
+3014,LAB3024128,Bilirubin.total [Mass/volume] in Serum or Plasma,2580-12-09,2.900
+3014,LAB3039000,Anion gap in Blood,2580-12-09,21.000
+3014,LAB3016293,Bicarbonate [Moles/volume] in Serum,2580-12-09,20.000
+3014,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2580-12-09,131.000
+3014,LAB3018572,Chloride [Moles/volume] in Blood,2580-12-09,95.000
+3014,LAB3012501,Base excess in Blood,2580-12-09,-6.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-09,22.000
+3014,LAB3010421,pH of Blood,2580-12-09,7.250
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-09,48.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-09,59.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2580-12-09,33.000
+3014,LAB3022192,Triglyceride [Mass/volume] in Serum or Plasma,2580-12-09,910.000
+3014,LAB3012501,Base excess in Blood,2580-12-09,-4.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-09,23.000
+3014,LAB3010421,pH of Blood,2580-12-09,7.280
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-09,46.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-09,56.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2580-12-09,23.000
+3014,LAB3039000,Anion gap in Blood,2580-12-10,18.000
+3014,LAB3016293,Bicarbonate [Moles/volume] in Serum,2580-12-10,23.000
+3014,LAB3018572,Chloride [Moles/volume] in Blood,2580-12-10,104.000
+3014,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2580-12-10,3.800
+3014,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2580-12-10,141.000
+3014,LAB3022192,Triglyceride [Mass/volume] in Serum or Plasma,2580-12-10,81.000
+3014,LAB3007359,Bilirubin.indirect [Mass/volume] in Serum or Plasma,2580-12-10,6.900
+3014,LAB3027597,Bilirubin.direct [Mass/volume] in Serum or Plasma,2580-12-10,0.400
+3014,LAB3024128,Bilirubin.total [Mass/volume] in Serum or Plasma,2580-12-10,7.300
+3014,LAB3012501,Base excess in Blood,2580-12-10,-2.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-10,23.000
+3014,LAB3010421,pH of Blood,2580-12-10,7.370
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-10,38.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-10,40.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2580-12-10,23.000
+3014,LAB3024128,Bilirubin.total [Mass/volume] in Serum or Plasma,2580-12-10,2.300
+3014,LAB3007359,Bilirubin.indirect [Mass/volume] in Serum or Plasma,2580-12-10,2.200
+3014,LAB3027597,Bilirubin.direct [Mass/volume] in Serum or Plasma,2580-12-10,0.100
+3014,LAB3012501,Base excess in Blood,2580-12-10,-1.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-10,25.000
+3014,LAB3010421,pH of Blood,2580-12-10,7.340
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-10,45.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-10,45.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2580-12-10,20.000
+3014,LAB3012501,Base excess in Blood,2580-12-10,-2.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-10,26.000
+3014,LAB3010421,pH of Blood,2580-12-10,7.310
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-10,49.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-10,48.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2580-12-10,24.000
+3014,LAB3018572,Chloride [Moles/volume] in Blood,2580-12-11,104.000
+3014,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2580-12-11,5.200
+3014,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2580-12-11,138.000
+3014,LAB3039000,Anion gap in Blood,2580-12-11,19.000
+3014,LAB3016293,Bicarbonate [Moles/volume] in Serum,2580-12-11,20.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2580-12-11,26.000
+3014,LAB3012501,Base excess in Blood,2580-12-11,-3.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-11,26.000
+3014,LAB3010421,pH of Blood,2580-12-11,7.260
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-11,55.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-11,28.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-11,24.000
+3014,LAB3012501,Base excess in Blood,2580-12-11,-8.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-11,20.000
+3014,LAB3010421,pH of Blood,2580-12-11,7.250
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-11,44.000
+3014,LAB3010421,pH of Blood,2580-12-11,7.220
+3014,LAB3012501,Base excess in Blood,2580-12-11,-5.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-11,26.000
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-11,60.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-11,30.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2580-12-11,38.000
+3014,LAB3022875,Positive end expiratory pressure setting Ventilator,2580-12-11,15.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-12,35.000
+3014,LAB3012501,Base excess in Blood,2580-12-12,-5.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-12,26.000
+3014,LAB3010421,pH of Blood,2580-12-12,7.190
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-12,66.000
+3014,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2580-12-12,137.000
+3014,LAB3007461,Platelets [#/volume] in Blood,2580-12-12,248.000
+3014,LAB3011368,Poikilocytosis [Presence] in Blood by Light microscopy,2580-12-12,
+3014,LAB3017354,Neutrophils.segmented/100 leukocytes in Blood,2580-12-12,48.000
+3014,LAB3016293,Bicarbonate [Moles/volume] in Serum,2580-12-12,22.000
+3014,LAB3033641,Platelet adequacy [Presence] in Blood by Light microscopy,2580-12-12,
+3014,LAB3042640,Fragments [Presence] in Blood by Automated count,2580-12-12,
+3014,LAB3019416,Acanthocytes [Presence] in Blood by Light microscopy,2580-12-12,
+3014,LAB3005686,Bite cells [Presence] in Blood by Light microscopy,2580-12-12,
+3014,LAB3005854,Burr cells [Presence] in Blood by Light microscopy,2580-12-12,
+3014,LAB3025616,Target cells [Presence] in Blood by Light microscopy,2580-12-12,
+3014,LAB3011987,Polychromasia [Presence] in Blood by Light microscopy,2580-12-12,
+3014,LAB3025639,Microcytes [Presence] in Blood,2580-12-12,
+3014,LAB3005707,Macrocytes [Presence] in Blood,2580-12-12,
+3014,LAB3038691,Anisocytosis [Presence] in Blood,2580-12-12,
+3014,LAB3021303,Hypochromia [Presence] in Blood by Light microscopy,2580-12-12,
+3014,LAB3028658,Nucleated erythrocytes/100 erythrocytes in Blood,2580-12-12,8.000
+3014,LAB3021440,Promyelocytes/100 leukocytes in Blood,2580-12-12,1.000
+3014,LAB3017181,Myelocytes/100 leukocytes in Blood,2580-12-12,1.000
+3014,LAB3002179,Metamyelocytes/100 leukocytes in Blood,2580-12-12,4.000
+3014,LAB3013498,Lymphocytes Variant/100 leukocytes in Blood,2580-12-12,1.000
+3014,LAB3022096,Basophils/100 leukocytes in Blood,2580-12-12,2.000
+3014,LAB3006504,Eosinophils/100 leukocytes in Blood,2580-12-12,1.000
+3014,LAB3019069,Monocytes/100 leukocytes in Blood,2580-12-12,12.000
+3014,LAB3002030,Lymphocytes/100 leukocytes in Blood,2580-12-12,23.000
+3014,LAB3004809,Neutrophils.band form/100 leukocytes in Blood,2580-12-12,6.000
+3014,LAB3002385,Erythrocyte distribution width [Ratio],2580-12-12,21.600
+3014,LAB3003338,Erythrocyte mean corpuscular hemoglobin concentration [Mass/volume],2580-12-12,34.100
+3014,LAB3035941,Erythrocyte mean corpuscular hemoglobin [Entitic mass],2580-12-12,33.200
+3014,LAB3024731,Erythrocyte mean corpuscular volume [Entitic volume],2580-12-12,97.000
+3014,LAB3009542,Hematocrit [Volume Fraction] of Blood,2580-12-12,25.800
+3014,LAB3000963,Hemoglobin [Mass/volume] in Blood,2580-12-12,8.800
+3014,LAB3026361,Erythrocytes [#/volume] in Blood,2580-12-12,2.650
+3014,LAB3010813,Leukocytes [#/volume] in Blood,2580-12-12,27.400
+3014,LAB3007359,Bilirubin.indirect [Mass/volume] in Serum or Plasma,2580-12-12,2.000
+3014,LAB3027597,Bilirubin.direct [Mass/volume] in Serum or Plasma,2580-12-12,0.500
+3014,LAB3024128,Bilirubin.total [Mass/volume] in Serum or Plasma,2580-12-12,2.500
+3014,LAB3039000,Anion gap in Blood,2580-12-12,17.000
+3014,LAB3018572,Chloride [Moles/volume] in Blood,2580-12-12,103.000
+3014,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2580-12-12,5.300
+3014,LAB3012501,Base excess in Blood,2580-12-12,
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-12,25.000
+3014,LAB3010421,pH of Blood,2580-12-12,7.370
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-12,42.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-12,49.000
+3014,LAB3012501,Base excess in Blood,2580-12-12,-3.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-12,24.000
+3014,LAB3010421,pH of Blood,2580-12-12,7.290
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-12,47.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-12,50.000
+3014,LAB3018572,Chloride [Moles/volume] in Blood,2580-12-13,103.000
+3014,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2580-12-13,5.500
+3014,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2580-12-13,138.000
+3014,LAB3007461,Platelets [#/volume] in Blood,2580-12-13,245.000
+3014,LAB3042640,Fragments [Presence] in Blood by Automated count,2580-12-13,
+3014,LAB3000456,Dacrocytes [Presence] in Blood by Light microscopy,2580-12-13,
+3014,LAB3025616,Target cells [Presence] in Blood by Light microscopy,2580-12-13,
+3014,LAB3011987,Polychromasia [Presence] in Blood by Light microscopy,2580-12-13,
+3014,LAB3025639,Microcytes [Presence] in Blood,2580-12-13,
+3014,LAB3005707,Macrocytes [Presence] in Blood,2580-12-13,
+3014,LAB3011368,Poikilocytosis [Presence] in Blood by Light microscopy,2580-12-13,
+3014,LAB3038691,Anisocytosis [Presence] in Blood,2580-12-13,
+3014,LAB3021303,Hypochromia [Presence] in Blood by Light microscopy,2580-12-13,
+3014,LAB3028658,Nucleated erythrocytes/100 erythrocytes in Blood,2580-12-13,12.000
+3014,LAB3017181,Myelocytes/100 leukocytes in Blood,2580-12-13,1.000
+3014,LAB3002179,Metamyelocytes/100 leukocytes in Blood,2580-12-13,3.000
+3014,LAB3013498,Lymphocytes Variant/100 leukocytes in Blood,2580-12-13,
+3014,LAB3022096,Basophils/100 leukocytes in Blood,2580-12-13,
+3014,LAB3006504,Eosinophils/100 leukocytes in Blood,2580-12-13,
+3014,LAB3019069,Monocytes/100 leukocytes in Blood,2580-12-13,19.000
+3014,LAB3002030,Lymphocytes/100 leukocytes in Blood,2580-12-13,28.000
+3014,LAB3004809,Neutrophils.band form/100 leukocytes in Blood,2580-12-13,
+3014,LAB3017354,Neutrophils.segmented/100 leukocytes in Blood,2580-12-13,49.000
+3014,LAB3002385,Erythrocyte distribution width [Ratio],2580-12-13,20.600
+3014,LAB3003338,Erythrocyte mean corpuscular hemoglobin concentration [Mass/volume],2580-12-13,34.800
+3014,LAB3035941,Erythrocyte mean corpuscular hemoglobin [Entitic mass],2580-12-13,32.600
+3014,LAB3024731,Erythrocyte mean corpuscular volume [Entitic volume],2580-12-13,94.000
+3014,LAB3009542,Hematocrit [Volume Fraction] of Blood,2580-12-13,30.400
+3014,LAB3000963,Hemoglobin [Mass/volume] in Blood,2580-12-13,10.600
+3014,LAB3026361,Erythrocytes [#/volume] in Blood,2580-12-13,3.240
+3014,LAB3010813,Leukocytes [#/volume] in Blood,2580-12-13,24.300
+3014,LAB3022192,Triglyceride [Mass/volume] in Serum or Plasma,2580-12-13,196.000
+3014,LAB3007359,Bilirubin.indirect [Mass/volume] in Serum or Plasma,2580-12-13,2.500
+3014,LAB3027597,Bilirubin.direct [Mass/volume] in Serum or Plasma,2580-12-13,0.500
+3014,LAB3024128,Bilirubin.total [Mass/volume] in Serum or Plasma,2580-12-13,3.000
+3014,LAB3039000,Anion gap in Blood,2580-12-13,18.000
+3014,LAB3016293,Bicarbonate [Moles/volume] in Serum,2580-12-13,23.000
+3014,LAB3012501,Base excess in Blood,2580-12-13,-3.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-13,27.000
+3014,LAB3010421,pH of Blood,2580-12-13,7.240
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-13,59.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-13,122.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2580-12-13,55.000
+3014,LAB3012501,Base excess in Blood,2580-12-13,-3.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-13,28.000
+3014,LAB3010421,pH of Blood,2580-12-13,7.240
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-13,62.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-13,25.000
+3014,LAB3005715,Vancomycin [Mass/volume] in Serum or Plasma,2580-12-14,16.700
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-14,27.000
+3014,LAB3010421,pH of Blood,2580-12-14,7.210
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-14,65.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-14,40.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2580-12-14,51.000
+3014,LAB3012501,Base excess in Blood,2580-12-14,-3.000
+3014,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2580-12-14,131.000
+3014,LAB3005715,Vancomycin [Mass/volume] in Serum or Plasma,2580-12-14,36.800
+3014,LAB3022192,Triglyceride [Mass/volume] in Serum or Plasma,2580-12-14,174.000
+3014,LAB3007359,Bilirubin.indirect [Mass/volume] in Serum or Plasma,2580-12-14,2.000
+3014,LAB3027597,Bilirubin.direct [Mass/volume] in Serum or Plasma,2580-12-14,0.400
+3014,LAB3024128,Bilirubin.total [Mass/volume] in Serum or Plasma,2580-12-14,2.400
+3014,LAB3039000,Anion gap in Blood,2580-12-14,15.000
+3014,LAB3016293,Bicarbonate [Moles/volume] in Serum,2580-12-14,19.000
+3014,LAB3018572,Chloride [Moles/volume] in Blood,2580-12-14,103.000
+3014,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2580-12-14,5.500
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-14,26.000
+3014,LAB3012501,Base excess in Blood,2580-12-14,-3.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-14,26.000
+3014,LAB3010421,pH of Blood,2580-12-14,7.260
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-14,56.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-14,31.000
+3014,LAB3012501,Base excess in Blood,2580-12-14,-4.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-14,25.000
+3014,LAB3010421,pH of Blood,2580-12-14,7.270
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-14,52.000
+3014,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2580-12-15,138.000
+3014,LAB3022192,Triglyceride [Mass/volume] in Serum or Plasma,2580-12-15,103.000
+3014,LAB3039000,Anion gap in Blood,2580-12-15,19.000
+3014,LAB3016293,Bicarbonate [Moles/volume] in Serum,2580-12-15,22.000
+3014,LAB3018572,Chloride [Moles/volume] in Blood,2580-12-15,103.000
+3014,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2580-12-15,6.200
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2580-12-15,60.000
+3014,LAB3012501,Base excess in Blood,2580-12-15,-1.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-15,30.000
+3014,LAB3010421,pH of Blood,2580-12-15,7.230
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-15,68.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-15,26.000
+3014,LAB3012501,Base excess in Blood,2580-12-16,-4.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-16,19.000
+3014,LAB3010421,pH of Blood,2580-12-16,7.390
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-16,31.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-16,75.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2580-12-16,70.000
+3014,LAB3012410,Tidal volume setting Ventilator,2580-12-16,24.000
+3014,LAB3013682,Urea nitrogen [Mass/volume] in Serum or Plasma,2580-12-16,27.000
+3014,LAB3016723,Creatinine [Mass/volume] in Serum or Plasma,2580-12-16,1.100
+3014,LAB3022192,Triglyceride [Mass/volume] in Serum or Plasma,2580-12-16,108.000
+3014,LAB3039000,Anion gap in Blood,2580-12-16,20.000
+3014,LAB3016293,Bicarbonate [Moles/volume] in Serum,2580-12-16,22.000
+3014,LAB3018572,Chloride [Moles/volume] in Blood,2580-12-16,100.000
+3014,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2580-12-16,5.000
+3014,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2580-12-16,137.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2580-12-16,46.000
+3014,LAB3012501,Base excess in Blood,2580-12-16,-4.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-16,25.000
+3014,LAB3010421,pH of Blood,2580-12-16,7.250
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-16,55.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-16,26.000
+3014,LAB3027162,Color of Urine,2580-12-16,
+3014,LAB3045414,Leukocytes [Presence] in Urine,2580-12-16,
+3014,LAB3015736,pH of Urine,2580-12-16,5.000
+3014,LAB3007950,Urobilinogen [Mass/volume] in Urine,2580-12-16,0.200
+3014,LAB3011258,Bilirubin.total [Presence] in Urine,2580-12-16,
+3014,LAB3032459,Ketones [Mass/volume] in Urine,2580-12-16,40.000
+3014,LAB3020399,Glucose [Mass/volume] in Urine,2580-12-16,
+3014,LAB3005897,Protein [Mass/volume] in Urine by Test strip,2580-12-16,
+3014,LAB3021601,Nitrite [Presence] in Urine by Test strip,2580-12-16,
+3014,LAB3011397,Hemoglobin [Presence] in Urine by Test strip,2580-12-16,
+3014,LAB3000330,Specific gravity of Urine by Test strip,2580-12-16,1.015
+3014,LAB3007876,Appearance of Urine,2580-12-16,
+3014,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2580-12-17,135.000
+3014,LAB3007359,Bilirubin.indirect [Mass/volume] in Serum or Plasma,2580-12-17,1.700
+3014,LAB3027597,Bilirubin.direct [Mass/volume] in Serum or Plasma,2580-12-17,0.400
+3014,LAB3024128,Bilirubin.total [Mass/volume] in Serum or Plasma,2580-12-17,2.100
+3014,LAB3039000,Anion gap in Blood,2580-12-17,18.000
+3014,LAB3016293,Bicarbonate [Moles/volume] in Serum,2580-12-17,22.000
+3014,LAB3018572,Chloride [Moles/volume] in Blood,2580-12-17,100.000
+3014,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2580-12-17,5.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2580-12-17,61.000
+3014,LAB3012501,Base excess in Blood,2580-12-17,-4.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-17,27.000
+3014,LAB3010421,pH of Blood,2580-12-17,7.190
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-17,67.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-17,36.000
+3014,LAB3010813,Leukocytes [#/volume] in Blood,2580-12-17,24.700
+3014,LAB3007461,Platelets [#/volume] in Blood,2580-12-17,310.000
+3014,LAB3033641,Platelet adequacy [Presence] in Blood by Light microscopy,2580-12-17,
+3014,LAB3019761,Pappenheimer bodies [Presence] in Blood by Light microscopy,2580-12-17,
+3014,LAB3019880,Schistocytes [Presence] in Blood by Light microscopy,2580-12-17,
+3014,LAB3025616,Target cells [Presence] in Blood by Light microscopy,2580-12-17,
+3014,LAB3011987,Polychromasia [Presence] in Blood by Light microscopy,2580-12-17,
+3014,LAB3025639,Microcytes [Presence] in Blood,2580-12-17,
+3014,LAB3005707,Macrocytes [Presence] in Blood,2580-12-17,
+3014,LAB3011368,Poikilocytosis [Presence] in Blood by Light microscopy,2580-12-17,
+3014,LAB3038691,Anisocytosis [Presence] in Blood,2580-12-17,
+3014,LAB3021303,Hypochromia [Presence] in Blood by Light microscopy,2580-12-17,
+3014,LAB3017181,Myelocytes/100 leukocytes in Blood,2580-12-17,1.000
+3014,LAB3002179,Metamyelocytes/100 leukocytes in Blood,2580-12-17,2.000
+3014,LAB3013498,Lymphocytes Variant/100 leukocytes in Blood,2580-12-17,
+3014,LAB3022096,Basophils/100 leukocytes in Blood,2580-12-17,1.000
+3014,LAB3006504,Eosinophils/100 leukocytes in Blood,2580-12-17,1.000
+3014,LAB3019069,Monocytes/100 leukocytes in Blood,2580-12-17,19.000
+3014,LAB3002030,Lymphocytes/100 leukocytes in Blood,2580-12-17,21.000
+3014,LAB3004809,Neutrophils.band form/100 leukocytes in Blood,2580-12-17,2.000
+3014,LAB3017354,Neutrophils.segmented/100 leukocytes in Blood,2580-12-17,53.000
+3014,LAB3002385,Erythrocyte distribution width [Ratio],2580-12-17,18.900
+3014,LAB3003338,Erythrocyte mean corpuscular hemoglobin concentration [Mass/volume],2580-12-17,32.700
+3014,LAB3035941,Erythrocyte mean corpuscular hemoglobin [Entitic mass],2580-12-17,29.900
+3014,LAB3024731,Erythrocyte mean corpuscular volume [Entitic volume],2580-12-17,91.000
+3014,LAB3009542,Hematocrit [Volume Fraction] of Blood,2580-12-17,27.800
+3014,LAB3000963,Hemoglobin [Mass/volume] in Blood,2580-12-17,9.100
+3014,LAB3026361,Erythrocytes [#/volume] in Blood,2580-12-17,3.050
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-17,25.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2580-12-17,55.000
+3014,LAB3012501,Base excess in Blood,2580-12-17,-3.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-17,28.000
+3014,LAB3010421,pH of Blood,2580-12-17,7.210
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-17,67.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-17,22.000
+3014,LAB3012501,Base excess in Blood,2580-12-17,-7.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-17,25.000
+3014,LAB3010421,pH of Blood,2580-12-17,7.180
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-17,63.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-18,24.000
+3014,LAB3012501,Base excess in Blood,2580-12-18,-6.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-18,24.000
+3014,LAB3010421,pH of Blood,2580-12-18,7.230
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-18,54.000
+3014,LAB3012501,Base excess in Blood,2580-12-18,-5.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-18,23.000
+3014,LAB3010421,pH of Blood,2580-12-18,7.240
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-18,52.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-18,42.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2580-12-19,70.000
+3014,LAB3012501,Base excess in Blood,2580-12-19,-6.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-19,25.000
+3014,LAB3010421,pH of Blood,2580-12-19,7.210
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-19,60.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-19,21.000
+3014,LAB3013682,Urea nitrogen [Mass/volume] in Serum or Plasma,2580-12-19,24.000
+3014,LAB3022192,Triglyceride [Mass/volume] in Serum or Plasma,2580-12-19,198.000
+3014,LAB3007359,Bilirubin.indirect [Mass/volume] in Serum or Plasma,2580-12-19,5.200
+3014,LAB3027597,Bilirubin.direct [Mass/volume] in Serum or Plasma,2580-12-19,0.200
+3014,LAB3024128,Bilirubin.total [Mass/volume] in Serum or Plasma,2580-12-19,5.400
+3014,LAB3039000,Anion gap in Blood,2580-12-19,21.000
+3014,LAB3016293,Bicarbonate [Moles/volume] in Serum,2580-12-19,21.000
+3014,LAB3018572,Chloride [Moles/volume] in Blood,2580-12-19,101.000
+3014,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2580-12-19,5.700
+3014,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2580-12-19,137.000
+3014,LAB3016723,Creatinine [Mass/volume] in Serum or Plasma,2580-12-19,1.300
+3014,LAB3007913,Oxygen.alveolar - arterial [Partial pressure difference] Respiratory system,2580-12-19,662.000
+3014,LAB3012501,Base excess in Blood,2580-12-19,-6.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-19,20.000
+3014,LAB3010421,pH of Blood,2580-12-19,7.360
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-19,34.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-19,33.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2580-12-19,100.000
+3014,LAB3009542,Hematocrit [Volume Fraction] of Blood,2580-12-19,27.600
+3014,LAB3000963,Hemoglobin [Mass/volume] in Blood,2580-12-19,9.800
+3014,LAB3026361,Erythrocytes [#/volume] in Blood,2580-12-19,3.180
+3014,LAB3010813,Leukocytes [#/volume] in Blood,2580-12-19,20.000
+3014,LAB3007461,Platelets [#/volume] in Blood,2580-12-19,274.000
+3014,LAB3028658,Nucleated erythrocytes/100 erythrocytes in Blood,2580-12-19,2.000
+3014,LAB3017181,Myelocytes/100 leukocytes in Blood,2580-12-19,1.000
+3014,LAB3002179,Metamyelocytes/100 leukocytes in Blood,2580-12-19,1.000
+3014,LAB3013498,Lymphocytes Variant/100 leukocytes in Blood,2580-12-19,
+3014,LAB3022096,Basophils/100 leukocytes in Blood,2580-12-19,
+3014,LAB3006504,Eosinophils/100 leukocytes in Blood,2580-12-19,
+3014,LAB3019069,Monocytes/100 leukocytes in Blood,2580-12-19,18.000
+3014,LAB3002030,Lymphocytes/100 leukocytes in Blood,2580-12-19,30.000
+3014,LAB3004809,Neutrophils.band form/100 leukocytes in Blood,2580-12-19,3.000
+3014,LAB3017354,Neutrophils.segmented/100 leukocytes in Blood,2580-12-19,47.000
+3014,LAB3002385,Erythrocyte distribution width [Ratio],2580-12-19,18.300
+3014,LAB3003338,Erythrocyte mean corpuscular hemoglobin concentration [Mass/volume],2580-12-19,35.400
+3014,LAB3035941,Erythrocyte mean corpuscular hemoglobin [Entitic mass],2580-12-19,30.700
+3014,LAB3024731,Erythrocyte mean corpuscular volume [Entitic volume],2580-12-19,87.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2580-12-19,85.000
+3014,LAB3007913,Oxygen.alveolar - arterial [Partial pressure difference] Respiratory system,2580-12-19,529.000
+3014,LAB3012501,Base excess in Blood,2580-12-19,-6.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-19,24.000
+3014,LAB3010421,pH of Blood,2580-12-19,7.220
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-19,56.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-19,35.000
+3014,LAB3007913,Oxygen.alveolar - arterial [Partial pressure difference] Respiratory system,2580-12-19,628.000
+3014,LAB3012501,Base excess in Blood,2580-12-19,-2.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-19,25.000
+3014,LAB3010421,pH of Blood,2580-12-19,7.330
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-19,45.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-19,46.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2580-12-19,100.000
+3014,LAB3010813,Leukocytes [#/volume] in Blood,2580-12-19,24.600
+3014,LAB3007461,Platelets [#/volume] in Blood,2580-12-19,213.000
+3014,LAB3028658,Nucleated erythrocytes/100 erythrocytes in Blood,2580-12-19,3.000
+3014,LAB3017181,Myelocytes/100 leukocytes in Blood,2580-12-19,
+3014,LAB3002179,Metamyelocytes/100 leukocytes in Blood,2580-12-19,1.000
+3014,LAB3013498,Lymphocytes Variant/100 leukocytes in Blood,2580-12-19,7.000
+3014,LAB3022096,Basophils/100 leukocytes in Blood,2580-12-19,1.000
+3014,LAB3006504,Eosinophils/100 leukocytes in Blood,2580-12-19,
+3014,LAB3019069,Monocytes/100 leukocytes in Blood,2580-12-19,14.000
+3014,LAB3002030,Lymphocytes/100 leukocytes in Blood,2580-12-19,20.000
+3014,LAB3004809,Neutrophils.band form/100 leukocytes in Blood,2580-12-19,3.000
+3014,LAB3017354,Neutrophils.segmented/100 leukocytes in Blood,2580-12-19,54.000
+3014,LAB3002385,Erythrocyte distribution width [Ratio],2580-12-19,16.600
+3014,LAB3003338,Erythrocyte mean corpuscular hemoglobin concentration [Mass/volume],2580-12-19,35.100
+3014,LAB3035941,Erythrocyte mean corpuscular hemoglobin [Entitic mass],2580-12-19,30.000
+3014,LAB3024731,Erythrocyte mean corpuscular volume [Entitic volume],2580-12-19,86.000
+3014,LAB3009542,Hematocrit [Volume Fraction] of Blood,2580-12-19,38.200
+3014,LAB3000963,Hemoglobin [Mass/volume] in Blood,2580-12-19,13.400
+3014,LAB3026361,Erythrocytes [#/volume] in Blood,2580-12-19,4.470
+3014,LAB3022192,Triglyceride [Mass/volume] in Serum or Plasma,2580-12-20,46.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2580-12-20,55.000
+3014,LAB3012501,Base excess in Blood,2580-12-20,-4.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-20,26.000
+3014,LAB3010421,pH of Blood,2580-12-20,7.240
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-20,57.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-20,20.000
+3014,LAB3012501,Base excess in Blood,2580-12-20,-9.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-20,23.000
+3014,LAB3010421,pH of Blood,2580-12-20,7.170
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-20,61.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-20,20.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2580-12-20,28.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-20,24.000
+3014,LAB3012501,Base excess in Blood,2580-12-20,-5.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-20,26.000
+3014,LAB3010421,pH of Blood,2580-12-20,7.190
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-20,64.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2580-12-21,50.000
+3014,LAB3012501,Base excess in Blood,2580-12-21,-7.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-21,22.000
+3014,LAB3010421,pH of Blood,2580-12-21,7.240
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-21,49.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-21,22.000
+3014,LAB3013682,Urea nitrogen [Mass/volume] in Serum or Plasma,2580-12-21,37.000
+3014,LAB3022192,Triglyceride [Mass/volume] in Serum or Plasma,2580-12-21,62.000
+3014,LAB3039000,Anion gap in Blood,2580-12-21,30.000
+3014,LAB3016293,Bicarbonate [Moles/volume] in Serum,2580-12-21,19.000
+3014,LAB3018572,Chloride [Moles/volume] in Blood,2580-12-21,93.000
+3014,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2580-12-21,5.900
+3014,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2580-12-21,136.000
+3014,LAB3016723,Creatinine [Mass/volume] in Serum or Plasma,2580-12-21,2.100
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-21,25.000
+3014,LAB3012501,Base excess in Blood,2580-12-21,-6.000
+3014,LAB3010421,pH of Blood,2580-12-21,7.180
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-21,63.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-21,35.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2580-12-21,63.000
+3014,LAB3022875,Positive end expiratory pressure setting Ventilator,2580-12-21,9.000
+3014,LAB3010813,Leukocytes [#/volume] in Blood,2580-12-21,36.100
+3014,LAB3002030,Lymphocytes/100 leukocytes in Blood,2580-12-21,20.000
+3014,LAB3007461,Platelets [#/volume] in Blood,2580-12-21,288.000
+3014,LAB3028658,Nucleated erythrocytes/100 erythrocytes in Blood,2580-12-21,4.000
+3014,LAB3017181,Myelocytes/100 leukocytes in Blood,2580-12-21,
+3014,LAB3002179,Metamyelocytes/100 leukocytes in Blood,2580-12-21,
+3014,LAB3013498,Lymphocytes Variant/100 leukocytes in Blood,2580-12-21,
+3014,LAB3022096,Basophils/100 leukocytes in Blood,2580-12-21,
+3014,LAB3006504,Eosinophils/100 leukocytes in Blood,2580-12-21,
+3014,LAB3019069,Monocytes/100 leukocytes in Blood,2580-12-21,15.000
+3014,LAB3004809,Neutrophils.band form/100 leukocytes in Blood,2580-12-21,
+3014,LAB3017354,Neutrophils.segmented/100 leukocytes in Blood,2580-12-21,65.000
+3014,LAB3002385,Erythrocyte distribution width [Ratio],2580-12-21,16.700
+3014,LAB3003338,Erythrocyte mean corpuscular hemoglobin concentration [Mass/volume],2580-12-21,36.600
+3014,LAB3035941,Erythrocyte mean corpuscular hemoglobin [Entitic mass],2580-12-21,30.500
+3014,LAB3024731,Erythrocyte mean corpuscular volume [Entitic volume],2580-12-21,83.000
+3014,LAB3009542,Hematocrit [Volume Fraction] of Blood,2580-12-21,32.600
+3014,LAB3000963,Hemoglobin [Mass/volume] in Blood,2580-12-21,11.900
+3014,LAB3026361,Erythrocytes [#/volume] in Blood,2580-12-21,3.910
+3014,LAB3016293,Bicarbonate [Moles/volume] in Serum,2580-12-21,21.000
+3014,LAB3018572,Chloride [Moles/volume] in Blood,2580-12-21,99.000
+3014,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2580-12-21,6.100
+3014,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2580-12-21,142.000
+3014,LAB3016723,Creatinine [Mass/volume] in Serum or Plasma,2580-12-21,2.100
+3014,LAB3013682,Urea nitrogen [Mass/volume] in Serum or Plasma,2580-12-21,33.000
+3014,LAB3007359,Bilirubin.indirect [Mass/volume] in Serum or Plasma,2580-12-21,3.800
+3014,LAB3027597,Bilirubin.direct [Mass/volume] in Serum or Plasma,2580-12-21,0.300
+3014,LAB3024128,Bilirubin.total [Mass/volume] in Serum or Plasma,2580-12-21,4.100
+3014,LAB3039000,Anion gap in Blood,2580-12-21,28.000
+3014,LAB3005715,Vancomycin [Mass/volume] in Serum or Plasma,2580-12-21,15.200
+3014,LAB3012501,Base excess in Blood,2580-12-21,-1.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-21,30.000
+3014,LAB3010421,pH of Blood,2580-12-21,7.230
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-21,68.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-21,27.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2580-12-21,56.000
+3014,LAB3022875,Positive end expiratory pressure setting Ventilator,2580-12-21,6.000
+3014,LAB3035510,Gentamicin [Mass/volume] in Serum or Plasma,2580-12-21,3.000
+3014,LAB3013682,Urea nitrogen [Mass/volume] in Serum or Plasma,2580-12-22,28.000
+3014,LAB3005715,Vancomycin [Mass/volume] in Serum or Plasma,2580-12-22,11.100
+3014,LAB3022192,Triglyceride [Mass/volume] in Serum or Plasma,2580-12-22,182.000
+3014,LAB3039000,Anion gap in Blood,2580-12-22,23.000
+3014,LAB3016293,Bicarbonate [Moles/volume] in Serum,2580-12-22,25.000
+3014,LAB3018572,Chloride [Moles/volume] in Blood,2580-12-22,98.000
+3014,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2580-12-22,4.600
+3014,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2580-12-22,141.000
+3014,LAB3016723,Creatinine [Mass/volume] in Serum or Plasma,2580-12-22,1.800
+3014,LAB3022875,Positive end expiratory pressure setting Ventilator,2580-12-22,6.000
+3014,LAB3012501,Base excess in Blood,2580-12-22,-1.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-22,28.000
+3014,LAB3010421,pH of Blood,2580-12-22,7.250
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-22,62.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-22,42.000
+3014,LAB3035510,Gentamicin [Mass/volume] in Serum or Plasma,2580-12-22,2.100
+3014,LAB3005715,Vancomycin [Mass/volume] in Serum or Plasma,2580-12-22,9.600
+3014,LAB3005715,Vancomycin [Mass/volume] in Serum or Plasma,2580-12-22,23.700
+3014,LAB3012501,Base excess in Blood,2580-12-22,-3.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-22,29.000
+3014,LAB3010421,pH of Blood,2580-12-22,7.180
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-22,74.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-22,27.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2580-12-22,44.000
+3014,LAB3022875,Positive end expiratory pressure setting Ventilator,2580-12-22,5.000
+3014,LAB3012501,Base excess in Blood,2580-12-22,-4.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-22,28.000
+3014,LAB3010421,pH of Blood,2580-12-22,7.210
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-22,66.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-22,21.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2580-12-22,50.000
+3014,LAB3035510,Gentamicin [Mass/volume] in Serum or Plasma,2580-12-22,1.400
+3014,LAB3012501,Base excess in Blood,2580-12-22,-3.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-22,30.000
+3014,LAB3010421,pH of Blood,2580-12-22,7.160
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-22,80.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-22,22.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2580-12-22,57.000
+3014,LAB3022875,Positive end expiratory pressure setting Ventilator,2580-12-22,5.000
+3014,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2580-12-23,139.000
+3014,LAB3035510,Gentamicin [Mass/volume] in Serum or Plasma,2580-12-23,6.200
+3014,LAB3022192,Triglyceride [Mass/volume] in Serum or Plasma,2580-12-23,139.000
+3014,LAB3039000,Anion gap in Blood,2580-12-23,21.000
+3014,LAB3016293,Bicarbonate [Moles/volume] in Serum,2580-12-23,25.000
+3014,LAB3018572,Chloride [Moles/volume] in Blood,2580-12-23,98.000
+3014,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2580-12-23,4.800
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-23,28.000
+3014,LAB3012501,Base excess in Blood,2580-12-23,-5.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-23,28.000
+3014,LAB3010421,pH of Blood,2580-12-23,7.140
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-23,78.000
+3014,LAB3011987,Polychromasia [Presence] in Blood by Light microscopy,2580-12-23,
+3014,LAB3003338,Erythrocyte mean corpuscular hemoglobin concentration [Mass/volume],2580-12-23,34.200
+3014,LAB3017181,Myelocytes/100 leukocytes in Blood,2580-12-23,
+3014,LAB3002179,Metamyelocytes/100 leukocytes in Blood,2580-12-23,
+3014,LAB3013498,Lymphocytes Variant/100 leukocytes in Blood,2580-12-23,
+3014,LAB3022096,Basophils/100 leukocytes in Blood,2580-12-23,1.000
+3014,LAB3006504,Eosinophils/100 leukocytes in Blood,2580-12-23,7.000
+3014,LAB3019069,Monocytes/100 leukocytes in Blood,2580-12-23,22.000
+3014,LAB3002030,Lymphocytes/100 leukocytes in Blood,2580-12-23,22.000
+3014,LAB3004809,Neutrophils.band form/100 leukocytes in Blood,2580-12-23,
+3014,LAB3017354,Neutrophils.segmented/100 leukocytes in Blood,2580-12-23,48.000
+3014,LAB3002385,Erythrocyte distribution width [Ratio],2580-12-23,16.300
+3014,LAB3035941,Erythrocyte mean corpuscular hemoglobin [Entitic mass],2580-12-23,29.500
+3014,LAB3024731,Erythrocyte mean corpuscular volume [Entitic volume],2580-12-23,86.000
+3014,LAB3009542,Hematocrit [Volume Fraction] of Blood,2580-12-23,35.200
+3014,LAB3000963,Hemoglobin [Mass/volume] in Blood,2580-12-23,12.000
+3014,LAB3026361,Erythrocytes [#/volume] in Blood,2580-12-23,4.080
+3014,LAB3010813,Leukocytes [#/volume] in Blood,2580-12-23,20.300
+3014,LAB3025639,Microcytes [Presence] in Blood,2580-12-23,
+3014,LAB3005707,Macrocytes [Presence] in Blood,2580-12-23,
+3014,LAB3011368,Poikilocytosis [Presence] in Blood by Light microscopy,2580-12-23,
+3014,LAB3038691,Anisocytosis [Presence] in Blood,2580-12-23,
+3014,LAB3021303,Hypochromia [Presence] in Blood by Light microscopy,2580-12-23,
+3014,LAB3033641,Platelet adequacy [Presence] in Blood by Light microscopy,2580-12-23,
+3014,LAB3007461,Platelets [#/volume] in Blood,2580-12-23,246.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-23,21.000
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-23,68.000
+3014,LAB3010421,pH of Blood,2580-12-23,7.190
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-23,27.000
+3014,LAB3012501,Base excess in Blood,2580-12-23,-5.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2580-12-23,70.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-23,26.000
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-23,60.000
+3014,LAB3010421,pH of Blood,2580-12-23,7.240
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-23,27.000
+3014,LAB3012501,Base excess in Blood,2580-12-23,-3.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2580-12-23,100.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-23,28.000
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-23,41.000
+3014,LAB3010421,pH of Blood,2580-12-23,7.330
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-23,23.000
+3014,LAB3012501,Base excess in Blood,2580-12-23,-5.000
+3014,LAB3007913,Oxygen.alveolar - arterial [Partial pressure difference] Respiratory system,2580-12-23,652.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-23,26.000
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-23,51.000
+3014,LAB3010421,pH of Blood,2580-12-23,7.250
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-23,23.000
+3014,LAB3012501,Base excess in Blood,2580-12-23,-6.000
+3014,LAB3013682,Urea nitrogen [Mass/volume] in Serum or Plasma,2580-12-24,19.000
+3014,LAB3016723,Creatinine [Mass/volume] in Serum or Plasma,2580-12-24,1.400
+3014,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2580-12-24,137.000
+3014,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2580-12-24,6.300
+3014,LAB3018572,Chloride [Moles/volume] in Blood,2580-12-24,98.000
+3014,LAB3016293,Bicarbonate [Moles/volume] in Serum,2580-12-24,22.000
+3014,LAB3039000,Anion gap in Blood,2580-12-24,23.000
+3014,LAB3024128,Bilirubin.total [Mass/volume] in Serum or Plasma,2580-12-24,5.300
+3014,LAB3027597,Bilirubin.direct [Mass/volume] in Serum or Plasma,2580-12-24,0.400
+3014,LAB3007359,Bilirubin.indirect [Mass/volume] in Serum or Plasma,2580-12-24,4.900
+3014,LAB3022192,Triglyceride [Mass/volume] in Serum or Plasma,2580-12-24,187.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-24,22.000
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-24,33.000
+3014,LAB3010421,pH of Blood,2580-12-24,7.280
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-24,16.000
+3014,LAB3012501,Base excess in Blood,2580-12-24,-11.000
+3014,LAB3005715,Vancomycin [Mass/volume] in Serum or Plasma,2580-12-25,7.100
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2580-12-25,32.000
+3014,LAB3012501,Base excess in Blood,2580-12-25,-6.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-25,20.000
+3014,LAB3010421,pH of Blood,2580-12-25,7.330
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-25,27.000
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-25,37.000
+3014,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2580-12-25,131.000
+3014,LAB3005715,Vancomycin [Mass/volume] in Serum or Plasma,2580-12-25,30.500
+3014,LAB3039000,Anion gap in Blood,2580-12-25,23.000
+3014,LAB3016293,Bicarbonate [Moles/volume] in Serum,2580-12-25,20.000
+3014,LAB3018572,Chloride [Moles/volume] in Blood,2580-12-25,93.000
+3014,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2580-12-25,4.500
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2580-12-25,30.000
+3014,LAB3009542,Hematocrit [Volume Fraction] of Blood,2580-12-25,36.000
+3014,LAB3000963,Hemoglobin [Mass/volume] in Blood,2580-12-25,12.000
+3014,LAB3012501,Base excess in Blood,2580-12-25,-3.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-25,25.000
+3014,LAB3010421,pH of Blood,2580-12-25,7.280
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-25,51.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-25,27.000
+3014,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2580-12-26,129.000
+3014,LAB3022192,Triglyceride [Mass/volume] in Serum or Plasma,2580-12-26,104.000
+3014,LAB3039000,Anion gap in Blood,2580-12-26,23.000
+3014,LAB3016293,Bicarbonate [Moles/volume] in Serum,2580-12-26,19.000
+3014,LAB3018572,Chloride [Moles/volume] in Blood,2580-12-26,92.000
+3014,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2580-12-26,4.600
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-26,34.000
+3014,LAB3012501,Base excess in Blood,2580-12-26,-8.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-26,22.000
+3014,LAB3010421,pH of Blood,2580-12-26,7.180
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-26,57.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-26,28.000
+3014,LAB3012501,Base excess in Blood,2580-12-26,-8.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-26,20.000
+3014,LAB3010421,pH of Blood,2580-12-26,7.280
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-26,40.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2580-12-26,35.000
+3014,LAB3012501,Base excess in Blood,2580-12-26,-6.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-26,23.000
+3014,LAB3010421,pH of Blood,2580-12-26,7.250
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-26,50.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-26,31.000
+3014,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2580-12-27,133.000
+3014,LAB3022192,Triglyceride [Mass/volume] in Serum or Plasma,2580-12-27,153.000
+3014,LAB3039000,Anion gap in Blood,2580-12-27,21.000
+3014,LAB3016293,Bicarbonate [Moles/volume] in Serum,2580-12-27,20.000
+3014,LAB3018572,Chloride [Moles/volume] in Blood,2580-12-27,97.000
+3014,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2580-12-27,5.200
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-27,37.000
+3014,LAB3010421,pH of Blood,2580-12-27,7.300
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-27,72.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-27,26.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2580-12-27,50.000
+3014,LAB3012501,Base excess in Blood,2580-12-27,4.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2580-12-27,49.000
+3014,LAB3012501,Base excess in Blood,2580-12-27,-8.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-27,23.000
+3014,LAB3010421,pH of Blood,2580-12-27,7.150
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-27,63.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-27,32.000
+3014,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2580-12-27,133.000
+3014,LAB3022192,Triglyceride [Mass/volume] in Serum or Plasma,2580-12-27,96.000
+3014,LAB3007359,Bilirubin.indirect [Mass/volume] in Serum or Plasma,2580-12-27,5.100
+3014,LAB3027597,Bilirubin.direct [Mass/volume] in Serum or Plasma,2580-12-27,0.300
+3014,LAB3024128,Bilirubin.total [Mass/volume] in Serum or Plasma,2580-12-27,5.400
+3014,LAB3039000,Anion gap in Blood,2580-12-27,21.000
+3014,LAB3016293,Bicarbonate [Moles/volume] in Serum,2580-12-27,20.000
+3014,LAB3018572,Chloride [Moles/volume] in Blood,2580-12-27,96.000
+3014,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2580-12-27,4.300
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2580-12-27,55.000
+3014,LAB3012501,Base excess in Blood,2580-12-27,-6.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-27,22.000
+3014,LAB3010421,pH of Blood,2580-12-27,7.270
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-27,46.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-27,22.000
+3014,LAB3012501,Base excess in Blood,2580-12-28,-7.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-28,22.000
+3014,LAB3010421,pH of Blood,2580-12-28,7.240
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-28,48.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-28,31.000
+3014,LAB3010813,Leukocytes [#/volume] in Blood,2580-12-28,16.200
+3014,LAB3007461,Platelets [#/volume] in Blood,2580-12-28,373.000
+3014,LAB3025616,Target cells [Presence] in Blood by Light microscopy,2580-12-28,
+3014,LAB3011987,Polychromasia [Presence] in Blood by Light microscopy,2580-12-28,
+3014,LAB3025639,Microcytes [Presence] in Blood,2580-12-28,
+3014,LAB3005707,Macrocytes [Presence] in Blood,2580-12-28,
+3014,LAB3011368,Poikilocytosis [Presence] in Blood by Light microscopy,2580-12-28,
+3014,LAB3038691,Anisocytosis [Presence] in Blood,2580-12-28,
+3014,LAB3021303,Hypochromia [Presence] in Blood by Light microscopy,2580-12-28,
+3014,LAB3017181,Myelocytes/100 leukocytes in Blood,2580-12-28,
+3014,LAB3002179,Metamyelocytes/100 leukocytes in Blood,2580-12-28,
+3014,LAB3013498,Lymphocytes Variant/100 leukocytes in Blood,2580-12-28,
+3014,LAB3022096,Basophils/100 leukocytes in Blood,2580-12-28,1.000
+3014,LAB3006504,Eosinophils/100 leukocytes in Blood,2580-12-28,
+3014,LAB3019069,Monocytes/100 leukocytes in Blood,2580-12-28,14.000
+3014,LAB3002030,Lymphocytes/100 leukocytes in Blood,2580-12-28,37.000
+3014,LAB3004809,Neutrophils.band form/100 leukocytes in Blood,2580-12-28,5.000
+3014,LAB3017354,Neutrophils.segmented/100 leukocytes in Blood,2580-12-28,43.000
+3014,LAB3002385,Erythrocyte distribution width [Ratio],2580-12-28,16.700
+3014,LAB3003338,Erythrocyte mean corpuscular hemoglobin concentration [Mass/volume],2580-12-28,33.100
+3014,LAB3035941,Erythrocyte mean corpuscular hemoglobin [Entitic mass],2580-12-28,30.200
+3014,LAB3024731,Erythrocyte mean corpuscular volume [Entitic volume],2580-12-28,91.000
+3014,LAB3009542,Hematocrit [Volume Fraction] of Blood,2580-12-28,36.100
+3014,LAB3000963,Hemoglobin [Mass/volume] in Blood,2580-12-28,12.000
+3014,LAB3026361,Erythrocytes [#/volume] in Blood,2580-12-28,3.960
+3014,LAB3007913,Oxygen.alveolar - arterial [Partial pressure difference] Respiratory system,2580-12-29,657.000
+3014,LAB3012501,Base excess in Blood,2580-12-29,-8.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-29,22.000
+3014,LAB3010421,pH of Blood,2580-12-29,7.210
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-29,53.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-29,33.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2580-12-29,100.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-29,35.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2580-12-29,63.000
+3014,LAB3012501,Base excess in Blood,2580-12-29,-6.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-29,23.000
+3014,LAB3010421,pH of Blood,2580-12-29,7.230
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-29,53.000
+3014,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2580-12-30,131.000
+3014,LAB3016451,Thyroxine (T4) [Mass/volume] in Blood,2580-12-30,4.000
+3014,LAB3023399,Thyrotropin [Units/volume] in Blood,2580-12-30,7.000
+3014,LAB3007359,Bilirubin.indirect [Mass/volume] in Serum or Plasma,2580-12-30,5.700
+3014,LAB3027597,Bilirubin.direct [Mass/volume] in Serum or Plasma,2580-12-30,0.400
+3014,LAB3024128,Bilirubin.total [Mass/volume] in Serum or Plasma,2580-12-30,6.100
+3014,LAB3013721,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma,2580-12-30,20.000
+3014,LAB3006923,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,2580-12-30,4.000
+3014,LAB3039000,Anion gap in Blood,2580-12-30,18.000
+3014,LAB3016293,Bicarbonate [Moles/volume] in Serum,2580-12-30,19.000
+3014,LAB3018572,Chloride [Moles/volume] in Blood,2580-12-30,98.000
+3014,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2580-12-30,4.400
+3014,LAB3012501,Base excess in Blood,2580-12-30,-7.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-30,20.000
+3014,LAB3010421,pH of Blood,2580-12-30,7.260
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-30,42.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-30,96.000
+3014,LAB3013682,Urea nitrogen [Mass/volume] in Serum or Plasma,2580-12-31,31.000
+3014,LAB3022192,Triglyceride [Mass/volume] in Serum or Plasma,2580-12-31,194.000
+3014,LAB3007359,Bilirubin.indirect [Mass/volume] in Serum or Plasma,2580-12-31,5.300
+3014,LAB3027597,Bilirubin.direct [Mass/volume] in Serum or Plasma,2580-12-31,0.500
+3014,LAB3024128,Bilirubin.total [Mass/volume] in Serum or Plasma,2580-12-31,5.800
+3014,LAB3039000,Anion gap in Blood,2580-12-31,16.000
+3014,LAB3016293,Bicarbonate [Moles/volume] in Serum,2580-12-31,18.000
+3014,LAB3018572,Chloride [Moles/volume] in Blood,2580-12-31,99.000
+3014,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2580-12-31,4.800
+3014,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2580-12-31,128.000
+3014,LAB3016723,Creatinine [Mass/volume] in Serum or Plasma,2580-12-31,1.400
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2580-12-31,46.000
+3014,LAB3012501,Base excess in Blood,2580-12-31,-8.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-31,22.000
+3014,LAB3010421,pH of Blood,2580-12-31,7.230
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-31,49.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-31,28.000
+3014,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2580-12-31,137.000
+3014,LAB3007359,Bilirubin.indirect [Mass/volume] in Serum or Plasma,2580-12-31,5.000
+3014,LAB3027597,Bilirubin.direct [Mass/volume] in Serum or Plasma,2580-12-31,0.500
+3014,LAB3024128,Bilirubin.total [Mass/volume] in Serum or Plasma,2580-12-31,5.500
+3014,LAB3039000,Anion gap in Blood,2580-12-31,20.000
+3014,LAB3016293,Bicarbonate [Moles/volume] in Serum,2580-12-31,20.000
+3014,LAB3018572,Chloride [Moles/volume] in Blood,2580-12-31,102.000
+3014,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2580-12-31,4.900
+3014,LAB3012501,Base excess in Blood,2580-12-31,-4.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2580-12-31,24.000
+3014,LAB3010421,pH of Blood,2580-12-31,7.300
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2580-12-31,46.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2580-12-31,30.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2580-12-31,39.700
+3014,LAB3027162,Color of Urine,2581-01-01,
+3014,LAB3045414,Leukocytes [Presence] in Urine,2581-01-01,
+3014,LAB3015736,pH of Urine,2581-01-01,5.000
+3014,LAB3007950,Urobilinogen [Mass/volume] in Urine,2581-01-01,0.200
+3014,LAB3011258,Bilirubin.total [Presence] in Urine,2581-01-01,
+3014,LAB3032459,Ketones [Mass/volume] in Urine,2581-01-01,15.000
+3014,LAB3020399,Glucose [Mass/volume] in Urine,2581-01-01,
+3014,LAB3005897,Protein [Mass/volume] in Urine by Test strip,2581-01-01,30.000
+3014,LAB3021601,Nitrite [Presence] in Urine by Test strip,2581-01-01,
+3014,LAB3011397,Hemoglobin [Presence] in Urine by Test strip,2581-01-01,
+3014,LAB3000330,Specific gravity of Urine by Test strip,2581-01-01,1.015
+3014,LAB3007876,Appearance of Urine,2581-01-01,
+3014,LAB3009542,Hematocrit [Volume Fraction] of Blood,2581-01-02,30.000
+3014,LAB3000963,Hemoglobin [Mass/volume] in Blood,2581-01-02,10.100
+3014,LAB3012501,Base excess in Blood,2581-01-02,-6.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2581-01-02,23.000
+3014,LAB3010421,pH of Blood,2581-01-02,7.250
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2581-01-02,51.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2581-01-02,29.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2581-01-02,68.000
+3014,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2581-01-02,141.000
+3014,LAB3008598,Thyroxine (T4) free [Mass/volume] in Serum or Plasma,2581-01-02,1.000
+3014,LAB3022192,Triglyceride [Mass/volume] in Serum or Plasma,2581-01-02,181.000
+3014,LAB3007359,Bilirubin.indirect [Mass/volume] in Serum or Plasma,2581-01-02,3.200
+3014,LAB3027597,Bilirubin.direct [Mass/volume] in Serum or Plasma,2581-01-02,0.400
+3014,LAB3024128,Bilirubin.total [Mass/volume] in Serum or Plasma,2581-01-02,3.600
+3014,LAB3001110,Alkaline phosphatase [Enzymatic activity/volume] in Blood,2581-01-02,767.000
+3014,LAB3039000,Anion gap in Blood,2581-01-02,17.000
+3014,LAB3016293,Bicarbonate [Moles/volume] in Serum,2581-01-02,27.000
+3014,LAB3018572,Chloride [Moles/volume] in Blood,2581-01-02,102.000
+3014,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2581-01-02,5.200
+3014,LAB3012501,Base excess in Blood,2581-01-03,
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2581-01-03,31.000
+3014,LAB3010421,pH of Blood,2581-01-03,7.290
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2581-01-03,62.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2581-01-03,35.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2581-01-03,40.000
+3014,LAB3022875,Positive end expiratory pressure setting Ventilator,2581-01-03,6.000
+3014,LAB3013682,Urea nitrogen [Mass/volume] in Serum or Plasma,2581-01-04,11.000
+3014,LAB3009542,Hematocrit [Volume Fraction] of Blood,2581-01-04,36.400
+3014,LAB3022192,Triglyceride [Mass/volume] in Serum or Plasma,2581-01-04,129.000
+3014,LAB3039000,Anion gap in Blood,2581-01-04,16.000
+3014,LAB3016293,Bicarbonate [Moles/volume] in Serum,2581-01-04,30.000
+3014,LAB3018572,Chloride [Moles/volume] in Blood,2581-01-04,102.000
+3014,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2581-01-04,5.800
+3014,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2581-01-04,142.000
+3014,LAB3016723,Creatinine [Mass/volume] in Serum or Plasma,2581-01-04,0.600
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2581-01-04,41.000
+3014,LAB3012501,Base excess in Blood,2581-01-04,
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2581-01-04,32.000
+3014,LAB3010421,pH of Blood,2581-01-04,7.250
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2581-01-04,69.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2581-01-04,32.000
+3014,LAB3012501,Base excess in Blood,2581-01-05,2.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2581-01-05,34.000
+3014,LAB3010421,pH of Blood,2581-01-05,7.290
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2581-01-05,68.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2581-01-05,24.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2581-01-05,44.000
+3014,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2581-01-06,142.000
+3014,LAB3022192,Triglyceride [Mass/volume] in Serum or Plasma,2581-01-06,106.000
+3014,LAB3001420,Magnesium [Mass/volume] in Serum or Plasma,2581-01-06,2.100
+3014,LAB3007359,Bilirubin.indirect [Mass/volume] in Serum or Plasma,2581-01-06,4.700
+3014,LAB3027597,Bilirubin.direct [Mass/volume] in Serum or Plasma,2581-01-06,0.400
+3014,LAB3024128,Bilirubin.total [Mass/volume] in Serum or Plasma,2581-01-06,5.100
+3014,LAB3039000,Anion gap in Blood,2581-01-06,18.000
+3014,LAB3016293,Bicarbonate [Moles/volume] in Serum,2581-01-06,27.000
+3014,LAB3018572,Chloride [Moles/volume] in Blood,2581-01-06,103.000
+3014,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2581-01-06,5.700
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2581-01-06,27.000
+3014,LAB3012501,Base excess in Blood,2581-01-06,-1.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2581-01-06,29.000
+3014,LAB3010421,pH of Blood,2581-01-06,7.260
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2581-01-06,62.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2581-01-07,39.000
+3014,LAB3012501,Base excess in Blood,2581-01-07,-1.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2581-01-07,28.000
+3014,LAB3010421,pH of Blood,2581-01-07,7.250
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2581-01-07,62.000
+3014,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2581-01-09,133.000
+3014,LAB3039000,Anion gap in Blood,2581-01-09,23.000
+3014,LAB3016293,Bicarbonate [Moles/volume] in Serum,2581-01-09,20.000
+3014,LAB3018572,Chloride [Moles/volume] in Blood,2581-01-09,94.000
+3014,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2581-01-09,4.300
+3014,LAB3010421,pH of Blood,2581-01-09,7.190
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2581-01-09,56.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2581-01-09,42.000
+3014,LAB3022875,Positive end expiratory pressure setting Ventilator,2581-01-09,6.000
+3014,LAB3012501,Base excess in Blood,2581-01-09,-7.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2581-01-09,22.000
+3014,LAB3012501,Base excess in Blood,2581-01-09,-5.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2581-01-09,25.000
+3014,LAB3010421,pH of Blood,2581-01-09,7.250
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2581-01-09,54.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2581-01-09,41.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2581-01-09,37.000
+3014,LAB3022875,Positive end expiratory pressure setting Ventilator,2581-01-09,6.000
+3014,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2581-01-11,130.000
+3014,LAB3039000,Anion gap in Blood,2581-01-11,17.000
+3014,LAB3016293,Bicarbonate [Moles/volume] in Serum,2581-01-11,21.000
+3014,LAB3018572,Chloride [Moles/volume] in Blood,2581-01-11,96.000
+3014,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2581-01-11,4.400
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2581-01-11,20.000
+3014,LAB3009542,Hematocrit [Volume Fraction] of Blood,2581-01-11,30.000
+3014,LAB3000963,Hemoglobin [Mass/volume] in Blood,2581-01-11,9.900
+3014,LAB3012501,Base excess in Blood,2581-01-11,-4.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2581-01-11,25.000
+3014,LAB3010421,pH of Blood,2581-01-11,7.300
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2581-01-11,48.000
+3014,LAB3009542,Hematocrit [Volume Fraction] of Blood,2581-01-11,31.300
+3014,LAB3012501,Base excess in Blood,2581-01-12,-2.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2581-01-12,27.000
+3014,LAB3010421,pH of Blood,2581-01-12,7.290
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2581-01-12,54.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2581-01-12,20.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2581-01-12,36.000
+3014,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2581-01-13,135.000
+3014,LAB3039000,Anion gap in Blood,2581-01-13,18.000
+3014,LAB3016293,Bicarbonate [Moles/volume] in Serum,2581-01-13,21.000
+3014,LAB3018572,Chloride [Moles/volume] in Blood,2581-01-13,102.000
+3014,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2581-01-13,5.600
+3014,LAB3012501,Base excess in Blood,2581-01-13,-5.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2581-01-13,25.000
+3014,LAB3010421,pH of Blood,2581-01-13,7.250
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2581-01-13,54.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2581-01-13,26.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2581-01-13,41.000
+3014,LAB3011987,Polychromasia [Presence] in Blood by Light microscopy,2581-01-13,
+3014,LAB3025639,Microcytes [Presence] in Blood,2581-01-13,
+3014,LAB3005707,Macrocytes [Presence] in Blood,2581-01-13,
+3014,LAB3011368,Poikilocytosis [Presence] in Blood by Light microscopy,2581-01-13,
+3014,LAB3038691,Anisocytosis [Presence] in Blood,2581-01-13,
+3014,LAB3021303,Hypochromia [Presence] in Blood by Light microscopy,2581-01-13,
+3014,LAB3017181,Myelocytes/100 leukocytes in Blood,2581-01-13,
+3014,LAB3002179,Metamyelocytes/100 leukocytes in Blood,2581-01-13,
+3014,LAB3013498,Lymphocytes Variant/100 leukocytes in Blood,2581-01-13,1.000
+3014,LAB3022096,Basophils/100 leukocytes in Blood,2581-01-13,2.000
+3014,LAB3006504,Eosinophils/100 leukocytes in Blood,2581-01-13,
+3014,LAB3019069,Monocytes/100 leukocytes in Blood,2581-01-13,13.000
+3014,LAB3002030,Lymphocytes/100 leukocytes in Blood,2581-01-13,28.000
+3014,LAB3004809,Neutrophils.band form/100 leukocytes in Blood,2581-01-13,1.000
+3014,LAB3017354,Neutrophils.segmented/100 leukocytes in Blood,2581-01-13,55.000
+3014,LAB3002385,Erythrocyte distribution width [Ratio],2581-01-13,16.400
+3014,LAB3003338,Erythrocyte mean corpuscular hemoglobin concentration [Mass/volume],2581-01-13,31.700
+3014,LAB3035941,Erythrocyte mean corpuscular hemoglobin [Entitic mass],2581-01-13,28.700
+3014,LAB3024731,Erythrocyte mean corpuscular volume [Entitic volume],2581-01-13,91.000
+3014,LAB3009542,Hematocrit [Volume Fraction] of Blood,2581-01-13,28.000
+3014,LAB3000963,Hemoglobin [Mass/volume] in Blood,2581-01-13,8.900
+3014,LAB3026361,Erythrocytes [#/volume] in Blood,2581-01-13,3.090
+3014,LAB3010813,Leukocytes [#/volume] in Blood,2581-01-13,22.000
+3014,LAB3007461,Platelets [#/volume] in Blood,2581-01-13,440.000
+3014,LAB3042640,Fragments [Presence] in Blood by Automated count,2581-01-13,
+3014,LAB3005854,Burr cells [Presence] in Blood by Light microscopy,2581-01-13,
+3014,LAB3025616,Target cells [Presence] in Blood by Light microscopy,2581-01-13,
+3014,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2581-01-15,133.000
+3014,LAB3039000,Anion gap in Blood,2581-01-15,16.000
+3014,LAB3016293,Bicarbonate [Moles/volume] in Serum,2581-01-15,24.000
+3014,LAB3018572,Chloride [Moles/volume] in Blood,2581-01-15,98.000
+3014,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2581-01-15,4.500
+3014,LAB3012501,Base excess in Blood,2581-01-15,-6.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2581-01-15,24.000
+3014,LAB3010421,pH of Blood,2581-01-15,7.230
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2581-01-15,54.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2581-01-15,29.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2581-01-15,33.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2581-01-16,51.000
+3014,LAB3012501,Base excess in Blood,2581-01-16,-3.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2581-01-16,23.000
+3014,LAB3010421,pH of Blood,2581-01-16,7.300
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2581-01-16,45.000
+3014,LAB3012501,Base excess in Blood,2581-01-16,-4.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2581-01-16,21.000
+3014,LAB3010421,pH of Blood,2581-01-16,7.330
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2581-01-16,39.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2581-01-16,53.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2581-01-16,41.000
+3014,LAB3022875,Positive end expiratory pressure setting Ventilator,2581-01-16,22.000
+3014,LAB3013498,Lymphocytes Variant/100 leukocytes in Blood,2581-01-16,3.000
+3014,LAB3025639,Microcytes [Presence] in Blood,2581-01-16,
+3014,LAB3022096,Basophils/100 leukocytes in Blood,2581-01-16,
+3014,LAB3006504,Eosinophils/100 leukocytes in Blood,2581-01-16,1.000
+3014,LAB3019069,Monocytes/100 leukocytes in Blood,2581-01-16,5.000
+3014,LAB3002030,Lymphocytes/100 leukocytes in Blood,2581-01-16,28.000
+3014,LAB3004809,Neutrophils.band form/100 leukocytes in Blood,2581-01-16,1.000
+3014,LAB3017354,Neutrophils.segmented/100 leukocytes in Blood,2581-01-16,62.000
+3014,LAB3002385,Erythrocyte distribution width [Ratio],2581-01-16,15.400
+3014,LAB3003338,Erythrocyte mean corpuscular hemoglobin concentration [Mass/volume],2581-01-16,33.300
+3014,LAB3035941,Erythrocyte mean corpuscular hemoglobin [Entitic mass],2581-01-16,29.000
+3014,LAB3024731,Erythrocyte mean corpuscular volume [Entitic volume],2581-01-16,87.000
+3014,LAB3009542,Hematocrit [Volume Fraction] of Blood,2581-01-16,36.500
+3014,LAB3000963,Hemoglobin [Mass/volume] in Blood,2581-01-16,12.200
+3014,LAB3026361,Erythrocytes [#/volume] in Blood,2581-01-16,4.190
+3014,LAB3010813,Leukocytes [#/volume] in Blood,2581-01-16,20.500
+3014,LAB3002179,Metamyelocytes/100 leukocytes in Blood,2581-01-16,
+3014,LAB3017181,Myelocytes/100 leukocytes in Blood,2581-01-16,
+3014,LAB3021303,Hypochromia [Presence] in Blood by Light microscopy,2581-01-16,
+3014,LAB3038691,Anisocytosis [Presence] in Blood,2581-01-16,
+3014,LAB3011368,Poikilocytosis [Presence] in Blood by Light microscopy,2581-01-16,
+3014,LAB3005707,Macrocytes [Presence] in Blood,2581-01-16,
+3014,LAB3011987,Polychromasia [Presence] in Blood by Light microscopy,2581-01-16,
+3014,LAB3005481,Spherocytes [Presence] in Blood by Light microscopy,2581-01-16,
+3014,LAB3027920,Ovalocytes [Presence] in Blood by Light microscopy,2581-01-16,
+3014,LAB3025616,Target cells [Presence] in Blood by Light microscopy,2581-01-16,
+3014,LAB3005854,Burr cells [Presence] in Blood by Light microscopy,2581-01-16,
+3014,LAB3007461,Platelets [#/volume] in Blood,2581-01-16,464.000
+3014,LAB3005715,Vancomycin [Mass/volume] in Serum or Plasma,2581-01-17,10.700
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2581-01-17,35.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2581-01-17,47.000
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2581-01-17,53.000
+3014,LAB3010421,pH of Blood,2581-01-17,7.320
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2581-01-17,29.000
+3014,LAB3012501,Base excess in Blood,2581-01-17,
+3014,LAB3005715,Vancomycin [Mass/volume] in Serum or Plasma,2581-01-17,24.400
+3014,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2581-01-18,134.000
+3014,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2581-01-18,5.100
+3014,LAB3018572,Chloride [Moles/volume] in Blood,2581-01-18,99.000
+3014,LAB3016293,Bicarbonate [Moles/volume] in Serum,2581-01-18,24.000
+3014,LAB3039000,Anion gap in Blood,2581-01-18,16.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2581-01-18,34.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2581-01-18,51.000
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2581-01-18,56.000
+3014,LAB3010421,pH of Blood,2581-01-18,7.310
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2581-01-18,30.000
+3014,LAB3012501,Base excess in Blood,2581-01-18,
+3014,LAB3022875,Positive end expiratory pressure setting Ventilator,2581-01-20,6.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2581-01-20,42.000
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2581-01-20,52.000
+3014,LAB3010421,pH of Blood,2581-01-20,7.360
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2581-01-20,31.000
+3014,LAB3012501,Base excess in Blood,2581-01-20,2.000
+3014,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2581-01-22,132.000
+3014,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2581-01-22,3.100
+3014,LAB3018572,Chloride [Moles/volume] in Blood,2581-01-22,89.000
+3014,LAB3016293,Bicarbonate [Moles/volume] in Serum,2581-01-22,28.000
+3014,LAB3039000,Anion gap in Blood,2581-01-22,18.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2581-01-22,46.000
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2581-01-22,47.000
+3014,LAB3010421,pH of Blood,2581-01-22,7.430
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2581-01-22,32.000
+3014,LAB3012501,Base excess in Blood,2581-01-22,5.000
+3014,LAB3012501,Base excess in Blood,2581-01-23,4.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2581-01-23,33.000
+3014,LAB3010421,pH of Blood,2581-01-23,7.410
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2581-01-23,51.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2581-01-23,30.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2581-01-23,34.000
+3014,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2581-01-24,129.000
+3014,LAB3018572,Chloride [Moles/volume] in Blood,2581-01-24,84.000
+3014,LAB3039000,Anion gap in Blood,2581-01-24,17.000
+3014,LAB3016293,Bicarbonate [Moles/volume] in Serum,2581-01-24,31.000
+3014,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2581-01-24,3.200
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2581-01-24,37.000
+3014,LAB3012501,Base excess in Blood,2581-01-24,3.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2581-01-24,30.000
+3014,LAB3010421,pH of Blood,2581-01-24,7.450
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2581-01-24,42.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2581-01-24,27.000
+3014,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2581-01-26,127.000
+3014,LAB3039000,Anion gap in Blood,2581-01-26,17.000
+3014,LAB3016293,Bicarbonate [Moles/volume] in Serum,2581-01-26,23.000
+3014,LAB3018572,Chloride [Moles/volume] in Blood,2581-01-26,92.000
+3014,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2581-01-26,4.600
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2581-01-26,35.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2581-01-26,44.000
+3014,LAB3012501,Base excess in Blood,2581-01-26,
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2581-01-26,28.000
+3014,LAB3010421,pH of Blood,2581-01-26,7.360
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2581-01-26,47.000
+3014,LAB3013682,Urea nitrogen [Mass/volume] in Serum or Plasma,2581-01-28,10.000
+3014,LAB3009542,Hematocrit [Volume Fraction] of Blood,2581-01-28,29.400
+3014,LAB3008598,Thyroxine (T4) free [Mass/volume] in Serum or Plasma,2581-01-28,1.200
+3014,LAB3023399,Thyrotropin [Units/volume] in Blood,2581-01-28,4.000
+3014,LAB3039000,Anion gap in Blood,2581-01-28,15.000
+3014,LAB3016293,Bicarbonate [Moles/volume] in Serum,2581-01-28,26.000
+3014,LAB3018572,Chloride [Moles/volume] in Blood,2581-01-28,96.000
+3014,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2581-01-28,4.700
+3014,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2581-01-28,132.000
+3014,LAB3016723,Creatinine [Mass/volume] in Serum or Plasma,2581-01-28,0.300
+3014,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2581-02-01,135.000
+3014,LAB3007124,Reticulocytes/100 erythrocytes in Blood by Automated count,2581-02-01,4.000
+3014,LAB3009542,Hematocrit [Volume Fraction] of Blood,2581-02-01,26.200
+3014,LAB3011904,Phosphate [Mass/volume] in Serum or Plasma,2581-02-01,4.900
+3014,LAB3006906,Calcium [Mass/volume] in Serum or Plasma,2581-02-01,10.400
+3014,LAB3001110,Alkaline phosphatase [Enzymatic activity/volume] in Blood,2581-02-01,431.000
+3014,LAB3039000,Anion gap in Blood,2581-02-01,17.000
+3014,LAB3016293,Bicarbonate [Moles/volume] in Serum,2581-02-01,26.000
+3014,LAB3018572,Chloride [Moles/volume] in Blood,2581-02-01,97.000
+3014,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2581-02-01,5.300
+3014,LAB3002030,Lymphocytes/100 leukocytes in Blood,2581-02-04,22.000
+3014,LAB3021303,Hypochromia [Presence] in Blood by Light microscopy,2581-02-04,
+3014,LAB3004809,Neutrophils.band form/100 leukocytes in Blood,2581-02-04,4.000
+3014,LAB3017354,Neutrophils.segmented/100 leukocytes in Blood,2581-02-04,63.000
+3014,LAB3002385,Erythrocyte distribution width [Ratio],2581-02-04,15.600
+3014,LAB3003338,Erythrocyte mean corpuscular hemoglobin concentration [Mass/volume],2581-02-04,33.200
+3014,LAB3035941,Erythrocyte mean corpuscular hemoglobin [Entitic mass],2581-02-04,28.200
+3014,LAB3024731,Erythrocyte mean corpuscular volume [Entitic volume],2581-02-04,85.000
+3014,LAB3009542,Hematocrit [Volume Fraction] of Blood,2581-02-04,37.300
+3014,LAB3000963,Hemoglobin [Mass/volume] in Blood,2581-02-04,12.400
+3014,LAB3026361,Erythrocytes [#/volume] in Blood,2581-02-04,4.390
+3014,LAB3010813,Leukocytes [#/volume] in Blood,2581-02-04,28.600
+3014,LAB3007461,Platelets [#/volume] in Blood,2581-02-04,808.000
+3014,LAB3033641,Platelet adequacy [Presence] in Blood by Light microscopy,2581-02-04,
+3014,LAB3011987,Polychromasia [Presence] in Blood by Light microscopy,2581-02-04,
+3014,LAB3025639,Microcytes [Presence] in Blood,2581-02-04,
+3014,LAB3005707,Macrocytes [Presence] in Blood,2581-02-04,
+3014,LAB3011368,Poikilocytosis [Presence] in Blood by Light microscopy,2581-02-04,
+3014,LAB3038691,Anisocytosis [Presence] in Blood,2581-02-04,
+3014,LAB3017181,Myelocytes/100 leukocytes in Blood,2581-02-04,
+3014,LAB3002179,Metamyelocytes/100 leukocytes in Blood,2581-02-04,
+3014,LAB3013498,Lymphocytes Variant/100 leukocytes in Blood,2581-02-04,
+3014,LAB3022096,Basophils/100 leukocytes in Blood,2581-02-04,
+3014,LAB3006504,Eosinophils/100 leukocytes in Blood,2581-02-04,
+3014,LAB3019069,Monocytes/100 leukocytes in Blood,2581-02-04,11.000
+3014,LAB3027162,Color of Urine,2581-02-07,
+3014,LAB3035583,Leukocytes [#/area] in Urine sediment by Microscopy high power field,2581-02-07,
+3014,LAB3011397,Hemoglobin [Presence] in Urine by Test strip,2581-02-07,
+3014,LAB3010189,Epithelial cells [#/area] in Urine sediment by Microscopy high power field,2581-02-07,
+3014,LAB3000259,Yeast [Presence] in Urine sediment by Light microscopy,2581-02-07,
+3014,LAB3004562,Bacteria [Presence] in Urine sediment by Light microscopy,2581-02-07,
+3014,LAB3035124,Erythrocytes [#/area] in Urine sediment by Microscopy high power field,2581-02-07,
+3014,LAB3045414,Leukocytes [Presence] in Urine,2581-02-07,
+3014,LAB3015736,pH of Urine,2581-02-07,7.000
+3014,LAB3007950,Urobilinogen [Mass/volume] in Urine,2581-02-07,0.200
+3014,LAB3011258,Bilirubin.total [Presence] in Urine,2581-02-07,
+3014,LAB3032459,Ketones [Mass/volume] in Urine,2581-02-07,
+3014,LAB3020399,Glucose [Mass/volume] in Urine,2581-02-07,
+3014,LAB3005897,Protein [Mass/volume] in Urine by Test strip,2581-02-07,30.000
+3014,LAB3021601,Nitrite [Presence] in Urine by Test strip,2581-02-07,
+3014,LAB3000330,Specific gravity of Urine by Test strip,2581-02-07,1.010
+3014,LAB3007876,Appearance of Urine,2581-02-07,
+3014,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2581-02-12,138.000
+3014,LAB3039000,Anion gap in Blood,2581-02-12,12.000
+3014,LAB3016293,Bicarbonate [Moles/volume] in Serum,2581-02-12,30.000
+3014,LAB3018572,Chloride [Moles/volume] in Blood,2581-02-12,101.000
+3014,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2581-02-12,4.900
+3014,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2581-02-14,134.000
+3014,LAB3016293,Bicarbonate [Moles/volume] in Serum,2581-02-14,27.000
+3014,LAB3002809,Reticulocytes/100 erythrocytes in Blood by Manual,2581-02-14,5.800
+3014,LAB3009542,Hematocrit [Volume Fraction] of Blood,2581-02-14,30.500
+3014,LAB3011904,Phosphate [Mass/volume] in Serum or Plasma,2581-02-14,3.800
+3014,LAB3006906,Calcium [Mass/volume] in Serum or Plasma,2581-02-14,9.500
+3014,LAB3001110,Alkaline phosphatase [Enzymatic activity/volume] in Blood,2581-02-14,604.000
+3014,LAB3039000,Anion gap in Blood,2581-02-14,10.000
+3014,LAB3018572,Chloride [Moles/volume] in Blood,2581-02-14,102.000
+3014,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2581-02-14,5.300
+3014,LAB3019069,Monocytes/100 leukocytes in Blood,2581-02-20,8.000
+3014,LAB3006906,Calcium [Mass/volume] in Serum or Plasma,2581-02-20,9.700
+3014,LAB3002030,Lymphocytes/100 leukocytes in Blood,2581-02-20,52.000
+3014,LAB3004809,Neutrophils.band form/100 leukocytes in Blood,2581-02-20,2.000
+3014,LAB3017354,Neutrophils.segmented/100 leukocytes in Blood,2581-02-20,35.000
+3014,LAB3002385,Erythrocyte distribution width [Ratio],2581-02-20,14.800
+3014,LAB3003338,Erythrocyte mean corpuscular hemoglobin concentration [Mass/volume],2581-02-20,33.500
+3014,LAB3035941,Erythrocyte mean corpuscular hemoglobin [Entitic mass],2581-02-20,28.400
+3014,LAB3024731,Erythrocyte mean corpuscular volume [Entitic volume],2581-02-20,85.000
+3014,LAB3009542,Hematocrit [Volume Fraction] of Blood,2581-02-20,35.900
+3014,LAB3000963,Hemoglobin [Mass/volume] in Blood,2581-02-20,12.000
+3014,LAB3026361,Erythrocytes [#/volume] in Blood,2581-02-20,4.230
+3014,LAB3010813,Leukocytes [#/volume] in Blood,2581-02-20,17.100
+3014,LAB3011904,Phosphate [Mass/volume] in Serum or Plasma,2581-02-20,4.200
+3014,LAB3001110,Alkaline phosphatase [Enzymatic activity/volume] in Blood,2581-02-20,636.000
+3014,LAB3039000,Anion gap in Blood,2581-02-20,12.000
+3014,LAB3016293,Bicarbonate [Moles/volume] in Serum,2581-02-20,27.000
+3014,LAB3018572,Chloride [Moles/volume] in Blood,2581-02-20,103.000
+3014,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2581-02-20,4.600
+3014,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2581-02-20,137.000
+3014,LAB3007461,Platelets [#/volume] in Blood,2581-02-20,550.000
+3014,LAB3033641,Platelet adequacy [Presence] in Blood by Light microscopy,2581-02-20,
+3014,LAB3011987,Polychromasia [Presence] in Blood by Light microscopy,2581-02-20,
+3014,LAB3025639,Microcytes [Presence] in Blood,2581-02-20,
+3014,LAB3005707,Macrocytes [Presence] in Blood,2581-02-20,
+3014,LAB3011368,Poikilocytosis [Presence] in Blood by Light microscopy,2581-02-20,
+3014,LAB3038691,Anisocytosis [Presence] in Blood,2581-02-20,
+3014,LAB3017181,Myelocytes/100 leukocytes in Blood,2581-02-20,
+3014,LAB3002179,Metamyelocytes/100 leukocytes in Blood,2581-02-20,
+3014,LAB3013498,Lymphocytes Variant/100 leukocytes in Blood,2581-02-20,
+3014,LAB3022096,Basophils/100 leukocytes in Blood,2581-02-20,1.000
+3014,LAB3006504,Eosinophils/100 leukocytes in Blood,2581-02-20,2.000
+3014,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2581-02-27,139.000
+3014,LAB3007461,Platelets [#/volume] in Blood,2581-02-27,533.000
+3014,LAB3033641,Platelet adequacy [Presence] in Blood by Light microscopy,2581-02-27,
+3014,LAB3011987,Polychromasia [Presence] in Blood by Light microscopy,2581-02-27,
+3014,LAB3025639,Microcytes [Presence] in Blood,2581-02-27,
+3014,LAB3005707,Macrocytes [Presence] in Blood,2581-02-27,
+3014,LAB3011368,Poikilocytosis [Presence] in Blood by Light microscopy,2581-02-27,
+3014,LAB3038691,Anisocytosis [Presence] in Blood,2581-02-27,
+3014,LAB3021303,Hypochromia [Presence] in Blood by Light microscopy,2581-02-27,
+3014,LAB3017181,Myelocytes/100 leukocytes in Blood,2581-02-27,
+3014,LAB3002179,Metamyelocytes/100 leukocytes in Blood,2581-02-27,
+3014,LAB3013498,Lymphocytes Variant/100 leukocytes in Blood,2581-02-27,7.000
+3014,LAB3022096,Basophils/100 leukocytes in Blood,2581-02-27,
+3014,LAB3006504,Eosinophils/100 leukocytes in Blood,2581-02-27,2.000
+3014,LAB3019069,Monocytes/100 leukocytes in Blood,2581-02-27,7.000
+3014,LAB3002030,Lymphocytes/100 leukocytes in Blood,2581-02-27,41.000
+3014,LAB3004809,Neutrophils.band form/100 leukocytes in Blood,2581-02-27,
+3014,LAB3017354,Neutrophils.segmented/100 leukocytes in Blood,2581-02-27,43.000
+3014,LAB3002385,Erythrocyte distribution width [Ratio],2581-02-27,15.200
+3014,LAB3003338,Erythrocyte mean corpuscular hemoglobin concentration [Mass/volume],2581-02-27,32.200
+3014,LAB3035941,Erythrocyte mean corpuscular hemoglobin [Entitic mass],2581-02-27,27.300
+3014,LAB3024731,Erythrocyte mean corpuscular volume [Entitic volume],2581-02-27,85.000
+3014,LAB3009542,Hematocrit [Volume Fraction] of Blood,2581-02-27,32.100
+3014,LAB3000963,Hemoglobin [Mass/volume] in Blood,2581-02-27,10.300
+3014,LAB3026361,Erythrocytes [#/volume] in Blood,2581-02-27,3.790
+3014,LAB3010813,Leukocytes [#/volume] in Blood,2581-02-27,9.900
+3014,LAB3011904,Phosphate [Mass/volume] in Serum or Plasma,2581-02-27,3.900
+3014,LAB3006906,Calcium [Mass/volume] in Serum or Plasma,2581-02-27,9.800
+3014,LAB3024561,Albumin [Mass/volume] in Serum or Plasma,2581-02-27,3.800
+3014,LAB3001110,Alkaline phosphatase [Enzymatic activity/volume] in Blood,2581-02-27,668.000
+3014,LAB3039000,Anion gap in Blood,2581-02-27,8.000
+3014,LAB3016293,Bicarbonate [Moles/volume] in Serum,2581-02-27,33.000
+3014,LAB3018572,Chloride [Moles/volume] in Blood,2581-02-27,102.000
+3014,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2581-02-27,4.000
+3014,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2581-03-09,138.000
+3014,LAB3039000,Anion gap in Blood,2581-03-09,9.000
+3014,LAB3016293,Bicarbonate [Moles/volume] in Serum,2581-03-09,36.000
+3014,LAB3018572,Chloride [Moles/volume] in Blood,2581-03-09,97.000
+3014,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2581-03-09,4.100
+3014,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2581-03-13,141.000
+3014,LAB3007124,Reticulocytes/100 erythrocytes in Blood by Automated count,2581-03-13,4.100
+3014,LAB3011904,Phosphate [Mass/volume] in Serum or Plasma,2581-03-13,5.100
+3014,LAB3006906,Calcium [Mass/volume] in Serum or Plasma,2581-03-13,9.300
+3014,LAB3001110,Alkaline phosphatase [Enzymatic activity/volume] in Blood,2581-03-13,756.000
+3014,LAB3039000,Anion gap in Blood,2581-03-13,15.000
+3014,LAB3016293,Bicarbonate [Moles/volume] in Serum,2581-03-13,30.000
+3014,LAB3018572,Chloride [Moles/volume] in Blood,2581-03-13,100.000
+3014,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2581-03-13,3.600
+3014,LAB3016293,Bicarbonate [Moles/volume] in Serum,2581-03-20,39.000
+3014,LAB3018572,Chloride [Moles/volume] in Blood,2581-03-20,99.000
+3014,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2581-03-20,4.800
+3014,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2581-03-20,141.000
+3014,LAB3002809,Reticulocytes/100 erythrocytes in Blood by Manual,2581-03-20,3.800
+3014,LAB3009542,Hematocrit [Volume Fraction] of Blood,2581-03-20,33.800
+3014,LAB3011904,Phosphate [Mass/volume] in Serum or Plasma,2581-03-20,5.800
+3014,LAB3006906,Calcium [Mass/volume] in Serum or Plasma,2581-03-20,9.100
+3014,LAB3001110,Alkaline phosphatase [Enzymatic activity/volume] in Blood,2581-03-20,825.000
+3014,LAB3039000,Anion gap in Blood,2581-03-20,8.000
+3014,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2581-03-27,138.000
+3014,LAB3011904,Phosphate [Mass/volume] in Serum or Plasma,2581-03-27,6.200
+3014,LAB3006906,Calcium [Mass/volume] in Serum or Plasma,2581-03-27,9.400
+3014,LAB3007359,Bilirubin.indirect [Mass/volume] in Serum or Plasma,2581-03-27,0.100
+3014,LAB3027597,Bilirubin.direct [Mass/volume] in Serum or Plasma,2581-03-27,0.100
+3014,LAB3024128,Bilirubin.total [Mass/volume] in Serum or Plasma,2581-03-27,0.200
+3014,LAB3001110,Alkaline phosphatase [Enzymatic activity/volume] in Blood,2581-03-27,700.000
+3014,LAB3013721,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma,2581-03-27,36.000
+3014,LAB3006923,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,2581-03-27,13.000
+3014,LAB3039000,Anion gap in Blood,2581-03-27,9.000
+3014,LAB3016293,Bicarbonate [Moles/volume] in Serum,2581-03-27,38.000
+3014,LAB3018572,Chloride [Moles/volume] in Blood,2581-03-27,95.000
+3014,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2581-03-27,4.400
+3014,LAB3012501,Base excess in Blood,2581-03-30,5.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2581-03-30,36.000
+3014,LAB3010421,pH of Blood,2581-03-30,7.300
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2581-03-30,70.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2581-03-30,36.000
+3014,LAB3005629,Inhaled oxygen flow rate,2581-03-30,70.000
+3014,LAB3005629,Inhaled oxygen flow rate,2581-03-31,60.000
+3014,LAB3012501,Base excess in Blood,2581-03-31,
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2581-03-31,27.000
+3014,LAB3010421,pH of Blood,2581-03-31,7.440
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2581-03-31,38.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2581-03-31,24.000
+3014,LAB3010813,Leukocytes [#/volume] in Blood,2581-04-01,8.600
+3014,LAB3007461,Platelets [#/volume] in Blood,2581-04-01,465.000
+3014,LAB3033641,Platelet adequacy [Presence] in Blood by Light microscopy,2581-04-01,
+3014,LAB3011987,Polychromasia [Presence] in Blood by Light microscopy,2581-04-01,
+3014,LAB3025639,Microcytes [Presence] in Blood,2581-04-01,
+3014,LAB3005707,Macrocytes [Presence] in Blood,2581-04-01,
+3014,LAB3011368,Poikilocytosis [Presence] in Blood by Light microscopy,2581-04-01,
+3014,LAB3017181,Myelocytes/100 leukocytes in Blood,2581-04-01,
+3014,LAB3002179,Metamyelocytes/100 leukocytes in Blood,2581-04-01,
+3014,LAB3013498,Lymphocytes Variant/100 leukocytes in Blood,2581-04-01,1.000
+3014,LAB3022096,Basophils/100 leukocytes in Blood,2581-04-01,
+3014,LAB3006504,Eosinophils/100 leukocytes in Blood,2581-04-01,12.000
+3014,LAB3019069,Monocytes/100 leukocytes in Blood,2581-04-01,5.000
+3014,LAB3002030,Lymphocytes/100 leukocytes in Blood,2581-04-01,48.000
+3014,LAB3004809,Neutrophils.band form/100 leukocytes in Blood,2581-04-01,
+3014,LAB3017354,Neutrophils.segmented/100 leukocytes in Blood,2581-04-01,34.000
+3014,LAB3002385,Erythrocyte distribution width [Ratio],2581-04-01,15.000
+3014,LAB3003338,Erythrocyte mean corpuscular hemoglobin concentration [Mass/volume],2581-04-01,33.800
+3014,LAB3035941,Erythrocyte mean corpuscular hemoglobin [Entitic mass],2581-04-01,29.000
+3014,LAB3024731,Erythrocyte mean corpuscular volume [Entitic volume],2581-04-01,86.000
+3014,LAB3009542,Hematocrit [Volume Fraction] of Blood,2581-04-01,32.300
+3014,LAB3000963,Hemoglobin [Mass/volume] in Blood,2581-04-01,10.900
+3014,LAB3026361,Erythrocytes [#/volume] in Blood,2581-04-01,3.760
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2581-04-01,68.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2581-04-01,61.000
+3014,LAB3012501,Base excess in Blood,2581-04-01,2.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2581-04-01,33.000
+3014,LAB3010421,pH of Blood,2581-04-01,7.280
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2581-04-01,68.000
+3014,LAB3012501,Base excess in Blood,2581-04-01,4.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2581-04-01,35.000
+3014,LAB3010421,pH of Blood,2581-04-01,7.300
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2581-04-01,58.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2581-04-01,53.000
+3014,LAB3012501,Base excess in Blood,2581-04-02,3.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2581-04-02,34.000
+3014,LAB3010421,pH of Blood,2581-04-02,7.300
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2581-04-02,67.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2581-04-02,45.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2581-04-02,58.000
+3014,LAB3012410,Tidal volume setting Ventilator,2581-04-02,25.000
+3014,LAB3007913,Oxygen.alveolar - arterial [Partial pressure difference] Respiratory system,2581-04-02,529.000
+3014,LAB3012501,Base excess in Blood,2581-04-02,11.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2581-04-02,43.000
+3014,LAB3010421,pH of Blood,2581-04-02,7.340
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2581-04-02,77.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2581-04-02,34.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2581-04-02,90.000
+3014,LAB3022875,Positive end expiratory pressure setting Ventilator,2581-04-02,6.000
+3014,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2581-04-03,139.000
+3014,LAB3039000,Anion gap in Blood,2581-04-03,7.000
+3014,LAB3016293,Bicarbonate [Moles/volume] in Serum,2581-04-03,40.000
+3014,LAB3018572,Chloride [Moles/volume] in Blood,2581-04-03,97.000
+3014,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2581-04-03,4.600
+3014,LAB3012501,Base excess in Blood,2581-04-03,7.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2581-04-03,40.000
+3014,LAB3010421,pH of Blood,2581-04-03,7.290
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2581-04-03,80.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2581-04-03,50.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2581-04-04,32.000
+3014,LAB3012501,Base excess in Blood,2581-04-04,9.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2581-04-04,34.000
+3014,LAB3010421,pH of Blood,2581-04-04,7.540
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2581-04-04,39.000
+3014,LAB3010421,pH of Blood,2581-04-04,7.330
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2581-04-04,57.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2581-04-04,37.000
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2581-04-04,56.000
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2581-04-04,31.000
+3014,LAB3012501,Base excess in Blood,2581-04-04,1.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2581-04-04,34.000
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2581-04-04,51.000
+3014,LAB3010421,pH of Blood,2581-04-04,7.360
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2581-04-04,30.000
+3014,LAB3012501,Base excess in Blood,2581-04-04,1.000
+3014,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2581-04-08,138.000
+3014,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2581-04-08,5.600
+3014,LAB3018572,Chloride [Moles/volume] in Blood,2581-04-08,99.000
+3014,LAB3016293,Bicarbonate [Moles/volume] in Serum,2581-04-08,27.000
+3014,LAB3039000,Anion gap in Blood,2581-04-08,18.000
+3014,LAB3001110,Alkaline phosphatase [Enzymatic activity/volume] in Blood,2581-04-08,547.000
+3014,LAB3006906,Calcium [Mass/volume] in Serum or Plasma,2581-04-08,10.100
+3014,LAB3011904,Phosphate [Mass/volume] in Serum or Plasma,2581-04-08,6.900
+3014,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2581-04-13,137.000
+3014,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2581-04-13,5.700
+3014,LAB3018572,Chloride [Moles/volume] in Blood,2581-04-13,100.000
+3014,LAB3016293,Bicarbonate [Moles/volume] in Serum,2581-04-13,28.000
+3014,LAB3039000,Anion gap in Blood,2581-04-13,15.000
+3014,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2581-04-18,141.000
+3014,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2581-04-18,5.300
+3014,LAB3018572,Chloride [Moles/volume] in Blood,2581-04-18,104.000
+3014,LAB3016293,Bicarbonate [Moles/volume] in Serum,2581-04-18,26.000
+3014,LAB3039000,Anion gap in Blood,2581-04-18,16.000
+3014,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2581-04-25,137.000
+3014,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2581-04-25,5.300
+3014,LAB3018572,Chloride [Moles/volume] in Blood,2581-04-25,103.000
+3014,LAB3016293,Bicarbonate [Moles/volume] in Serum,2581-04-25,25.000
+3014,LAB3039000,Anion gap in Blood,2581-04-25,14.000
+3014,LAB3009542,Hematocrit [Volume Fraction] of Blood,2581-04-25,31.500
+3014,LAB3007124,Reticulocytes/100 erythrocytes in Blood by Automated count,2581-04-25,2.000
+3014,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2581-04-30,140.000
+3014,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2581-04-30,5.900
+3014,LAB3018572,Chloride [Moles/volume] in Blood,2581-04-30,102.000
+3014,LAB3016293,Bicarbonate [Moles/volume] in Serum,2581-04-30,27.000
+3014,LAB3039000,Anion gap in Blood,2581-04-30,17.000
+3014,LAB3007124,Reticulocytes/100 erythrocytes in Blood by Automated count,2581-04-30,1.700
+3014,LAB3009542,Hematocrit [Volume Fraction] of Blood,2581-04-30,33.200
+3014,LAB3024882,Oxygen/Inspired gas setting [Volume Fraction] Ventilator,2581-05-01,100.000
+3014,LAB3027315,Oxygen [Partial pressure] in Blood,2581-05-01,30.000
+3014,LAB3013290,Carbon dioxide [Partial pressure] in Blood,2581-05-01,59.000
+3014,LAB3010421,pH of Blood,2581-05-01,7.370
+3014,LAB3006576,Bicarbonate [Moles/volume] in Blood,2581-05-01,35.000
+3014,LAB3012501,Base excess in Blood,2581-05-01,6.000
+3014,LAB3007913,Oxygen.alveolar - arterial [Partial pressure difference] Respiratory system,2581-05-01,639.000
+3014,DRUG19008339,Vitamin A,2580-12-04,1.0
+3014,DRUG40227400,veal allergenic extract,2581-01-12,1.0
+3014,DRUG967823,Sodium Chloride,2581-01-16,1.0
+3014,DRUG19049105,Potassium Chloride,2581-01-16,1.0
+3014,DRUG40227400,veal allergenic extract,2581-01-05,1.0
+3014,DRUG19095164,Cholecalciferol,2581-01-16,1.0
+3014,DRUG19095709,fenipentol,2581-04-02,1.0
+3014,DRUG40243324,Atropine Sulfate 0.01 MG/MG Ophthalmic Ointment,2581-03-31,1.0
+3014,DRUG19049105,Potassium Chloride,2581-04-18,1.0
+3014,DRUG967823,Sodium Chloride,2581-04-24,1.0
+3014,DRUG19049105,Potassium Chloride,2581-04-24,1.0
+3014,DRUG19095164,Cholecalciferol,2581-04-24,1.0
+3014,DRUG967823,Sodium Chloride,2581-02-27,1.0
+3014,DRUG19049105,Potassium Chloride,2581-02-27,1.0
+3014,DRUG19012125,Fentanyl Citrate,2580-12-26,1.0
+3014,DRUG19095164,Cholecalciferol,2581-02-27,1.0
+3014,DRUG40227400,veal allergenic extract,2581-02-28,1.0
+3014,DRUG19049105,Potassium Chloride,2581-03-14,1.0
+3014,DRUG791967,Lorazepam,2581-04-03,1.0
+3014,DRUG19012125,Fentanyl Citrate,2580-12-23,1.0
+3014,DRUG19012125,Fentanyl Citrate,2580-12-20,1.0
+3014,DRUG19076953,Erythromycin 0.005 MG/MG Ophthalmic Ointment,2581-01-05,1.0
+3014,DRUG19077884,Sodium Acetate,2580-12-06,1.0
+3014,DRUG19077884,Sodium Acetate,2580-12-08,1.0
+3014,DRUG19009608,sterile water,2580-12-06,1.0
+3014,DRUG19009608,sterile water,2580-12-08,1.0
+3014,DRUG956874,Furosemide,2581-04-04,1.0
+3014,DRUG19077884,Sodium Acetate,2580-12-06,1.0
+3014,DRUG19077884,Sodium Acetate,2580-12-11,1.0
+3014,DRUG19076414,Potassium Acetate,2580-12-11,1.0
+3014,DRUG19009608,sterile water,2580-12-06,1.0
+3014,DRUG19095164,Cholecalciferol,2580-12-11,1.0
+3014,DRUG967823,Sodium Chloride,2581-01-14,1.0
+3014,DRUG19049105,Potassium Chloride,2581-01-14,1.0
+3014,DRUG19095164,Cholecalciferol,2581-01-14,1.0
+3014,DRUG956874,Furosemide,2580-12-17,1.0
+3014,DRUG19012125,Fentanyl Citrate,2580-12-18,1.0
+3014,DRUG791967,Lorazepam,2581-03-30,1.0
+3014,DRUG956874,Furosemide,2580-12-19,1.0
+3014,DRUG19049105,Potassium Chloride,2581-04-27,1.0
+3014,DRUG19012125,Fentanyl Citrate,2580-12-22,1.0
+3014,DRUG19012125,Fentanyl Citrate,2580-12-27,1.0
+3014,DRUG19008339,Vitamin A,2580-12-29,1.0
+3014,DRUG967823,Sodium Chloride,2581-01-13,1.0
+3014,DRUG19049105,Potassium Chloride,2581-01-13,1.0
+3014,DRUG19095164,Cholecalciferol,2581-01-13,1.0
+3014,DRUG967823,Sodium Chloride,2581-02-02,1.0
+3014,DRUG967823,Sodium Chloride,2581-01-15,1.0
+3014,DRUG19049105,Potassium Chloride,2581-01-15,1.0
+3014,DRUG19095164,Cholecalciferol,2581-01-15,1.0
+3014,DRUG19095164,Cholecalciferol,2581-02-02,1.0
+3014,DRUG967823,Sodium Chloride,2581-01-13,1.0
+3014,DRUG19049105,Potassium Chloride,2581-01-13,1.0
+3014,DRUG19095164,Cholecalciferol,2581-01-13,1.0
+3014,DRUG967823,Sodium Chloride,2581-03-30,1.0
+3014,DRUG19049105,Potassium Chloride,2581-03-30,1.0
+3014,DRUG19012125,Fentanyl Citrate,2580-12-21,1.0
+3014,DRUG19012125,Fentanyl Citrate,2580-12-24,1.0
+3014,DRUG19095164,Cholecalciferol,2581-03-30,1.0
+3014,DRUG19012125,Fentanyl Citrate,2580-12-27,1.0
+3014,DRUG40227400,veal allergenic extract,2581-01-05,1.0
+3014,DRUG967823,Sodium Chloride,2581-02-28,1.0
+3014,DRUG19049105,Potassium Chloride,2581-02-28,1.0
+3014,DRUG19077884,Sodium Acetate,2580-12-04,1.0
+3014,DRUG19009608,sterile water,2580-12-04,1.0
+3014,DRUG19095164,Cholecalciferol,2581-02-28,1.0
+3014,DRUG19077884,Sodium Acetate,2580-12-08,1.0
+3014,DRUG1337860,Dopamine,2580-12-09,1.0
+3014,DRUG19009608,sterile water,2580-12-08,1.0
+3014,DRUG1337860,Dopamine,2580-12-03,1.0
+3014,DRUG19049105,Potassium Chloride,2581-02-21,1.0
+3014,DRUG956874,Furosemide,2581-02-01,1.0
+3014,DRUG967823,Sodium Chloride,2581-04-25,1.0
+3014,DRUG19049105,Potassium Chloride,2581-04-25,1.0
+3014,DRUG19095164,Cholecalciferol,2581-04-25,1.0
+3014,DRUG967823,Sodium Chloride,2581-01-17,1.0
+3014,DRUG19049105,Potassium Chloride,2581-01-17,1.0
+3014,DRUG19012125,Fentanyl Citrate,2580-12-17,1.0
+3014,DRUG19095164,Cholecalciferol,2580-12-03,1.0
+3014,DRUG19095164,Cholecalciferol,2581-01-17,1.0
+3014,DRUG956874,Furosemide,2580-12-18,1.0
+3014,DRUG19012125,Fentanyl Citrate,2580-12-25,1.0
+3014,DRUG40227400,veal allergenic extract,2581-01-13,1.0
+3014,DRUG19077884,Sodium Acetate,2580-12-21,1.0
+3014,DRUG19012125,Fentanyl Citrate,2581-01-01,1.0
+3014,DRUG19077884,Sodium Acetate,2580-12-06,1.0
+3014,DRUG19009608,sterile water,2580-12-06,1.0
+3014,DRUG40227400,veal allergenic extract,2581-01-08,1.0
+3014,DRUG40227400,veal allergenic extract,2581-01-11,1.0
+3014,DRUG19049105,Potassium Chloride,2581-01-22,1.0
+3014,DRUG19095709,fenipentol,2580-12-03,1.0
+3014,DRUG19012125,Fentanyl Citrate,2580-12-31,1.0
+3014,DRUG19012125,Fentanyl Citrate,2581-01-02,1.0
+3014,DRUG19049105,Potassium Chloride,2581-01-26,1.0
+3014,DRUG19012125,Fentanyl Citrate,2580-12-30,1.0
+3014,DRUG967823,Sodium Chloride,2581-04-04,1.0
+3014,DRUG19049105,Potassium Chloride,2581-04-04,1.0
+3014,DRUG19012125,Fentanyl Citrate,2580-12-28,1.0
+3014,DRUG967823,Sodium Chloride,2580-12-28,1.0
+3014,DRUG19049105,Potassium Chloride,2580-12-28,1.0
+3014,DRUG19095164,Cholecalciferol,2580-12-28,1.0
+3014,DRUG19095164,Cholecalciferol,2581-04-04,1.0
+3014,DRUG19077884,Sodium Acetate,2580-12-07,1.0
+3014,DRUG19095709,fenipentol,2580-12-03,1.0
+3014,DRUG19009608,sterile water,2580-12-07,1.0
+3014,DRUG956874,Furosemide,2581-01-02,1.0
+3014,DRUG19049105,Potassium Chloride,2581-01-24,1.0
+3014,DRUG19095709,fenipentol,2580-12-04,1.0
+3014,DRUG910232,Cyclopentolate,2581-01-08,1.0
+3014,DRUG43012825,Nerve Growth Factor,2580-12-10,1.0
+3014,DRUG40227400,veal allergenic extract,2581-01-04,1.0
+3014,DRUG967823,Sodium Chloride,2580-12-08,1.0
+3014,DRUG19049105,Potassium Chloride,2580-12-08,1.0
+3014,DRUG19095164,Cholecalciferol,2580-12-08,1.0
+3014,DRUG967823,Sodium Chloride,2581-01-12,1.0
+3014,DRUG19049105,Potassium Chloride,2581-01-12,1.0
+3014,DRUG19095164,Cholecalciferol,2581-01-12,1.0
+3014,DRUG19077884,Sodium Acetate,2580-12-05,1.0
+3014,DRUG19012125,Fentanyl Citrate,2580-12-19,1.0
+3014,DRUG19009608,sterile water,2580-12-05,1.0
+3014,DRUG967823,Sodium Chloride,2581-01-24,1.0
+3014,DRUG910232,Cyclopentolate,2581-04-24,1.0
+3014,DRUG44785399,Zinc Oxide 0.2 MG/MG Paste [Critic-aid Skin],2581-04-25,1.0
+3014,DRUG19049105,Potassium Chloride,2581-03-13,1.0
+3014,DRUG967823,Sodium Chloride,2581-01-26,1.0
+3014,DRUG956874,Furosemide,2581-02-14,1.0
+3014,DRUG967823,Sodium Chloride,2581-03-08,1.0
+2293,DRUG19132909,Ciprofloxacin Hydrochloride,2850-11-30,1.0
+2293,DRUG19036781,Calcium Chloride,2862-12-01,1.0
+2293,DRUG19036781,Calcium Chloride,2862-12-02,1.0
+2293,DRUG19072153,Morphine Sulfate,2862-12-02,1.0
+2293,DIAG440649,Primary malignant neoplasm of head of pancreas,2862-11-30,1.0
+2293,DIAG433163,Deficiency of macronutrients,2862-11-30,1.0
+2293,DIAG433163,Deficiency of macronutrients,2863-10-10,1.0
+2293,DIAG435517,Acidosis,2862-11-30,1.0
+2293,DIAG441818,Hemangioma,2862-11-30,1.0
+2293,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2859-12-23,3.600
+2293,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2859-12-24,140.000
+2293,LAB3016723,Creatinine [Mass/volume] in Serum or Plasma,2859-04-12,0.500
+2293,LAB3013682,Urea nitrogen [Mass/volume] in Serum or Plasma,2862-11-15,7.000
+2293,LAB3004501,Glucose [Mass/volume] in Serum or Plasma,2862-11-15,82.000
+2293,LAB3000963,Hemoglobin [Mass/volume] in Blood,2850-10-09,13.300
+2293,LAB3026361,Erythrocytes [#/volume] in Blood,2850-10-11,4.450
+2293,LAB3010813,Leukocytes [#/volume] in Blood,2862-11-15,4.200
+2293,LAB3003785,Carcinoembryonic Ag [Mass/volume] in Serum or Plasma,2862-11-15,4.500
+2293,LAB3024561,Albumin [Mass/volume] in Serum or Plasma,2862-11-15,3.800
+2293,LAB3004905,Lipase [Enzymatic activity/volume] in Serum or Plasma,2862-11-15,22.000
+2293,LAB3004905,Lipase [Enzymatic activity/volume] in Serum or Plasma,2862-11-17,20.000
+2293,LAB3027597,Bilirubin.direct [Mass/volume] in Serum or Plasma,2865-06-15,1.400
+2293,LAB3024128,Bilirubin.total [Mass/volume] in Serum or Plasma,2865-06-16,2.400
+2293,LAB3016771,Amylase [Enzymatic activity/volume] in Serum or Plasma,2862-11-15,34.000
